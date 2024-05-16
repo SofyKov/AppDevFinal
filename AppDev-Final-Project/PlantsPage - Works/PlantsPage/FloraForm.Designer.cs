@@ -33,8 +33,6 @@
             this.btn_Tree = new System.Windows.Forms.Button();
             this.btn_Shrub = new System.Windows.Forms.Button();
             this.btn_Plants = new System.Windows.Forms.Button();
-            this.languagesComboBox = new System.Windows.Forms.ComboBox();
-            this.label1 = new System.Windows.Forms.Label();
             this.plantsPanel.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -42,8 +40,6 @@
             // 
             this.plantsPanel.BackColor = System.Drawing.Color.Transparent;
             resources.ApplyResources(this.plantsPanel, "plantsPanel");
-            this.plantsPanel.Controls.Add(this.label1);
-            this.plantsPanel.Controls.Add(this.languagesComboBox);
             this.plantsPanel.Controls.Add(this.btn_Tree);
             this.plantsPanel.Controls.Add(this.btn_Shrub);
             this.plantsPanel.Controls.Add(this.btn_Plants);
@@ -88,24 +84,6 @@
             this.btn_Plants.UseVisualStyleBackColor = false;
             this.btn_Plants.Click += new System.EventHandler(this.btn_Plants_Click);
             // 
-            // languagesComboBox
-            // 
-            this.languagesComboBox.FormattingEnabled = true;
-            this.languagesComboBox.Items.AddRange(new object[] {
-            resources.GetString("languagesComboBox.Items"),
-            resources.GetString("languagesComboBox.Items1"),
-            resources.GetString("languagesComboBox.Items2"),
-            resources.GetString("languagesComboBox.Items3")});
-            resources.ApplyResources(this.languagesComboBox, "languagesComboBox");
-            this.languagesComboBox.Name = "languagesComboBox";
-            this.languagesComboBox.SelectedIndexChanged += new System.EventHandler(this.languagesComboBox_SelectedIndexChanged);
-            // 
-            // label1
-            // 
-            resources.ApplyResources(this.label1, "label1");
-            this.label1.ForeColor = System.Drawing.Color.Indigo;
-            this.label1.Name = "label1";
-            // 
             // FloraForm
             // 
             resources.ApplyResources(this, "$this");
@@ -116,7 +94,6 @@
             this.Name = "FloraForm";
             this.TransparencyKey = System.Drawing.SystemColors.InactiveBorder;
             this.plantsPanel.ResumeLayout(false);
-            this.plantsPanel.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -127,8 +104,6 @@
         private System.Windows.Forms.Button btn_Tree;
         private System.Windows.Forms.Button btn_Shrub;
         private System.Windows.Forms.Button btn_Plants;
-        private System.Windows.Forms.ComboBox languagesComboBox;
-        private System.Windows.Forms.Label label1;
     }
 }
 

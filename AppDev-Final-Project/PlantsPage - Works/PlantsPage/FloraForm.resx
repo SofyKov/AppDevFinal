@@ -121,7 +121,7 @@
   <data name="plantsPanel.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAwwAAAKhCAYAAAD9iin/AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
-        wwAADsMBx2+oZAAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAP+NSURBVHhe7P2F
+        wgAADsIBFShKgAAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAP+NSURBVHhe7P2F
         d5xZlqcLf3/Cd++se+83Mz10e6aHenp6pmF6uqu6uqq6mLogK6ESnZnONDOzLdkW2LJkSbYssGyBLbDA
         QouZGULBTGIMyU76fXu/b4QUkkOZzszCzP2s9VsvBCgkWVXnyX32Of8fCIIgCIIgCIIgbIIIgyAIgiAI
         giAImyLCIAiCIAiCIAjCpogwCIIgCIIgCIKwKSIMgiAIgiAIgiBsigiDIAiCIAiCIAibIsIgCIIgCIIg
@@ -6885,70 +6885,6 @@
   <data name="plantsPanel.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
     <value>Stretch</value>
   </data>
-  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="label1.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="label1.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 9pt, style=Bold</value>
-  </data>
-  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>764, 44</value>
-  </data>
-  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>78, 15</value>
-  </data>
-  <data name="label1.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
-  <data name="label1.Text" xml:space="preserve">
-    <value>Languages</value>
-  </data>
-  <data name="&gt;&gt;label1.Name" xml:space="preserve">
-    <value>label1</value>
-  </data>
-  <data name="&gt;&gt;label1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
-    <value>plantsPanel</value>
-  </data>
-  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="languagesComboBox.Items" xml:space="preserve">
-    <value>French </value>
-  </data>
-  <data name="languagesComboBox.Items1" xml:space="preserve">
-    <value>English</value>
-  </data>
-  <data name="languagesComboBox.Items2" xml:space="preserve">
-    <value>Spanish</value>
-  </data>
-  <data name="languagesComboBox.Items3" xml:space="preserve">
-    <value>Portugese</value>
-  </data>
-  <data name="languagesComboBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>847, 42</value>
-  </data>
-  <data name="languagesComboBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>121, 21</value>
-  </data>
-  <data name="languagesComboBox.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;languagesComboBox.Name" xml:space="preserve">
-    <value>languagesComboBox</value>
-  </data>
-  <data name="&gt;&gt;languagesComboBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;languagesComboBox.Parent" xml:space="preserve">
-    <value>plantsPanel</value>
-  </data>
-  <data name="&gt;&gt;languagesComboBox.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
   <data name="btn_Tree.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
     <value>Flat</value>
   </data>
@@ -6961,6 +6897,7 @@
   <data name="btn_Tree.Size" type="System.Drawing.Size, System.Drawing">
     <value>199, 128</value>
   </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="btn_Tree.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
   </data>
@@ -6977,7 +6914,7 @@
     <value>plantsPanel</value>
   </data>
   <data name="&gt;&gt;btn_Tree.ZOrder" xml:space="preserve">
-    <value>2</value>
+    <value>0</value>
   </data>
   <data name="btn_Shrub.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
     <value>Flat</value>
@@ -7007,7 +6944,7 @@
     <value>plantsPanel</value>
   </data>
   <data name="&gt;&gt;btn_Shrub.ZOrder" xml:space="preserve">
-    <value>3</value>
+    <value>1</value>
   </data>
   <data name="btn_Plants.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
     <value>Flat</value>
@@ -7037,7 +6974,7 @@
     <value>plantsPanel</value>
   </data>
   <data name="&gt;&gt;btn_Plants.ZOrder" xml:space="preserve">
-    <value>4</value>
+    <value>2</value>
   </data>
   <data name="plantsPanel.Location" type="System.Drawing.Point, System.Drawing">
     <value>-1, 60</value>

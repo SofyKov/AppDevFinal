@@ -36,30 +36,5 @@ namespace PlantsPage
             TreePage treePage = new TreePage();   
             treePage.ShowDialog();
         }
-
-        private void languagesComboBox_SelectedIndexChanged(object sender, EventArgs e)
-        {
-            var changeLanguage = new ChangingLanguages();
-
-            switch (languagesComboBox.SelectedIndex)
-            {
-                case 0:
-                    changeLanguage.UpdateConfig("language", "fr-CA");
-                    Application.Restart();
-                    break;
-                case 1:
-                    changeLanguage.UpdateConfig("language", "en");
-                    Application.Restart();
-                    break;
-                case 2:
-                    changeLanguage.UpdateConfig("language", "es-MX");
-                    Application.Restart();
-                    break;
-                case 3:
-                    changeLanguage.UpdateConfig("language", "pt-PT");
-                    Application.Restart();
-                    break;
-            }
-        }
     }
 }
