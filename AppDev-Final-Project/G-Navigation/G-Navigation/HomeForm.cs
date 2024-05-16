@@ -20,7 +20,7 @@ namespace G_Navigation
 
         private PictureVideoPage.PictureAndVideoForm PictureAndVideoForm = new PictureVideoPage.PictureAndVideoForm();
         private EarthPage.EarthForm EarthForm = new EarthPage.EarthForm();
-        //private MontreWild.AnimalMainForm animalForm = new MontreWild.AnimalMainForm();
+        private MontreWild.AnimalMainForm animalForm = new MontreWild.AnimalMainForm();
 
         public HomeForm()
         {
@@ -170,9 +170,9 @@ namespace G_Navigation
 
         private void Fauna_btn_Click(object sender, EventArgs e)
         {
-           // animalForm.Dock = DockStyle.Fill;
+            animalForm.Dock = DockStyle.Fill;
 
-            this.Controls.Add(encyclopediaForm);
+            this.Controls.Add(animalForm);
             HomeMainPanel.Visible = false;
 
             gamesForm.Visible = false;
@@ -182,7 +182,7 @@ namespace G_Navigation
             floraForm.Visible = false;
             EarthForm.Visible = false;
 
-            //animalForm.Show();
+            animalForm.Show();
         }
 
         private void Encyclopedia_btn_Click(object sender, EventArgs e)
@@ -238,7 +238,7 @@ namespace G_Navigation
 
         private void Earth_btn_Click(object sender, EventArgs e)
         {
-            EarthForm.Dock = DockStyle.None;
+            EarthForm.Dock = DockStyle.Fill;
             EarthForm.TopLevel = false;
             this.Controls.Add(EarthForm);
             HomeMainPanel.Visible = false;

@@ -35,6 +35,8 @@
             this.animalsLabel = new System.Windows.Forms.Label();
             this.languageLabel = new System.Windows.Forms.Label();
             this.languageComboBox = new System.Windows.Forms.ComboBox();
+            this.mainPanel = new System.Windows.Forms.Panel();
+            this.mainPanel.SuspendLayout();
             this.SuspendLayout();
             // 
             // mammalButton
@@ -80,20 +82,27 @@
             this.languageComboBox.Name = "languageComboBox";
             this.languageComboBox.SelectedIndexChanged += new System.EventHandler(this.languageComboBox_SelectedIndexChanged);
             // 
+            // mainPanel
+            // 
+            this.mainPanel.Controls.Add(this.languageComboBox);
+            this.mainPanel.Controls.Add(this.mammalButton);
+            this.mainPanel.Controls.Add(this.languageLabel);
+            this.mainPanel.Controls.Add(this.birdButton);
+            this.mainPanel.Controls.Add(this.animalsLabel);
+            this.mainPanel.Controls.Add(this.otherButton);
+            resources.ApplyResources(this.mainPanel, "mainPanel");
+            this.mainPanel.Name = "mainPanel";
+            // 
             // AnimalMainForm
             // 
             resources.ApplyResources(this, "$this");
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
-            this.Controls.Add(this.languageComboBox);
-            this.Controls.Add(this.languageLabel);
-            this.Controls.Add(this.animalsLabel);
-            this.Controls.Add(this.otherButton);
-            this.Controls.Add(this.birdButton);
-            this.Controls.Add(this.mammalButton);
+            this.Controls.Add(this.mainPanel);
             this.Name = "AnimalMainForm";
+            this.mainPanel.ResumeLayout(false);
+            this.mainPanel.PerformLayout();
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
@@ -105,6 +114,7 @@
         private System.Windows.Forms.Label animalsLabel;
         private System.Windows.Forms.Label languageLabel;
         private System.Windows.Forms.ComboBox languageComboBox;
+        private System.Windows.Forms.Panel mainPanel;
     }
 }
 

@@ -98,23 +98,23 @@
             // 
             // languageComboBox
             // 
-            resources.ApplyResources(this.languageComboBox, "languageComboBox");
             this.languageComboBox.FormattingEnabled = true;
             this.languageComboBox.Items.AddRange(new object[] {
             resources.GetString("languageComboBox.Items"),
             resources.GetString("languageComboBox.Items1"),
             resources.GetString("languageComboBox.Items2"),
             resources.GetString("languageComboBox.Items3")});
+            resources.ApplyResources(this.languageComboBox, "languageComboBox");
             this.languageComboBox.Name = "languageComboBox";
             this.languageComboBox.SelectedIndexChanged += new System.EventHandler(this.languageComboBox_SelectedIndexChanged);
             // 
             // generalPanel
             // 
-            resources.ApplyResources(this.generalPanel, "generalPanel");
             this.generalPanel.Controls.Add(this.backButton);
             this.generalPanel.Controls.Add(this.generalInfoLabel);
             this.generalPanel.Controls.Add(this.generalInfoTextBox);
             this.generalPanel.Controls.Add(this.generalPictureBox);
+            resources.ApplyResources(this.generalPanel, "generalPanel");
             this.generalPanel.Name = "generalPanel";
             // 
             // backButton
@@ -131,20 +131,19 @@
             // 
             // generalInfoTextBox
             // 
-            resources.ApplyResources(this.generalInfoTextBox, "generalInfoTextBox");
             this.generalInfoTextBox.BackColor = System.Drawing.SystemColors.InactiveCaption;
+            resources.ApplyResources(this.generalInfoTextBox, "generalInfoTextBox");
             this.generalInfoTextBox.Name = "generalInfoTextBox";
             // 
             // generalPictureBox
             // 
-            resources.ApplyResources(this.generalPictureBox, "generalPictureBox");
             this.generalPictureBox.Image = global::EarthPage.Properties.Resources.earth2;
+            resources.ApplyResources(this.generalPictureBox, "generalPictureBox");
             this.generalPictureBox.Name = "generalPictureBox";
             this.generalPictureBox.TabStop = false;
             // 
             // issuesPanel
             // 
-            resources.ApplyResources(this.issuesPanel, "issuesPanel");
             this.issuesPanel.Controls.Add(this.instructionLabel);
             this.issuesPanel.Controls.Add(this.infoRichTextBox);
             this.issuesPanel.Controls.Add(this.getInfoButton);
@@ -153,6 +152,7 @@
             this.issuesPanel.Controls.Add(this.issueTextBox);
             this.issuesPanel.Controls.Add(this.backButton2);
             this.issuesPanel.Controls.Add(this.issuesPictureBox);
+            resources.ApplyResources(this.issuesPanel, "issuesPanel");
             this.issuesPanel.Name = "issuesPanel";
             // 
             // instructionLabel
@@ -196,14 +196,13 @@
             // 
             // issuesPictureBox
             // 
-            resources.ApplyResources(this.issuesPictureBox, "issuesPictureBox");
             this.issuesPictureBox.Image = global::EarthPage.Properties.Resources.earth3;
+            resources.ApplyResources(this.issuesPictureBox, "issuesPictureBox");
             this.issuesPictureBox.Name = "issuesPictureBox";
             this.issuesPictureBox.TabStop = false;
             // 
             // solutionsPanel
             // 
-            resources.ApplyResources(this.solutionsPanel, "solutionsPanel");
             this.solutionsPanel.Controls.Add(this.label5);
             this.solutionsPanel.Controls.Add(this.label4);
             this.solutionsPanel.Controls.Add(this.label3);
@@ -215,6 +214,7 @@
             this.solutionsPanel.Controls.Add(this.bioTextBox);
             this.solutionsPanel.Controls.Add(this.climateChangeTextBox);
             this.solutionsPanel.Controls.Add(this.backButton3);
+            resources.ApplyResources(this.solutionsPanel, "solutionsPanel");
             this.solutionsPanel.Name = "solutionsPanel";
             // 
             // label5
@@ -276,8 +276,8 @@
             // 
             // earthPictureBox
             // 
-            resources.ApplyResources(this.earthPictureBox, "earthPictureBox");
             this.earthPictureBox.Image = global::EarthPage.Properties.Resources.earth;
+            resources.ApplyResources(this.earthPictureBox, "earthPictureBox");
             this.earthPictureBox.Name = "earthPictureBox";
             this.earthPictureBox.TabStop = false;
             // 

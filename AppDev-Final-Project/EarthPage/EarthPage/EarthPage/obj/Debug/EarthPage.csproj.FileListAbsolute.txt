@@ -17,3 +17,22 @@ C:\Users\emmas\source\repos\AppDev\EarthPage\EarthPage\obj\Debug\EarthPage.Earth
 C:\Users\emmas\source\repos\AppDev\EarthPage\EarthPage\obj\Debug\EarthPage.EarthForm.pt-PT.resources
 C:\Users\emmas\source\repos\AppDev\EarthPage\EarthPage\obj\Debug\es-MX\EarthPage.resources.dll
 C:\Users\emmas\source\repos\AppDev\EarthPage\EarthPage\obj\Debug\pt-PT\EarthPage.resources.dll
+C:\Users\grech\OneDrive\Desktop\USE THIS\AppDevFinal\AppDev-Final-Project\EarthPage\EarthPage\EarthPage\bin\Debug\EarthPage.exe.config
+C:\Users\grech\OneDrive\Desktop\USE THIS\AppDevFinal\AppDev-Final-Project\EarthPage\EarthPage\EarthPage\bin\Debug\EarthPage.exe
+C:\Users\grech\OneDrive\Desktop\USE THIS\AppDevFinal\AppDev-Final-Project\EarthPage\EarthPage\EarthPage\bin\Debug\EarthPage.pdb
+C:\Users\grech\OneDrive\Desktop\USE THIS\AppDevFinal\AppDev-Final-Project\EarthPage\EarthPage\EarthPage\bin\Debug\es-MX\EarthPage.resources.dll
+C:\Users\grech\OneDrive\Desktop\USE THIS\AppDevFinal\AppDev-Final-Project\EarthPage\EarthPage\EarthPage\bin\Debug\fr-CA\EarthPage.resources.dll
+C:\Users\grech\OneDrive\Desktop\USE THIS\AppDevFinal\AppDev-Final-Project\EarthPage\EarthPage\EarthPage\bin\Debug\pt-PT\EarthPage.resources.dll
+C:\Users\grech\OneDrive\Desktop\USE THIS\AppDevFinal\AppDev-Final-Project\EarthPage\EarthPage\EarthPage\obj\Debug\EarthPage.csproj.AssemblyReference.cache
+C:\Users\grech\OneDrive\Desktop\USE THIS\AppDevFinal\AppDev-Final-Project\EarthPage\EarthPage\EarthPage\obj\Debug\EarthPage.EarthForm.resources
+C:\Users\grech\OneDrive\Desktop\USE THIS\AppDevFinal\AppDev-Final-Project\EarthPage\EarthPage\EarthPage\obj\Debug\EarthPage.Properties.Resources.resources
+C:\Users\grech\OneDrive\Desktop\USE THIS\AppDevFinal\AppDev-Final-Project\EarthPage\EarthPage\EarthPage\obj\Debug\EarthPage.EarthForm.es-MX.resources
+C:\Users\grech\OneDrive\Desktop\USE THIS\AppDevFinal\AppDev-Final-Project\EarthPage\EarthPage\EarthPage\obj\Debug\EarthPage.EarthForm.fr-CA.resources
+C:\Users\grech\OneDrive\Desktop\USE THIS\AppDevFinal\AppDev-Final-Project\EarthPage\EarthPage\EarthPage\obj\Debug\EarthPage.EarthForm.pt-PT.resources
+C:\Users\grech\OneDrive\Desktop\USE THIS\AppDevFinal\AppDev-Final-Project\EarthPage\EarthPage\EarthPage\obj\Debug\EarthPage.csproj.GenerateResource.cache
+C:\Users\grech\OneDrive\Desktop\USE THIS\AppDevFinal\AppDev-Final-Project\EarthPage\EarthPage\EarthPage\obj\Debug\EarthPage.csproj.CoreCompileInputs.cache
+C:\Users\grech\OneDrive\Desktop\USE THIS\AppDevFinal\AppDev-Final-Project\EarthPage\EarthPage\EarthPage\obj\Debug\es-MX\EarthPage.resources.dll
+C:\Users\grech\OneDrive\Desktop\USE THIS\AppDevFinal\AppDev-Final-Project\EarthPage\EarthPage\EarthPage\obj\Debug\fr-CA\EarthPage.resources.dll
+C:\Users\grech\OneDrive\Desktop\USE THIS\AppDevFinal\AppDev-Final-Project\EarthPage\EarthPage\EarthPage\obj\Debug\pt-PT\EarthPage.resources.dll
+C:\Users\grech\OneDrive\Desktop\USE THIS\AppDevFinal\AppDev-Final-Project\EarthPage\EarthPage\EarthPage\obj\Debug\EarthPage.exe
+C:\Users\grech\OneDrive\Desktop\USE THIS\AppDevFinal\AppDev-Final-Project\EarthPage\EarthPage\EarthPage\obj\Debug\EarthPage.pdb

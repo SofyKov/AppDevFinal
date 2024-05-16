@@ -23,6 +23,8 @@ namespace MontreWild
         
         public Birds()
         {
+            this.TopLevel = false;
+
             InitializeComponent();
             birdPictureBox.Image = (Image)(Properties.Resources.ResourceManager.GetObject("birds"));
         }

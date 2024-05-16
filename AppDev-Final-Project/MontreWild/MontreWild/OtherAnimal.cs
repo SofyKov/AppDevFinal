@@ -22,6 +22,8 @@ namespace MontreWild
 
         public OtherAnimal()
         {
+            this.TopLevel = false;
+
             InitializeComponent();
            otherPictureBox.Image = (Image)(Properties.Resources.ResourceManager.GetObject("other"));
         }

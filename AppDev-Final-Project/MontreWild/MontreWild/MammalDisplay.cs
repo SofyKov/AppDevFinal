@@ -21,6 +21,8 @@ namespace MontreWild
         string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\\MontreWildDB.mdf;Integrated Security=True;Connect Timeout=30;Encrypt=False";
         public MammalDisplay()
         {
+            this.TopLevel = false;
+
             InitializeComponent();
             animalsPictureBox.Image = (Image)(Properties.Resources.ResourceManager.GetObject("mammals"));
         }
