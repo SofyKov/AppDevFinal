@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emmas\\source\\repos\\AppDev\\PictureVideoPage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59EA9AE3-2FD1-44F3-A7B4-07DBA4B052DF}|PictureVideoPage\\PictureVideoPage.csproj|C:\\Users\\emmas\\source\\repos\\AppDev\\PictureVideoPage\\picturevideopage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59EA9AE3-2FD1-44F3-A7B4-07DBA4B052DF}|PictureVideoPage\\PictureVideoPage.csproj|solutionrelative:picturevideopage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59EA9AE3-2FD1-44F3-A7B4-07DBA4B052DF}|PictureVideoPage\\PictureVideoPage.csproj|c:\\users\\emmas\\source\\repos\\appdev\\picturevideopage\\picturevideopage\\changelanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59EA9AE3-2FD1-44F3-A7B4-07DBA4B052DF}|PictureVideoPage\\PictureVideoPage.csproj|solutionrelative:picturevideopage\\changelanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|PictureVideoPage||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59EA9AE3-2FD1-44F3-A7B4-07DBA4B052DF}|PictureVideoPage\\PictureVideoPage.csproj|C:\\Users\\emmas\\source\\repos\\AppDev\\PictureVideoPage\\picturevideopage\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59EA9AE3-2FD1-44F3-A7B4-07DBA4B052DF}|PictureVideoPage\\PictureVideoPage.csproj|solutionrelative:picturevideopage\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59EA9AE3-2FD1-44F3-A7B4-07DBA4B052DF}|PictureVideoPage\\PictureVideoPage.csproj|C:\\Users\\emmas\\source\\repos\\AppDev\\PictureVideoPage\\picturevideopage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59EA9AE3-2FD1-44F3-A7B4-07DBA4B052DF}|PictureVideoPage\\PictureVideoPage.csproj|solutionrelative:picturevideopage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59EA9AE3-2FD1-44F3-A7B4-07DBA4B052DF}|PictureVideoPage\\PictureVideoPage.csproj|C:\\Users\\emmas\\source\\repos\\AppDev\\PictureVideoPage\\picturevideopage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59EA9AE3-2FD1-44F3-A7B4-07DBA4B052DF}|PictureVideoPage\\PictureVideoPage.csproj|solutionrelative:picturevideopage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59EA9AE3-2FD1-44F3-A7B4-07DBA4B052DF}|PictureVideoPage\\PictureVideoPage.csproj|C:\\Users\\emmas\\source\\repos\\AppDev\\PictureVideoPage\\picturevideopage\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{59EA9AE3-2FD1-44F3-A7B4-07DBA4B052DF}|PictureVideoPage\\PictureVideoPage.csproj|solutionrelative:picturevideopage\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59EA9AE3-2FD1-44F3-A7B4-07DBA4B052DF}|PictureVideoPage\\PictureVideoPage.csproj|c:\\users\\emmas\\source\\repos\\appdev\\picturevideopage\\picturevideopage\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{59EA9AE3-2FD1-44F3-A7B4-07DBA4B052DF}|PictureVideoPage\\PictureVideoPage.csproj|solutionrelative:picturevideopage\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emmas\\source\\repos\\AppDev\\PictureVideoPage\\PictureVideoPage\\Program.cs",
+              "RelativeDocumentMoniker": "PictureVideoPage\\Program.cs",
+              "ToolTip": "C:\\Users\\emmas\\source\\repos\\AppDev\\PictureVideoPage\\PictureVideoPage\\Program.cs",
+              "RelativeToolTip": "PictureVideoPage\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T01:14:34.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\emmas\\source\\repos\\AppDev\\PictureVideoPage\\PictureVideoPage\\Form1.cs",
+              "RelativeDocumentMoniker": "PictureVideoPage\\Form1.cs",
+              "ToolTip": "C:\\Users\\emmas\\source\\repos\\AppDev\\PictureVideoPage\\PictureVideoPage\\Form1.cs [Design]",
+              "RelativeToolTip": "PictureVideoPage\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T20:14:32.42Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChangeLanguage.cs",
+              "DocumentMoniker": "C:\\Users\\emmas\\source\\repos\\AppDev\\PictureVideoPage\\PictureVideoPage\\ChangeLanguage.cs",
+              "RelativeDocumentMoniker": "PictureVideoPage\\ChangeLanguage.cs",
+              "ToolTip": "C:\\Users\\emmas\\source\\repos\\AppDev\\PictureVideoPage\\PictureVideoPage\\ChangeLanguage.cs",
+              "RelativeToolTip": "PictureVideoPage\\ChangeLanguage.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAvwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T01:15:05.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PictureVideoPage",
+              "DocumentMoniker": "C:\\Users\\emmas\\source\\repos\\AppDev\\PictureVideoPage\\PictureVideoPage\\PictureVideoPage.csproj",
+              "RelativeDocumentMoniker": "PictureVideoPage\\PictureVideoPage.csproj",
+              "ToolTip": "C:\\Users\\emmas\\source\\repos\\AppDev\\PictureVideoPage\\PictureVideoPage\\PictureVideoPage.csproj",
+              "RelativeToolTip": "PictureVideoPage\\PictureVideoPage.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-15T21:26:47.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\emmas\\source\\repos\\AppDev\\PictureVideoPage\\PictureVideoPage\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "PictureVideoPage\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\emmas\\source\\repos\\AppDev\\PictureVideoPage\\PictureVideoPage\\Form1.Designer.cs",
+              "RelativeToolTip": "PictureVideoPage\\Form1.Designer.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAowLcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T20:47:59.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\emmas\\source\\repos\\AppDev\\PictureVideoPage\\PictureVideoPage\\Form1.cs",
+              "RelativeDocumentMoniker": "PictureVideoPage\\Form1.cs",
+              "ToolTip": "C:\\Users\\emmas\\source\\repos\\AppDev\\PictureVideoPage\\PictureVideoPage\\Form1.cs",
+              "RelativeToolTip": "PictureVideoPage\\Form1.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAYwNQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T20:45:30.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\emmas\\source\\repos\\AppDev\\PictureVideoPage\\PictureVideoPage\\App.config",
+              "RelativeDocumentMoniker": "PictureVideoPage\\App.config",
+              "ToolTip": "C:\\Users\\emmas\\source\\repos\\AppDev\\PictureVideoPage\\PictureVideoPage\\App.config",
+              "RelativeToolTip": "PictureVideoPage\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-16T01:13:51.208Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

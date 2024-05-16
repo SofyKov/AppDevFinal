@@ -1,0 +1,51 @@
+C:\Users\grech\OneDrive\Desktop\sem_4\Application Development\AppDev-Final-Project\G-Navigation\G-Navigation\bin\Debug\G-Navigation.exe.config
+C:\Users\grech\OneDrive\Desktop\sem_4\Application Development\AppDev-Final-Project\G-Navigation\G-Navigation\bin\Debug\G-Navigation.exe
+C:\Users\grech\OneDrive\Desktop\sem_4\Application Development\AppDev-Final-Project\G-Navigation\G-Navigation\bin\Debug\G-Navigation.pdb
+C:\Users\grech\OneDrive\Desktop\sem_4\Application Development\AppDev-Final-Project\G-Navigation\G-Navigation\obj\Debug\G-Navigation.csproj.AssemblyReference.cache
+C:\Users\grech\OneDrive\Desktop\sem_4\Application Development\AppDev-Final-Project\G-Navigation\G-Navigation\obj\Debug\G_Navigation.Properties.Resources.resources
+C:\Users\grech\OneDrive\Desktop\sem_4\Application Development\AppDev-Final-Project\G-Navigation\G-Navigation\obj\Debug\G-Navigation.csproj.GenerateResource.cache
+C:\Users\grech\OneDrive\Desktop\sem_4\Application Development\AppDev-Final-Project\G-Navigation\G-Navigation\obj\Debug\G-Navigation.csproj.CoreCompileInputs.cache
+C:\Users\grech\OneDrive\Desktop\sem_4\Application Development\AppDev-Final-Project\G-Navigation\G-Navigation\obj\Debug\G-Navigation.exe
+C:\Users\grech\OneDrive\Desktop\sem_4\Application Development\AppDev-Final-Project\G-Navigation\G-Navigation\obj\Debug\G-Navigation.pdb
+C:\Users\grech\OneDrive\Desktop\sem_4\Application Development\AppDev-Final-Project\G-Navigation\G-Navigation\obj\Debug\G_Navigation.GamesForm.resources
+C:\Users\grech\OneDrive\Desktop\sem_4\Application Development\AppDev-Final-Project\G-Navigation\G-Navigation\obj\Debug\G_Navigation.HomeForm.resources
+C:\Users\grech\OneDrive\Desktop\sem_4\Application Development\AppDev-Final-Project\G-Navigation\G-Navigation\bin\Debug\Navigation.dll
+C:\Users\grech\OneDrive\Desktop\sem_4\Application Development\AppDev-Final-Project\G-Navigation\G-Navigation\bin\Debug\Navigation.pdb
+C:\Users\grech\OneDrive\Desktop\sem_4\Application Development\AppDev-Final-Project\G-Navigation\G-Navigation\bin\Debug\Navigation.dll.config
+C:\Users\grech\OneDrive\Desktop\sem_4\Application Development\AppDev-Final-Project\G-Navigation\G-Navigation\obj\Debug\G-Navigation.csproj.CopyComplete
+C:\Users\grech\OneDrive\Desktop\sem_4\Application Development\AppDev-Final-Project\G-Navigation\G-Navigation\obj\Debug\G_Navigation.EncyclopediaForm.resources
+C:\Users\grech\OneDrive\Desktop\sem_4\Application Development\AppDev-Final-Project\G-Navigation\G-Navigation\bin\Debug\MontreWildDB.mdf
+C:\Users\grech\OneDrive\Desktop\sem_4\Application Development\AppDev-Final-Project\G-Navigation\G-Navigation\bin\Debug\MontreWildDB_log.ldf
+C:\Users\grech\OneDrive\Desktop\sem_4\Application Development\AppDev-Final-Project\G-Navigation\G-Navigation\obj\Debug\G_Navigation.AboutUsForm.resources
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\G-Navigation\G-Navigation\bin\Debug\MontreWildDB.mdf
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\G-Navigation\G-Navigation\bin\Debug\MontreWildDB_log.ldf
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\G-Navigation\G-Navigation\bin\Debug\G-Navigation.exe.config
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\G-Navigation\G-Navigation\bin\Debug\G-Navigation.exe
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\G-Navigation\G-Navigation\bin\Debug\G-Navigation.pdb
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\G-Navigation\G-Navigation\bin\Debug\Navigation.dll
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\G-Navigation\G-Navigation\bin\Debug\Navigation.pdb
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\G-Navigation\G-Navigation\bin\Debug\Navigation.dll.config
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\G-Navigation\G-Navigation\obj\Debug\G-Navigation.csproj.AssemblyReference.cache
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\G-Navigation\G-Navigation\obj\Debug\G_Navigation.EncyclopediaForm.resources
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\G-Navigation\G-Navigation\obj\Debug\G_Navigation.AboutUsForm.resources
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\G-Navigation\G-Navigation\obj\Debug\G_Navigation.GamesForm.resources
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\G-Navigation\G-Navigation\obj\Debug\G_Navigation.HomeForm.resources
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\G-Navigation\G-Navigation\obj\Debug\G_Navigation.Properties.Resources.resources
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\G-Navigation\G-Navigation\obj\Debug\G-Navigation.csproj.GenerateResource.cache
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\G-Navigation\G-Navigation\obj\Debug\G-Navigation.csproj.CoreCompileInputs.cache
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\G-Navigation\G-Navigation\obj\Debug\G-Navigation.csproj.CopyComplete
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\G-Navigation\G-Navigation\obj\Debug\G-Navigation.exe
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\G-Navigation\G-Navigation\obj\Debug\G-Navigation.pdb
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\G-Navigation\G-Navigation\bin\Debug\PlantsPage.pdb
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\G-Navigation\G-Navigation\bin\Debug\PlantsPage.exe.config
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\G-Navigation\G-Navigation\bin\Debug\fr\PlantsPage.resources.dll
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\G-Navigation\G-Navigation\bin\Debug\PlantsPage.exe
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\G-Navigation\G-Navigation\bin\Debug\es-MX\PlantsPage.resources.dll
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\G-Navigation\G-Navigation\bin\Debug\fr-CA\PlantsPage.resources.dll
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\G-Navigation\G-Navigation\bin\Debug\pt-PT\PlantsPage.resources.dll
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\G-Navigation\G-Navigation\bin\Debug\PictureVideoPage.exe
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\G-Navigation\G-Navigation\bin\Debug\PictureVideoPage.pdb
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\G-Navigation\G-Navigation\bin\Debug\PictureVideoPage.exe.config
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\G-Navigation\G-Navigation\bin\Debug\es-MX\PictureVideoPage.resources.dll
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\G-Navigation\G-Navigation\bin\Debug\fr-CA\PictureVideoPage.resources.dll
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\G-Navigation\G-Navigation\bin\Debug\pt-PT\PictureVideoPage.resources.dll

@@ -1,0 +1,1053 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="videoLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="videoLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Modern No. 20, 19.8pt, style=Bold</value>
+  </data>
+  <data name="videoLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>534, 1344</value>
+  </data>
+  <data name="videoLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>142, 34</value>
+  </data>
+  <data name="videoLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="videoLabel.Text" xml:space="preserve">
+    <value>VIDEOS</value>
+  </data>
+  <data name="&gt;&gt;videoLabel.Name" xml:space="preserve">
+    <value>videoLabel</value>
+  </data>
+  <data name="&gt;&gt;videoLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;videoLabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;videoLabel.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="goose.Location" type="System.Drawing.Point, System.Drawing">
+    <value>341, 43</value>
+  </data>
+  <data name="goose.Size" type="System.Drawing.Size, System.Drawing">
+    <value>273, 120</value>
+  </data>
+  <data name="goose.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;goose.Name" xml:space="preserve">
+    <value>goose</value>
+  </data>
+  <data name="&gt;&gt;goose.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;goose.Parent" xml:space="preserve">
+    <value>picturePanel</value>
+  </data>
+  <data name="&gt;&gt;goose.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="hyssops.Location" type="System.Drawing.Point, System.Drawing">
+    <value>341, 813</value>
+  </data>
+  <data name="hyssops.Size" type="System.Drawing.Size, System.Drawing">
+    <value>568, 228</value>
+  </data>
+  <data name="hyssops.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;hyssops.Name" xml:space="preserve">
+    <value>hyssops</value>
+  </data>
+  <data name="&gt;&gt;hyssops.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;hyssops.Parent" xml:space="preserve">
+    <value>picturePanel</value>
+  </data>
+  <data name="&gt;&gt;hyssops.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="raspberry.Location" type="System.Drawing.Point, System.Drawing">
+    <value>43, 699</value>
+  </data>
+  <data name="raspberry.Size" type="System.Drawing.Size, System.Drawing">
+    <value>273, 342</value>
+  </data>
+  <data name="raspberry.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;raspberry.Name" xml:space="preserve">
+    <value>raspberry</value>
+  </data>
+  <data name="&gt;&gt;raspberry.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;raspberry.Parent" xml:space="preserve">
+    <value>picturePanel</value>
+  </data>
+  <data name="&gt;&gt;raspberry.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="salamander.Location" type="System.Drawing.Point, System.Drawing">
+    <value>341, 454</value>
+  </data>
+  <data name="salamander.Size" type="System.Drawing.Size, System.Drawing">
+    <value>568, 342</value>
+  </data>
+  <data name="salamander.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;salamander.Name" xml:space="preserve">
+    <value>salamander</value>
+  </data>
+  <data name="&gt;&gt;salamander.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;salamander.Parent" xml:space="preserve">
+    <value>picturePanel</value>
+  </data>
+  <data name="&gt;&gt;salamander.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="groundHog.Location" type="System.Drawing.Point, System.Drawing">
+    <value>43, 371</value>
+  </data>
+  <data name="groundHog.Size" type="System.Drawing.Size, System.Drawing">
+    <value>273, 294</value>
+  </data>
+  <data name="groundHog.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;groundHog.Name" xml:space="preserve">
+    <value>groundHog</value>
+  </data>
+  <data name="&gt;&gt;groundHog.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groundHog.Parent" xml:space="preserve">
+    <value>picturePanel</value>
+  </data>
+  <data name="&gt;&gt;groundHog.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="deer.Location" type="System.Drawing.Point, System.Drawing">
+    <value>636, 43</value>
+  </data>
+  <data name="deer.Size" type="System.Drawing.Size, System.Drawing">
+    <value>273, 192</value>
+  </data>
+  <data name="deer.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;deer.Name" xml:space="preserve">
+    <value>deer</value>
+  </data>
+  <data name="&gt;&gt;deer.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;deer.Parent" xml:space="preserve">
+    <value>picturePanel</value>
+  </data>
+  <data name="&gt;&gt;deer.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="bloodRoot.Location" type="System.Drawing.Point, System.Drawing">
+    <value>341, 179</value>
+  </data>
+  <data name="bloodRoot.Size" type="System.Drawing.Size, System.Drawing">
+    <value>273, 251</value>
+  </data>
+  <data name="bloodRoot.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;bloodRoot.Name" xml:space="preserve">
+    <value>bloodRoot</value>
+  </data>
+  <data name="&gt;&gt;bloodRoot.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;bloodRoot.Parent" xml:space="preserve">
+    <value>picturePanel</value>
+  </data>
+  <data name="&gt;&gt;bloodRoot.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="silverMaple.Location" type="System.Drawing.Point, System.Drawing">
+    <value>636, 270</value>
+  </data>
+  <data name="silverMaple.Size" type="System.Drawing.Size, System.Drawing">
+    <value>273, 160</value>
+  </data>
+  <data name="silverMaple.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;silverMaple.Name" xml:space="preserve">
+    <value>silverMaple</value>
+  </data>
+  <data name="&gt;&gt;silverMaple.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;silverMaple.Parent" xml:space="preserve">
+    <value>picturePanel</value>
+  </data>
+  <data name="&gt;&gt;silverMaple.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="pigeonImage.Location" type="System.Drawing.Point, System.Drawing">
+    <value>43, 43</value>
+  </data>
+  <data name="pigeonImage.Size" type="System.Drawing.Size, System.Drawing">
+    <value>273, 294</value>
+  </data>
+  <data name="pigeonImage.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;pigeonImage.Name" xml:space="preserve">
+    <value>pigeonImage</value>
+  </data>
+  <data name="&gt;&gt;pigeonImage.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pigeonImage.Parent" xml:space="preserve">
+    <value>picturePanel</value>
+  </data>
+  <data name="&gt;&gt;pigeonImage.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="picturePanel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>136, 229</value>
+  </data>
+  <data name="picturePanel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>946, 1076</value>
+  </data>
+  <data name="picturePanel.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;picturePanel.Name" xml:space="preserve">
+    <value>picturePanel</value>
+  </data>
+  <data name="&gt;&gt;picturePanel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;picturePanel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;picturePanel.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="pictureLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="pictureLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Modern No. 20, 19.8pt, style=Bold</value>
+  </data>
+  <data name="pictureLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>541, 167</value>
+  </data>
+  <data name="pictureLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>164, 34</value>
+  </data>
+  <data name="pictureLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="pictureLabel.Text" xml:space="preserve">
+    <value>PICTURE</value>
+  </data>
+  <data name="&gt;&gt;pictureLabel.Name" xml:space="preserve">
+    <value>pictureLabel</value>
+  </data>
+  <data name="&gt;&gt;pictureLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pictureLabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pictureLabel.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="hyssopsPictureBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>122, 103</value>
+  </data>
+  <data name="hyssopsPictureBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>866, 320</value>
+  </data>
+  <data name="hyssopsPictureBox.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="hyssopsPictureBox.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;hyssopsPictureBox.Name" xml:space="preserve">
+    <value>hyssopsPictureBox</value>
+  </data>
+  <data name="&gt;&gt;hyssopsPictureBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;hyssopsPictureBox.Parent" xml:space="preserve">
+    <value>biggerImagePanel</value>
+  </data>
+  <data name="&gt;&gt;hyssopsPictureBox.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="goosePictureBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>108, 120</value>
+  </data>
+  <data name="goosePictureBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>868, 320</value>
+  </data>
+  <data name="goosePictureBox.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="goosePictureBox.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;goosePictureBox.Name" xml:space="preserve">
+    <value>goosePictureBox</value>
+  </data>
+  <data name="&gt;&gt;goosePictureBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;goosePictureBox.Parent" xml:space="preserve">
+    <value>biggerImagePanel</value>
+  </data>
+  <data name="&gt;&gt;goosePictureBox.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="bloodrootPictureBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>108, 120</value>
+  </data>
+  <data name="bloodrootPictureBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>866, 320</value>
+  </data>
+  <data name="bloodrootPictureBox.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="bloodrootPictureBox.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;bloodrootPictureBox.Name" xml:space="preserve">
+    <value>bloodrootPictureBox</value>
+  </data>
+  <data name="&gt;&gt;bloodrootPictureBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;bloodrootPictureBox.Parent" xml:space="preserve">
+    <value>biggerImagePanel</value>
+  </data>
+  <data name="&gt;&gt;bloodrootPictureBox.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="raspberryPictureBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>350, 123</value>
+  </data>
+  <data name="raspberryPictureBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>389, 317</value>
+  </data>
+  <data name="raspberryPictureBox.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="raspberryPictureBox.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;raspberryPictureBox.Name" xml:space="preserve">
+    <value>raspberryPictureBox</value>
+  </data>
+  <data name="&gt;&gt;raspberryPictureBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;raspberryPictureBox.Parent" xml:space="preserve">
+    <value>biggerImagePanel</value>
+  </data>
+  <data name="&gt;&gt;raspberryPictureBox.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="pigeonPictureBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>110, 11</value>
+  </data>
+  <data name="pigeonPictureBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>866, 475</value>
+  </data>
+  <data name="pigeonPictureBox.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="pigeonPictureBox.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;pigeonPictureBox.Name" xml:space="preserve">
+    <value>pigeonPictureBox</value>
+  </data>
+  <data name="&gt;&gt;pigeonPictureBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pigeonPictureBox.Parent" xml:space="preserve">
+    <value>biggerImagePanel</value>
+  </data>
+  <data name="&gt;&gt;pigeonPictureBox.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="groundHogPictureBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>108, 8</value>
+  </data>
+  <data name="groundHogPictureBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>866, 478</value>
+  </data>
+  <data name="groundHogPictureBox.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="groundHogPictureBox.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;groundHogPictureBox.Name" xml:space="preserve">
+    <value>groundHogPictureBox</value>
+  </data>
+  <data name="&gt;&gt;groundHogPictureBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groundHogPictureBox.Parent" xml:space="preserve">
+    <value>biggerImagePanel</value>
+  </data>
+  <data name="&gt;&gt;groundHogPictureBox.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="salamaderPictureBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>129, 8</value>
+  </data>
+  <data name="salamaderPictureBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>808, 468</value>
+  </data>
+  <data name="salamaderPictureBox.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="salamaderPictureBox.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;salamaderPictureBox.Name" xml:space="preserve">
+    <value>salamaderPictureBox</value>
+  </data>
+  <data name="&gt;&gt;salamaderPictureBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;salamaderPictureBox.Parent" xml:space="preserve">
+    <value>biggerImagePanel</value>
+  </data>
+  <data name="&gt;&gt;salamaderPictureBox.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="deerPictureBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>110, 13</value>
+  </data>
+  <data name="deerPictureBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>866, 427</value>
+  </data>
+  <data name="deerPictureBox.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="deerPictureBox.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;deerPictureBox.Name" xml:space="preserve">
+    <value>deerPictureBox</value>
+  </data>
+  <data name="&gt;&gt;deerPictureBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;deerPictureBox.Parent" xml:space="preserve">
+    <value>biggerImagePanel</value>
+  </data>
+  <data name="&gt;&gt;deerPictureBox.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="mapleSilverPictureBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>293, 103</value>
+  </data>
+  <data name="mapleSilverPictureBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>509, 320</value>
+  </data>
+  <data name="mapleSilverPictureBox.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="mapleSilverPictureBox.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;mapleSilverPictureBox.Name" xml:space="preserve">
+    <value>mapleSilverPictureBox</value>
+  </data>
+  <data name="&gt;&gt;mapleSilverPictureBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;mapleSilverPictureBox.Parent" xml:space="preserve">
+    <value>biggerImagePanel</value>
+  </data>
+  <data name="&gt;&gt;mapleSilverPictureBox.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="pigeonBackButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>18, 463</value>
+  </data>
+  <data name="pigeonBackButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 23</value>
+  </data>
+  <data name="pigeonBackButton.TabIndex" type="System.Int32, mscorlib">
+    <value>18</value>
+  </data>
+  <data name="pigeonBackButton.Text" xml:space="preserve">
+    <value>Back</value>
+  </data>
+  <data name="&gt;&gt;pigeonBackButton.Name" xml:space="preserve">
+    <value>pigeonBackButton</value>
+  </data>
+  <data name="&gt;&gt;pigeonBackButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pigeonBackButton.Parent" xml:space="preserve">
+    <value>biggerImagePanel</value>
+  </data>
+  <data name="&gt;&gt;pigeonBackButton.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="bloodrootBackButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>18, 463</value>
+  </data>
+  <data name="bloodrootBackButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 23</value>
+  </data>
+  <data name="bloodrootBackButton.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="bloodrootBackButton.Text" xml:space="preserve">
+    <value>Back</value>
+  </data>
+  <data name="&gt;&gt;bloodrootBackButton.Name" xml:space="preserve">
+    <value>bloodrootBackButton</value>
+  </data>
+  <data name="&gt;&gt;bloodrootBackButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;bloodrootBackButton.Parent" xml:space="preserve">
+    <value>biggerImagePanel</value>
+  </data>
+  <data name="&gt;&gt;bloodrootBackButton.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="deerBackButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>18, 463</value>
+  </data>
+  <data name="deerBackButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 23</value>
+  </data>
+  <data name="deerBackButton.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="deerBackButton.Text" xml:space="preserve">
+    <value>Back</value>
+  </data>
+  <data name="&gt;&gt;deerBackButton.Name" xml:space="preserve">
+    <value>deerBackButton</value>
+  </data>
+  <data name="&gt;&gt;deerBackButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;deerBackButton.Parent" xml:space="preserve">
+    <value>biggerImagePanel</value>
+  </data>
+  <data name="&gt;&gt;deerBackButton.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="silverMapleBackButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>18, 463</value>
+  </data>
+  <data name="silverMapleBackButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 23</value>
+  </data>
+  <data name="silverMapleBackButton.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="silverMapleBackButton.Text" xml:space="preserve">
+    <value>Back</value>
+  </data>
+  <data name="&gt;&gt;silverMapleBackButton.Name" xml:space="preserve">
+    <value>silverMapleBackButton</value>
+  </data>
+  <data name="&gt;&gt;silverMapleBackButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;silverMapleBackButton.Parent" xml:space="preserve">
+    <value>biggerImagePanel</value>
+  </data>
+  <data name="&gt;&gt;silverMapleBackButton.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="groundHogBackButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>18, 463</value>
+  </data>
+  <data name="groundHogBackButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 23</value>
+  </data>
+  <data name="groundHogBackButton.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="groundHogBackButton.Text" xml:space="preserve">
+    <value>Back</value>
+  </data>
+  <data name="&gt;&gt;groundHogBackButton.Name" xml:space="preserve">
+    <value>groundHogBackButton</value>
+  </data>
+  <data name="&gt;&gt;groundHogBackButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groundHogBackButton.Parent" xml:space="preserve">
+    <value>biggerImagePanel</value>
+  </data>
+  <data name="&gt;&gt;groundHogBackButton.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="hyssopsBackButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>18, 463</value>
+  </data>
+  <data name="hyssopsBackButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 23</value>
+  </data>
+  <data name="hyssopsBackButton.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="hyssopsBackButton.Text" xml:space="preserve">
+    <value>Back</value>
+  </data>
+  <data name="hyssopsBackButton.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;hyssopsBackButton.Name" xml:space="preserve">
+    <value>hyssopsBackButton</value>
+  </data>
+  <data name="&gt;&gt;hyssopsBackButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;hyssopsBackButton.Parent" xml:space="preserve">
+    <value>biggerImagePanel</value>
+  </data>
+  <data name="&gt;&gt;hyssopsBackButton.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="salamanderbackButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>18, 463</value>
+  </data>
+  <data name="salamanderbackButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 23</value>
+  </data>
+  <data name="salamanderbackButton.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="salamanderbackButton.Text" xml:space="preserve">
+    <value>Back</value>
+  </data>
+  <data name="salamanderbackButton.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;salamanderbackButton.Name" xml:space="preserve">
+    <value>salamanderbackButton</value>
+  </data>
+  <data name="&gt;&gt;salamanderbackButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;salamanderbackButton.Parent" xml:space="preserve">
+    <value>biggerImagePanel</value>
+  </data>
+  <data name="&gt;&gt;salamanderbackButton.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <data name="raspberryBackButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>18, 463</value>
+  </data>
+  <data name="raspberryBackButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 23</value>
+  </data>
+  <data name="raspberryBackButton.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="raspberryBackButton.Text" xml:space="preserve">
+    <value>Back</value>
+  </data>
+  <data name="raspberryBackButton.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;raspberryBackButton.Name" xml:space="preserve">
+    <value>raspberryBackButton</value>
+  </data>
+  <data name="&gt;&gt;raspberryBackButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;raspberryBackButton.Parent" xml:space="preserve">
+    <value>biggerImagePanel</value>
+  </data>
+  <data name="&gt;&gt;raspberryBackButton.ZOrder" xml:space="preserve">
+    <value>16</value>
+  </data>
+  <data name="gooseBackButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>18, 463</value>
+  </data>
+  <data name="gooseBackButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 23</value>
+  </data>
+  <data name="gooseBackButton.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="gooseBackButton.Text" xml:space="preserve">
+    <value>Back</value>
+  </data>
+  <data name="gooseBackButton.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;gooseBackButton.Name" xml:space="preserve">
+    <value>gooseBackButton</value>
+  </data>
+  <data name="&gt;&gt;gooseBackButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;gooseBackButton.Parent" xml:space="preserve">
+    <value>biggerImagePanel</value>
+  </data>
+  <data name="&gt;&gt;gooseBackButton.ZOrder" xml:space="preserve">
+    <value>17</value>
+  </data>
+  <data name="biggerImagePanel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>82, 32</value>
+  </data>
+  <data name="biggerImagePanel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1120, 1590</value>
+  </data>
+  <data name="biggerImagePanel.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="biggerImagePanel.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;biggerImagePanel.Name" xml:space="preserve">
+    <value>biggerImagePanel</value>
+  </data>
+  <data name="&gt;&gt;biggerImagePanel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;biggerImagePanel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;biggerImagePanel.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="parcOmegaLinkLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="parcOmegaLinkLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Modern No. 20, 10.2pt</value>
+  </data>
+  <data name="parcOmegaLinkLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>54, 158</value>
+  </data>
+  <data name="parcOmegaLinkLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>119, 20</value>
+  </data>
+  <data name="parcOmegaLinkLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="parcOmegaLinkLabel.Text" xml:space="preserve">
+    <value>PARC OMEGA</value>
+  </data>
+  <data name="&gt;&gt;parcOmegaLinkLabel.Name" xml:space="preserve">
+    <value>parcOmegaLinkLabel</value>
+  </data>
+  <data name="&gt;&gt;parcOmegaLinkLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;parcOmegaLinkLabel.Parent" xml:space="preserve">
+    <value>videoPanel</value>
+  </data>
+  <data name="&gt;&gt;parcOmegaLinkLabel.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="animalEncountersLinkLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="animalEncountersLinkLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Modern No. 20, 10.2pt, style=Bold</value>
+  </data>
+  <data name="animalEncountersLinkLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>53, 105</value>
+  </data>
+  <data name="animalEncountersLinkLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>331, 20</value>
+  </data>
+  <data name="animalEncountersLinkLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="animalEncountersLinkLabel.Text" xml:space="preserve">
+    <value>INTERESTIN ANIMAL ENCOUNTERS
+</value>
+  </data>
+  <data name="&gt;&gt;animalEncountersLinkLabel.Name" xml:space="preserve">
+    <value>animalEncountersLinkLabel</value>
+  </data>
+  <data name="&gt;&gt;animalEncountersLinkLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;animalEncountersLinkLabel.Parent" xml:space="preserve">
+    <value>videoPanel</value>
+  </data>
+  <data name="&gt;&gt;animalEncountersLinkLabel.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="top10LinkLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="top10LinkLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Modern No. 20, 10.2pt, style=Bold</value>
+  </data>
+  <data name="top10LinkLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>53, 57</value>
+  </data>
+  <data name="top10LinkLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>262, 20</value>
+  </data>
+  <data name="top10LinkLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="top10LinkLabel.Text" xml:space="preserve">
+    <value>TOP 10 CANADIAN ANIMALS</value>
+  </data>
+  <data name="&gt;&gt;top10LinkLabel.Name" xml:space="preserve">
+    <value>top10LinkLabel</value>
+  </data>
+  <data name="&gt;&gt;top10LinkLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;top10LinkLabel.Parent" xml:space="preserve">
+    <value>videoPanel</value>
+  </data>
+  <data name="&gt;&gt;top10LinkLabel.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="videoPanel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>406, 1381</value>
+  </data>
+  <data name="videoPanel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>405, 253</value>
+  </data>
+  <data name="videoPanel.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;videoPanel.Name" xml:space="preserve">
+    <value>videoPanel</value>
+  </data>
+  <data name="&gt;&gt;videoPanel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;videoPanel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;videoPanel.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="languageComboBox.Items" xml:space="preserve">
+    <value>English</value>
+  </data>
+  <data name="languageComboBox.Items1" xml:space="preserve">
+    <value>French</value>
+  </data>
+  <data name="languageComboBox.Items2" xml:space="preserve">
+    <value>Spanish</value>
+  </data>
+  <data name="languageComboBox.Items3" xml:space="preserve">
+    <value>Portuguese</value>
+  </data>
+  <data name="languageComboBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1058, 91</value>
+  </data>
+  <data name="languageComboBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>121, 24</value>
+  </data>
+  <data name="languageComboBox.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="&gt;&gt;languageComboBox.Name" xml:space="preserve">
+    <value>languageComboBox</value>
+  </data>
+  <data name="&gt;&gt;languageComboBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;languageComboBox.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;languageComboBox.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="languageLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="languageLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>944, 93</value>
+  </data>
+  <data name="languageLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>68, 16</value>
+  </data>
+  <data name="languageLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="languageLabel.Text" xml:space="preserve">
+    <value>Language</value>
+  </data>
+  <data name="&gt;&gt;languageLabel.Name" xml:space="preserve">
+    <value>languageLabel</value>
+  </data>
+  <data name="&gt;&gt;languageLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;languageLabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;languageLabel.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>8, 16</value>
+  </data>
+  <data name="$this.AutoScroll" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>1325, 601</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Picture and Videos</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>PictureAndVideoForm</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+</root>

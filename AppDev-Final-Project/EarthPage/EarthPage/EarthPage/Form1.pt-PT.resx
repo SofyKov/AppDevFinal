@@ -1,0 +1,300 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="generalButton.Text" xml:space="preserve">
+    <value>Informações gerais</value>
+  </data>
+  <data name="issuesButton.Text" xml:space="preserve">
+    <value>Assuntos globais</value>
+  </data>
+  <data name="solutionButton.Text" xml:space="preserve">
+    <value>Soluções</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="languageLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>95, 20</value>
+  </data>
+  <data name="languageLabel.Text" xml:space="preserve">
+    <value>Linguagem</value>
+  </data>
+  <data name="languageComboBox.Items3" xml:space="preserve">
+    <value>Portuguese</value>
+  </data>
+  <data name="generalPanel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 1</value>
+  </data>
+  <data name="generalPanel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1164, 619</value>
+  </data>
+  <data name="generalInfoLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>86, 61</value>
+  </data>
+  <data name="generalInfoLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>244, 30</value>
+  </data>
+  <data name="generalInfoLabel.Text" xml:space="preserve">
+    <value>Informações gerais</value>
+  </data>
+  <data name="generalInfoTextBox.Text" xml:space="preserve">
+    <value>Posição no Sistema Solar: Terceiro planeta a partir do Sol
+
+Distância do Sol: Aproximadamente 93 milhões de milhas (150 milhões de quilômetros)
+
+Período Orbital: Aproximadamente 365,25 dias (um ano terrestre)
+
+Período de rotação: Aproximadamente 24 horas (um dia terrestre)
+
+Diâmetro Equatorial: Aproximadamente 12.742 quilômetros (7.918 milhas)
+
+Área de Superfície: Aproximadamente 510 milhões de quilômetros quadrados (197 milhões de milhas quadradas)
+
+Composição: Principalmente rocha e ferro com uma fina camada externa de solo e água
+
+Atmosfera: Composta principalmente por nitrogênio (78%) e oxigênio (21%) com vestígios de outros gases
+
+População: Aproximadamente 7,9 bilhões de pessoas (em 2022)
+
+Biodiversidade: lar de milhões de espécies de plantas, animais e microorganismos</value>
+  </data>
+  <data name="issuesPanel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>15, 1</value>
+  </data>
+  <data name="issuesPanel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1170, 616</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="instructionLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="instructionLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>187, 16</value>
+  </data>
+  <data name="instructionLabel.Text" xml:space="preserve">
+    <value>(digite exatamente como está)</value>
+  </data>
+  <data name="getInfoButton.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="getInfoButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>993, 51</value>
+  </data>
+  <data name="getInfoButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>101, 52</value>
+  </data>
+  <data name="getInfoButton.Text" xml:space="preserve">
+    <value>obter informação</value>
+  </data>
+  <data name="issuesRichTextxBox.Text" xml:space="preserve">
+    <value>DAS ALTERAÇÕES CLIMÁTICAS                             
+BIODIVERSITY LOSS
+WATER SCARCITY                              
+DEFORESTATION
+POLLUTION
+</value>
+  </data>
+  <data name="searchLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>541, 65</value>
+  </data>
+  <data name="searchLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>185, 20</value>
+  </data>
+  <data name="searchLabel.Text" xml:space="preserve">
+    <value>QUESTÃO GLOBAL::</value>
+  </data>
+  <data name="backButton2.Text" xml:space="preserve">
+    <value>voltar</value>
+  </data>
+  <data name="solutionsPanel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1, 1</value>
+  </data>
+  <data name="solutionsPanel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1170, 619</value>
+  </data>
+  <data name="label5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>118, 22</value>
+  </data>
+  <data name="label5.Text" xml:space="preserve">
+    <value>POLUIÇÃO</value>
+  </data>
+  <data name="label4.Text" xml:space="preserve">
+    <value>DESMATAMENTO</value>
+  </data>
+  <data name="label3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>217, 22</value>
+  </data>
+  <data name="label3.Text" xml:space="preserve">
+    <value>ESCASSEZ DE ÁGUA</value>
+  </data>
+  <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>319, 22</value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>PERDA DE BIODIVERSIDADE</value>
+  </data>
+  <data name="pollutionTextBox.Text" xml:space="preserve">
+    <value>Adoção de tecnologias limpas
+Melhoria dos Sistemas de Gestão de Resíduos
+Aplicação dos regulamentos de qualidade do ar
+Atualizando Instalações de Tratamento de Água
+Promoção de padrões de consumo sustentáveis</value>
+  </data>
+  <data name="defoTextBox.Text" xml:space="preserve">
+    <value>Fortalecer os esforços de proteção florestal
+Projetos de Reflorestamento e Florestação
+Práticas Sustentáveis de Manejo Florestal
+Políticas de Planejamento de Uso do Solo
+Reconhecimento dos direitos às terras indígenas</value>
+  </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>336, 22</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>DAS ALTERAÇÕES CLIMÁTICAS</value>
+  </data>
+  <data name="watertextBox.Text" xml:space="preserve">
+    <value>Medidas de Conservação da Água
+Gestão Sustentável da Água
+Investimento em infraestrutura hídrica
+Sistemas de captação de água da chuva
+Governança Hídrica e Medidas de Equidade</value>
+  </data>
+  <data name="bioTextBox.Text" xml:space="preserve">
+    <value>Estabelecer Áreas Protegidas
+Projetos de restauração de habitat
+Práticas Sustentáveis de Gestão de Terras
+Combater o comércio ilegal de vida selvagem
+Campanhas de Conscientização Pública e Educação</value>
+  </data>
+  <data name="climateChangeTextBox.Text" xml:space="preserve">
+    <value>Transição para Energia Renovável
+Medidas de Eficiência Energética
+Florestação e Reflorestamento
+Práticas Agrícolas Sustentáveis
+Cooperação Internacional em Ação Climática</value>
+  </data>
+  <data name="backButton3.Text" xml:space="preserve">
+    <value>Voltar</value>
+  </data>
+  <data name="label6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>132, 34</value>
+  </data>
+  <data name="label6.Text" xml:space="preserve">
+    <value>TERRA</value>
+  </data>
+</root>

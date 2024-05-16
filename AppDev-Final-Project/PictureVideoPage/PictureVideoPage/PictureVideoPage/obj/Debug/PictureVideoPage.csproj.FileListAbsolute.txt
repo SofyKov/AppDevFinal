@@ -1,0 +1,72 @@
+C:\Users\emmas\source\repos\AppDev\PictureVideoPage\PictureVideoPage\bin\Debug\PictureVideoPage.exe.config
+C:\Users\emmas\source\repos\AppDev\PictureVideoPage\PictureVideoPage\bin\Debug\PictureVideoPage.exe
+C:\Users\emmas\source\repos\AppDev\PictureVideoPage\PictureVideoPage\bin\Debug\PictureVideoPage.pdb
+C:\Users\emmas\source\repos\AppDev\PictureVideoPage\PictureVideoPage\obj\Debug\PictureVideoPage.csproj.AssemblyReference.cache
+C:\Users\emmas\source\repos\AppDev\PictureVideoPage\PictureVideoPage\obj\Debug\PictureVideoPage.PictureAndVideoForm.resources
+C:\Users\emmas\source\repos\AppDev\PictureVideoPage\PictureVideoPage\obj\Debug\PictureVideoPage.Properties.Resources.resources
+C:\Users\emmas\source\repos\AppDev\PictureVideoPage\PictureVideoPage\obj\Debug\PictureVideoPage.csproj.GenerateResource.cache
+C:\Users\emmas\source\repos\AppDev\PictureVideoPage\PictureVideoPage\obj\Debug\PictureVideoPage.csproj.CoreCompileInputs.cache
+C:\Users\emmas\source\repos\AppDev\PictureVideoPage\PictureVideoPage\obj\Debug\PictureVideoPage.exe
+C:\Users\emmas\source\repos\AppDev\PictureVideoPage\PictureVideoPage\obj\Debug\PictureVideoPage.pdb
+C:\Users\emmas\source\repos\AppDev\PictureVideoPage\PictureVideoPage\bin\Debug\Interop.WMPLib.dll
+C:\Users\emmas\source\repos\AppDev\PictureVideoPage\PictureVideoPage\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\emmas\source\repos\AppDev\PictureVideoPage\PictureVideoPage\obj\Debug\Interop.WMPLib.dll
+C:\Users\emmas\source\repos\AppDev\PictureVideoPage\PictureVideoPage\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\emmas\source\repos\AppDev\PictureVideoPage\PictureVideoPage\obj\Debug\PictureVideoPage.csproj.ResolveComReference.cache
+C:\Users\emmas\source\repos\AppDev\PictureVideoPage\PictureVideoPage\bin\Debug\es-MX\PictureVideoPage.resources.dll
+C:\Users\emmas\source\repos\AppDev\PictureVideoPage\PictureVideoPage\bin\Debug\fr-CA\PictureVideoPage.resources.dll
+C:\Users\emmas\source\repos\AppDev\PictureVideoPage\PictureVideoPage\bin\Debug\pt-PT\PictureVideoPage.resources.dll
+C:\Users\emmas\source\repos\AppDev\PictureVideoPage\PictureVideoPage\obj\Debug\PictureVideoPage.PictureAndVideoForm.es-MX.resources
+C:\Users\emmas\source\repos\AppDev\PictureVideoPage\PictureVideoPage\obj\Debug\PictureVideoPage.PictureAndVideoForm.fr-CA.resources
+C:\Users\emmas\source\repos\AppDev\PictureVideoPage\PictureVideoPage\obj\Debug\PictureVideoPage.PictureAndVideoForm.pt-PT.resources
+C:\Users\emmas\source\repos\AppDev\PictureVideoPage\PictureVideoPage\obj\Debug\es-MX\PictureVideoPage.resources.dll
+C:\Users\emmas\source\repos\AppDev\PictureVideoPage\PictureVideoPage\obj\Debug\fr-CA\PictureVideoPage.resources.dll
+C:\Users\emmas\source\repos\AppDev\PictureVideoPage\PictureVideoPage\obj\Debug\pt-PT\PictureVideoPage.resources.dll
+C:\temp\PictureVideoPage\PictureVideoPage\PictureVideoPage\bin\Debug\PictureVideoPage.exe.config
+C:\temp\PictureVideoPage\PictureVideoPage\PictureVideoPage\bin\Debug\PictureVideoPage.exe
+C:\temp\PictureVideoPage\PictureVideoPage\PictureVideoPage\bin\Debug\PictureVideoPage.pdb
+C:\temp\PictureVideoPage\PictureVideoPage\PictureVideoPage\bin\Debug\es-MX\PictureVideoPage.resources.dll
+C:\temp\PictureVideoPage\PictureVideoPage\PictureVideoPage\bin\Debug\fr-CA\PictureVideoPage.resources.dll
+C:\temp\PictureVideoPage\PictureVideoPage\PictureVideoPage\bin\Debug\pt-PT\PictureVideoPage.resources.dll
+C:\temp\PictureVideoPage\PictureVideoPage\PictureVideoPage\bin\Debug\Interop.WMPLib.dll
+C:\temp\PictureVideoPage\PictureVideoPage\PictureVideoPage\bin\Debug\AxInterop.WMPLib.dll
+C:\temp\PictureVideoPage\PictureVideoPage\PictureVideoPage\obj\Debug\PictureVideoPage.csproj.AssemblyReference.cache
+C:\temp\PictureVideoPage\PictureVideoPage\PictureVideoPage\obj\Debug\Interop.WMPLib.dll
+C:\temp\PictureVideoPage\PictureVideoPage\PictureVideoPage\obj\Debug\AxInterop.WMPLib.dll
+C:\temp\PictureVideoPage\PictureVideoPage\PictureVideoPage\obj\Debug\PictureVideoPage.csproj.ResolveComReference.cache
+C:\temp\PictureVideoPage\PictureVideoPage\PictureVideoPage\obj\Debug\PictureVideoPage.PictureAndVideoForm.resources
+C:\temp\PictureVideoPage\PictureVideoPage\PictureVideoPage\obj\Debug\PictureVideoPage.Properties.Resources.resources
+C:\temp\PictureVideoPage\PictureVideoPage\PictureVideoPage\obj\Debug\PictureVideoPage.PictureAndVideoForm.es-MX.resources
+C:\temp\PictureVideoPage\PictureVideoPage\PictureVideoPage\obj\Debug\PictureVideoPage.PictureAndVideoForm.fr-CA.resources
+C:\temp\PictureVideoPage\PictureVideoPage\PictureVideoPage\obj\Debug\PictureVideoPage.PictureAndVideoForm.pt-PT.resources
+C:\temp\PictureVideoPage\PictureVideoPage\PictureVideoPage\obj\Debug\PictureVideoPage.csproj.GenerateResource.cache
+C:\temp\PictureVideoPage\PictureVideoPage\PictureVideoPage\obj\Debug\PictureVideoPage.csproj.CoreCompileInputs.cache
+C:\temp\PictureVideoPage\PictureVideoPage\PictureVideoPage\obj\Debug\es-MX\PictureVideoPage.resources.dll
+C:\temp\PictureVideoPage\PictureVideoPage\PictureVideoPage\obj\Debug\fr-CA\PictureVideoPage.resources.dll
+C:\temp\PictureVideoPage\PictureVideoPage\PictureVideoPage\obj\Debug\pt-PT\PictureVideoPage.resources.dll
+C:\temp\PictureVideoPage\PictureVideoPage\PictureVideoPage\obj\Debug\PictureVideoPage.exe
+C:\temp\PictureVideoPage\PictureVideoPage\PictureVideoPage\obj\Debug\PictureVideoPage.pdb
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\PictureVideoPage\PictureVideoPage\PictureVideoPage\bin\Debug\PictureVideoPage.exe.config
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\PictureVideoPage\PictureVideoPage\PictureVideoPage\bin\Debug\PictureVideoPage.exe
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\PictureVideoPage\PictureVideoPage\PictureVideoPage\bin\Debug\PictureVideoPage.pdb
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\PictureVideoPage\PictureVideoPage\PictureVideoPage\bin\Debug\es-MX\PictureVideoPage.resources.dll
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\PictureVideoPage\PictureVideoPage\PictureVideoPage\bin\Debug\fr-CA\PictureVideoPage.resources.dll
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\PictureVideoPage\PictureVideoPage\PictureVideoPage\bin\Debug\pt-PT\PictureVideoPage.resources.dll
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\PictureVideoPage\PictureVideoPage\PictureVideoPage\bin\Debug\Interop.WMPLib.dll
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\PictureVideoPage\PictureVideoPage\PictureVideoPage\bin\Debug\AxInterop.WMPLib.dll
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\PictureVideoPage\PictureVideoPage\PictureVideoPage\obj\Debug\PictureVideoPage.csproj.AssemblyReference.cache
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\PictureVideoPage\PictureVideoPage\PictureVideoPage\obj\Debug\Interop.WMPLib.dll
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\PictureVideoPage\PictureVideoPage\PictureVideoPage\obj\Debug\AxInterop.WMPLib.dll
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\PictureVideoPage\PictureVideoPage\PictureVideoPage\obj\Debug\PictureVideoPage.csproj.ResolveComReference.cache
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\PictureVideoPage\PictureVideoPage\PictureVideoPage\obj\Debug\PictureVideoPage.PictureAndVideoForm.resources
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\PictureVideoPage\PictureVideoPage\PictureVideoPage\obj\Debug\PictureVideoPage.Properties.Resources.resources
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\PictureVideoPage\PictureVideoPage\PictureVideoPage\obj\Debug\PictureVideoPage.PictureAndVideoForm.es-MX.resources
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\PictureVideoPage\PictureVideoPage\PictureVideoPage\obj\Debug\PictureVideoPage.PictureAndVideoForm.fr-CA.resources
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\PictureVideoPage\PictureVideoPage\PictureVideoPage\obj\Debug\PictureVideoPage.PictureAndVideoForm.pt-PT.resources
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\PictureVideoPage\PictureVideoPage\PictureVideoPage\obj\Debug\PictureVideoPage.csproj.GenerateResource.cache
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\PictureVideoPage\PictureVideoPage\PictureVideoPage\obj\Debug\PictureVideoPage.csproj.CoreCompileInputs.cache
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\PictureVideoPage\PictureVideoPage\PictureVideoPage\obj\Debug\es-MX\PictureVideoPage.resources.dll
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\PictureVideoPage\PictureVideoPage\PictureVideoPage\obj\Debug\fr-CA\PictureVideoPage.resources.dll
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\PictureVideoPage\PictureVideoPage\PictureVideoPage\obj\Debug\pt-PT\PictureVideoPage.resources.dll
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\PictureVideoPage\PictureVideoPage\PictureVideoPage\obj\Debug\PictureVideoPage.exe
+C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\PictureVideoPage\PictureVideoPage\PictureVideoPage\obj\Debug\PictureVideoPage.pdb

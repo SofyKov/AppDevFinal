@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emmas\\source\\repos\\AppDev\\EarthPage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE624FCB-3131-444A-846A-5D054348BC63}|EarthPage\\EarthPage.csproj|C:\\Users\\emmas\\source\\repos\\AppDev\\EarthPage\\earthpage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE624FCB-3131-444A-846A-5D054348BC63}|EarthPage\\EarthPage.csproj|solutionrelative:earthpage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE624FCB-3131-444A-846A-5D054348BC63}|EarthPage\\EarthPage.csproj|C:\\Users\\emmas\\source\\repos\\AppDev\\EarthPage\\earthpage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE624FCB-3131-444A-846A-5D054348BC63}|EarthPage\\EarthPage.csproj|solutionrelative:earthpage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE624FCB-3131-444A-846A-5D054348BC63}|EarthPage\\EarthPage.csproj|c:\\users\\emmas\\source\\repos\\appdev\\earthpage\\earthpage\\changelanguages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE624FCB-3131-444A-846A-5D054348BC63}|EarthPage\\EarthPage.csproj|solutionrelative:earthpage\\changelanguages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE624FCB-3131-444A-846A-5D054348BC63}|EarthPage\\EarthPage.csproj|C:\\Users\\emmas\\source\\repos\\AppDev\\EarthPage\\earthpage\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EE624FCB-3131-444A-846A-5D054348BC63}|EarthPage\\EarthPage.csproj|solutionrelative:earthpage\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE624FCB-3131-444A-846A-5D054348BC63}|EarthPage\\EarthPage.csproj|C:\\Users\\emmas\\source\\repos\\AppDev\\EarthPage\\earthpage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE624FCB-3131-444A-846A-5D054348BC63}|EarthPage\\EarthPage.csproj|solutionrelative:earthpage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|EarthPage||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE624FCB-3131-444A-846A-5D054348BC63}|EarthPage\\EarthPage.csproj|c:\\users\\emmas\\source\\repos\\appdev\\earthpage\\earthpage\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|df8f7042-0bb1-47d1-8e6d-deb3d07698bd"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChangeLanguages.cs",
+              "DocumentMoniker": "C:\\Users\\emmas\\source\\repos\\AppDev\\EarthPage\\EarthPage\\ChangeLanguages.cs",
+              "RelativeDocumentMoniker": "EarthPage\\ChangeLanguages.cs",
+              "ToolTip": "C:\\Users\\emmas\\source\\repos\\AppDev\\EarthPage\\EarthPage\\ChangeLanguages.cs",
+              "RelativeToolTip": "EarthPage\\ChangeLanguages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T04:48:43.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emmas\\source\\repos\\AppDev\\EarthPage\\EarthPage\\Program.cs",
+              "RelativeDocumentMoniker": "EarthPage\\Program.cs",
+              "ToolTip": "C:\\Users\\emmas\\source\\repos\\AppDev\\EarthPage\\EarthPage\\Program.cs",
+              "RelativeToolTip": "EarthPage\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T22:24:41.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\emmas\\source\\repos\\AppDev\\EarthPage\\EarthPage\\App.config",
+              "RelativeDocumentMoniker": "EarthPage\\App.config",
+              "ToolTip": "C:\\Users\\emmas\\source\\repos\\AppDev\\EarthPage\\EarthPage\\App.config*",
+              "RelativeToolTip": "EarthPage\\App.config*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-14T22:23:21.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\emmas\\source\\repos\\AppDev\\EarthPage\\EarthPage\\Form1.cs",
+              "RelativeDocumentMoniker": "EarthPage\\Form1.cs",
+              "ToolTip": "C:\\Users\\emmas\\source\\repos\\AppDev\\EarthPage\\EarthPage\\Form1.cs*",
+              "RelativeToolTip": "EarthPage\\Form1.cs*",
+              "ViewState": "AQIAABoAAAAAAAAAAAAWwCcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T22:09:48.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EarthPage",
+              "DocumentMoniker": "C:\\Users\\emmas\\source\\repos\\AppDev\\EarthPage\\EarthPage\\EarthPage.csproj",
+              "RelativeDocumentMoniker": "EarthPage\\EarthPage.csproj",
+              "ToolTip": "C:\\Users\\emmas\\source\\repos\\AppDev\\EarthPage\\EarthPage\\EarthPage.csproj*",
+              "RelativeToolTip": "EarthPage\\EarthPage.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-14T22:02:50.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\emmas\\source\\repos\\AppDev\\EarthPage\\EarthPage\\Form1.cs",
+              "RelativeDocumentMoniker": "EarthPage\\Form1.cs",
+              "ToolTip": "C:\\Users\\emmas\\source\\repos\\AppDev\\EarthPage\\EarthPage\\Form1.cs [Design]*",
+              "RelativeToolTip": "EarthPage\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T21:57:40.168Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
