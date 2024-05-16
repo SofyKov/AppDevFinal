@@ -10,3 +10,15 @@ C:\Users\grech\OneDrive\Desktop\sem_4\Application Development\AppDev-Final-Proje
 C:\Users\grech\OneDrive\Desktop\sem_4\Application Development\AppDev-Final-Project\Navigation\Navigation\bin\Debug\Navigation.dll.config
 C:\Users\grech\OneDrive\Desktop\sem_4\Application Development\AppDev-Final-Project\Navigation\Navigation\bin\Debug\Navigation.dll
 C:\Users\grech\OneDrive\Desktop\sem_4\Application Development\AppDev-Final-Project\Navigation\Navigation\obj\Debug\Navigation.dll
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\Navigation\Navigation\bin\Debug\MontreWildDB.mdf
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\Navigation\Navigation\bin\Debug\MontreWildDB_log.ldf
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\Navigation\Navigation\bin\Debug\Navigation.pdb
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\Navigation\Navigation\obj\Debug\Navigation.csproj.AssemblyReference.cache
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\Navigation\Navigation\obj\Debug\Navigation.NavigationForm.resources
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\Navigation\Navigation\obj\Debug\Navigation.Properties.Resources.resources
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\Navigation\Navigation\obj\Debug\Navigation.csproj.GenerateResource.cache
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\Navigation\Navigation\obj\Debug\Navigation.csproj.CoreCompileInputs.cache
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\Navigation\Navigation\obj\Debug\Navigation.pdb
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\Navigation\Navigation\bin\Debug\Navigation.dll.config
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\Navigation\Navigation\bin\Debug\Navigation.dll
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\Navigation\Navigation\obj\Debug\Navigation.dll

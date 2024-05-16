@@ -53,14 +53,12 @@ namespace G_Navigation
                     gamesForm.Visible = false;
                     //this.Controls.Add(encyclopediaForm);
                     HomeMainPanel.Visible = true;
-                    //animalForm.Visible = false;
+                    animalForm.Visible = false;
                     PictureAndVideoForm.Visible = false;
                     encyclopediaForm.Visible = false;
                     mapsForm.Visible = false;
                     floraForm.Visible = false;
 
-
-                    //encyclopediaForm.Show();
 
                     break;
                 case "Encyclopedia":
@@ -71,7 +69,7 @@ namespace G_Navigation
                     this.Controls.Add(encyclopediaForm);
                     HomeMainPanel.Visible = false;
                     floraForm.Visible = false;
-                    //animalForm.Visible = false;
+                    animalForm.Visible = false;
                     PictureAndVideoForm.Visible = false;
                     mapsForm.Visible = false;
 
@@ -84,7 +82,7 @@ namespace G_Navigation
                     gamesForm.Visible = true;
 
                     HomeMainPanel.Visible = false;
-                    //animalForm.Visible = false;
+                    animalForm.Visible = false;
                     PictureAndVideoForm.Visible = false;
                     encyclopediaForm.Visible = false;
                     mapsForm.Visible = false;
@@ -101,7 +99,7 @@ namespace G_Navigation
                     aboutUsForm.Visible = true;
 
                     HomeMainPanel.Visible = false;
-                    //animalForm.Visible = false;
+                    animalForm.Visible = false;
                     gamesForm.Visible = false;
                     PictureAndVideoForm.Visible = false;
                     encyclopediaForm.Visible = false;
@@ -114,12 +112,12 @@ namespace G_Navigation
                     break;
                 case "Plants":
                     floraForm.Dock = DockStyle.Fill;
-
+                    floraForm.TopLevel = false;
                     floraForm.Visible = true;
 
                     HomeMainPanel.Visible = false;
 
-                    //animalForm.Visible = false;
+                    animalForm.Visible = false;
                     gamesForm.Visible = false;
                     PictureAndVideoForm.Visible = false;
                     encyclopediaForm.Visible = false;
@@ -130,6 +128,24 @@ namespace G_Navigation
 
                     floraForm.Show();
                     break;
+                case "Animals":
+                    animalForm.Dock = DockStyle.Fill;
+                    animalForm.TopLevel = false;
+                    animalForm.Visible = true;
+
+                    HomeMainPanel.Visible = false;
+
+                    animalForm.Visible = false;
+                    gamesForm.Visible = false;
+                    PictureAndVideoForm.Visible = false;
+                    encyclopediaForm.Visible = false;
+                    mapsForm.Visible = false;
+                    //floraForm.Visible = false;
+
+                    this.Controls.Add(animalForm);
+
+                    animalForm.Show();
+                    break;
             }
         }
 
@@ -139,7 +155,7 @@ namespace G_Navigation
             this.Controls.Add(gamesForm);
             HomeMainPanel.Visible=false;
 
-           //animalForm.Visible = false;
+            animalForm.Visible = false;
             gamesForm.Visible = false;
             encyclopediaForm.Visible = false;
             PictureAndVideoForm.Visible = false;
@@ -158,7 +174,7 @@ namespace G_Navigation
             this.Controls.Add(PictureAndVideoForm);
             HomeMainPanel.Visible = false;
 
-            //animalForm.Visible = false;
+            animalForm.Visible = false;
             gamesForm.Visible = false;
             encyclopediaForm.Visible = false;
             mapsForm.Visible = false;
@@ -192,7 +208,7 @@ namespace G_Navigation
             this.Controls.Add(encyclopediaForm);
             HomeMainPanel.Visible = false;
 
-           // animalForm.Visible = false;
+            animalForm.Visible = false;
             gamesForm.Visible = false;
             PictureAndVideoForm.Visible = false;
             mapsForm.Visible = false;
@@ -209,7 +225,7 @@ namespace G_Navigation
             this.Controls.Add(mapsForm);
             HomeMainPanel.Visible = false;
 
-            //animalForm.Visible = false;
+            animalForm.Visible = false;
             gamesForm.Visible = false;
             PictureAndVideoForm.Visible = false;
             encyclopediaForm.Visible = false;
@@ -226,7 +242,7 @@ namespace G_Navigation
             this.Controls.Add(floraForm);
             HomeMainPanel.Visible = false;
 
-           // animalForm.Visible = false;
+            animalForm.Visible = false;
             gamesForm.Visible = false;
             PictureAndVideoForm.Visible = false;
             encyclopediaForm.Visible = false;
@@ -243,7 +259,7 @@ namespace G_Navigation
             this.Controls.Add(EarthForm);
             HomeMainPanel.Visible = false;
 
-            //animalForm.Visible = false;
+            animalForm.Visible = false;
             gamesForm.Visible = false;
             PictureAndVideoForm.Visible = false;
             encyclopediaForm.Visible = false;
