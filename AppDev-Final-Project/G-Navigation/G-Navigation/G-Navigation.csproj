@@ -103,11 +103,38 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AboutUsForm.es-MX.resx">
+      <DependentUpon>AboutUsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AboutUsForm.fr-CA.resx">
+      <DependentUpon>AboutUsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AboutUsForm.pt-PT.resx">
+      <DependentUpon>AboutUsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EncyclopediaForm.es-MX.resx">
+      <DependentUpon>EncyclopediaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EncyclopediaForm.fr-CA.resx">
+      <DependentUpon>EncyclopediaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EncyclopediaForm.pt-PT.resx">
+      <DependentUpon>EncyclopediaForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="EncyclopediaForm.resx">
       <DependentUpon>EncyclopediaForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="AboutUsForm.resx">
       <DependentUpon>AboutUsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GamesForm.es-MX.resx">
+      <DependentUpon>GamesForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GamesForm.fr-CA.resx">
+      <DependentUpon>GamesForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GamesForm.pt-PT.resx">
+      <DependentUpon>GamesForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="GamesForm.resx">
       <DependentUpon>GamesForm.cs</DependentUpon>
@@ -125,7 +152,7 @@
       <DependentUpon>HomeForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
-      <Generator>ResXFileCodeGenerator</Generator>
+      <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
     </EmbeddedResource>
@@ -229,6 +256,10 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <DependentUpon>MontreWildDB.mdf</DependentUpon>
     </Content>
+    <None Include="Resources\earth3.png" />
+    <None Include="Resources\earth2.png" />
+    <None Include="Resources\earth.png" />
+    <None Include="Resources\bgImg2.jpg" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">

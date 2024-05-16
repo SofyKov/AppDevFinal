@@ -129,10 +129,493 @@
   <metadata name="tableAdapterManager.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>1215, 17</value>
   </metadata>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="encyFormLabel.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="encyFormLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Modern No. 20, 30pt</value>
+  </data>
+  <data name="encyFormLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>952, 80</value>
+  </data>
+  <data name="encyFormLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>848, 104</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="encyFormLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>21</value>
+  </data>
+  <data name="encyFormLabel.Text" xml:space="preserve">
+    <value>ENCYCLOPEDIA</value>
+  </data>
+  <data name="&gt;&gt;encyFormLabel.Name" xml:space="preserve">
+    <value>encyFormLabel</value>
+  </data>
+  <data name="&gt;&gt;encyFormLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;encyFormLabel.Parent" xml:space="preserve">
+    <value>EncyMainPanel</value>
+  </data>
+  <data name="&gt;&gt;encyFormLabel.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="encySearchedListBox.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 14pt</value>
+  </data>
+  <data name="encySearchedListBox.ItemHeight" type="System.Int32, mscorlib">
+    <value>48</value>
+  </data>
+  <data name="encySearchedListBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>32, 304</value>
+  </data>
+  <data name="encySearchedListBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>584, 820</value>
+  </data>
+  <data name="encySearchedListBox.TabIndex" type="System.Int32, mscorlib">
+    <value>20</value>
+  </data>
+  <data name="encySearchedListBox.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;encySearchedListBox.Name" xml:space="preserve">
+    <value>encySearchedListBox</value>
+  </data>
+  <data name="&gt;&gt;encySearchedListBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;encySearchedListBox.Parent" xml:space="preserve">
+    <value>EncyMainPanel</value>
+  </data>
+  <data name="&gt;&gt;encySearchedListBox.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="encySearchButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>640, 200</value>
+  </data>
+  <data name="encySearchButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>256, 64</value>
+  </data>
+  <data name="encySearchButton.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="encySearchButton.Text" xml:space="preserve">
+    <value>Search</value>
+  </data>
+  <data name="&gt;&gt;encySearchButton.Name" xml:space="preserve">
+    <value>encySearchButton</value>
+  </data>
+  <data name="&gt;&gt;encySearchButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;encySearchButton.Parent" xml:space="preserve">
+    <value>EncyMainPanel</value>
+  </data>
+  <data name="&gt;&gt;encySearchButton.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="encyTextBox.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 14pt</value>
+  </data>
+  <data name="encyTextBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>32, 208</value>
+  </data>
+  <data name="encyTextBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>584, 55</value>
+  </data>
+  <data name="encyTextBox.TabIndex" type="System.Int32, mscorlib">
+    <value>19</value>
+  </data>
+  <data name="&gt;&gt;encyTextBox.Name" xml:space="preserve">
+    <value>encyTextBox</value>
+  </data>
+  <data name="&gt;&gt;encyTextBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;encyTextBox.Parent" xml:space="preserve">
+    <value>EncyMainPanel</value>
+  </data>
+  <data name="&gt;&gt;encyTextBox.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="encyDescPanel.AutoScroll" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;encyDetailsPanel.Name" xml:space="preserve">
+    <value>encyDetailsPanel</value>
+  </data>
+  <data name="&gt;&gt;encyDetailsPanel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;encyDetailsPanel.Parent" xml:space="preserve">
+    <value>encyDescPanel</value>
+  </data>
+  <data name="&gt;&gt;encyDetailsPanel.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;encyTitleLabel.Name" xml:space="preserve">
+    <value>encyTitleLabel</value>
+  </data>
+  <data name="&gt;&gt;encyTitleLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;encyTitleLabel.Parent" xml:space="preserve">
+    <value>encyDescPanel</value>
+  </data>
+  <data name="&gt;&gt;encyTitleLabel.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="encyDescPanel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>640, 304</value>
+  </data>
+  <data name="encyDescPanel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1752, 808</value>
+  </data>
+  <data name="encyDescPanel.TabIndex" type="System.Int32, mscorlib">
+    <value>18</value>
+  </data>
+  <data name="&gt;&gt;encyDescPanel.Name" xml:space="preserve">
+    <value>encyDescPanel</value>
+  </data>
+  <data name="&gt;&gt;encyDescPanel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;encyDescPanel.Parent" xml:space="preserve">
+    <value>EncyMainPanel</value>
+  </data>
+  <data name="&gt;&gt;encyDescPanel.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
   <metadata name="combinedDataBindingSource1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>1560, 17</value>
   </metadata>
+  <data name="combinedDataListBox.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 14pt</value>
+  </data>
+  <data name="combinedDataListBox.ItemHeight" type="System.Int32, mscorlib">
+    <value>48</value>
+  </data>
+  <data name="combinedDataListBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>32, 304</value>
+  </data>
+  <data name="combinedDataListBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>584, 820</value>
+  </data>
+  <data name="combinedDataListBox.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="&gt;&gt;combinedDataListBox.Name" xml:space="preserve">
+    <value>combinedDataListBox</value>
+  </data>
+  <data name="&gt;&gt;combinedDataListBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;combinedDataListBox.Parent" xml:space="preserve">
+    <value>EncyMainPanel</value>
+  </data>
+  <data name="&gt;&gt;combinedDataListBox.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="EncyMainPanel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 48</value>
+  </data>
+  <data name="EncyMainPanel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>2420, 1372</value>
+  </data>
+  <data name="EncyMainPanel.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="&gt;&gt;EncyMainPanel.Name" xml:space="preserve">
+    <value>EncyMainPanel</value>
+  </data>
+  <data name="&gt;&gt;EncyMainPanel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;EncyMainPanel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;EncyMainPanel.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;encyTypeLabel.Name" xml:space="preserve">
+    <value>encyTypeLabel</value>
+  </data>
+  <data name="&gt;&gt;encyTypeLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;encyTypeLabel.Parent" xml:space="preserve">
+    <value>encyDetailsPanel</value>
+  </data>
+  <data name="&gt;&gt;encyTypeLabel.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;encyUseLabel.Name" xml:space="preserve">
+    <value>encyUseLabel</value>
+  </data>
+  <data name="&gt;&gt;encyUseLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;encyUseLabel.Parent" xml:space="preserve">
+    <value>encyDetailsPanel</value>
+  </data>
+  <data name="&gt;&gt;encyUseLabel.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;encySciLabel.Name" xml:space="preserve">
+    <value>encySciLabel</value>
+  </data>
+  <data name="&gt;&gt;encySciLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;encySciLabel.Parent" xml:space="preserve">
+    <value>encyDetailsPanel</value>
+  </data>
+  <data name="&gt;&gt;encySciLabel.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;encyEntityTypeLabel.Name" xml:space="preserve">
+    <value>encyEntityTypeLabel</value>
+  </data>
+  <data name="&gt;&gt;encyEntityTypeLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;encyEntityTypeLabel.Parent" xml:space="preserve">
+    <value>encyDetailsPanel</value>
+  </data>
+  <data name="&gt;&gt;encyEntityTypeLabel.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;encyDescriptionLabel.Name" xml:space="preserve">
+    <value>encyDescriptionLabel</value>
+  </data>
+  <data name="&gt;&gt;encyDescriptionLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;encyDescriptionLabel.Parent" xml:space="preserve">
+    <value>encyDetailsPanel</value>
+  </data>
+  <data name="&gt;&gt;encyDescriptionLabel.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="encyDetailsPanel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>8, 160</value>
+  </data>
+  <data name="encyDetailsPanel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1672, 1488</value>
+  </data>
+  <data name="encyDetailsPanel.TabIndex" type="System.Int32, mscorlib">
+    <value>20</value>
+  </data>
+  <data name="&gt;&gt;encyDetailsPanel.Name" xml:space="preserve">
+    <value>encyDetailsPanel</value>
+  </data>
+  <data name="&gt;&gt;encyDetailsPanel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;encyDetailsPanel.Parent" xml:space="preserve">
+    <value>encyDescPanel</value>
+  </data>
+  <data name="&gt;&gt;encyDetailsPanel.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="encyTypeLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Modern No. 20, 14pt</value>
+  </data>
+  <data name="encyTypeLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>40, 144</value>
+  </data>
+  <data name="encyTypeLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>592, 72</value>
+  </data>
+  <data name="encyTypeLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;encyTypeLabel.Name" xml:space="preserve">
+    <value>encyTypeLabel</value>
+  </data>
+  <data name="&gt;&gt;encyTypeLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;encyTypeLabel.Parent" xml:space="preserve">
+    <value>encyDetailsPanel</value>
+  </data>
+  <data name="&gt;&gt;encyTypeLabel.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="encyUseLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 14pt</value>
+  </data>
+  <data name="encyUseLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>40, 952</value>
+  </data>
+  <data name="encyUseLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1560, 568</value>
+  </data>
+  <data name="encyUseLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>22</value>
+  </data>
+  <data name="&gt;&gt;encyUseLabel.Name" xml:space="preserve">
+    <value>encyUseLabel</value>
+  </data>
+  <data name="&gt;&gt;encyUseLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;encyUseLabel.Parent" xml:space="preserve">
+    <value>encyDetailsPanel</value>
+  </data>
+  <data name="&gt;&gt;encyUseLabel.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="encySciLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Modern No. 20, 14pt</value>
+  </data>
+  <data name="encySciLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>40, 240</value>
+  </data>
+  <data name="encySciLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1032, 72</value>
+  </data>
+  <data name="encySciLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>21</value>
+  </data>
+  <data name="&gt;&gt;encySciLabel.Name" xml:space="preserve">
+    <value>encySciLabel</value>
+  </data>
+  <data name="&gt;&gt;encySciLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;encySciLabel.Parent" xml:space="preserve">
+    <value>encyDetailsPanel</value>
+  </data>
+  <data name="&gt;&gt;encySciLabel.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="encyEntityTypeLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Modern No. 20, 14pt</value>
+  </data>
+  <data name="encyEntityTypeLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>40, 56</value>
+  </data>
+  <data name="encyEntityTypeLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>616, 64</value>
+  </data>
+  <data name="encyEntityTypeLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;encyEntityTypeLabel.Name" xml:space="preserve">
+    <value>encyEntityTypeLabel</value>
+  </data>
+  <data name="&gt;&gt;encyEntityTypeLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;encyEntityTypeLabel.Parent" xml:space="preserve">
+    <value>encyDetailsPanel</value>
+  </data>
+  <data name="&gt;&gt;encyEntityTypeLabel.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="encyDescriptionLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Modern No. 20, 14pt</value>
+  </data>
+  <data name="encyDescriptionLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>40, 328</value>
+  </data>
+  <data name="encyDescriptionLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1592, 552</value>
+  </data>
+  <data name="encyDescriptionLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;encyDescriptionLabel.Name" xml:space="preserve">
+    <value>encyDescriptionLabel</value>
+  </data>
+  <data name="&gt;&gt;encyDescriptionLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;encyDescriptionLabel.Parent" xml:space="preserve">
+    <value>encyDetailsPanel</value>
+  </data>
+  <data name="&gt;&gt;encyDescriptionLabel.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="encyTitleLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Modern No. 20, 20pt</value>
+  </data>
+  <data name="encyTitleLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>224, 40</value>
+  </data>
+  <data name="encyTitleLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1160, 88</value>
+  </data>
+  <data name="encyTitleLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>19</value>
+  </data>
+  <data name="encyTitleLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;encyTitleLabel.Name" xml:space="preserve">
+    <value>encyTitleLabel</value>
+  </data>
+  <data name="&gt;&gt;encyTitleLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;encyTitleLabel.Parent" xml:space="preserve">
+    <value>encyDescPanel</value>
+  </data>
+  <data name="&gt;&gt;encyTitleLabel.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
   <metadata name="combinedDataBindingSource1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>1560, 17</value>
   </metadata>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>14, 29</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>2420, 1420</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>EncyclopediaForm</value>
+  </data>
+  <data name="&gt;&gt;montreWildDBDataSet.Name" xml:space="preserve">
+    <value>montreWildDBDataSet</value>
+  </data>
+  <data name="&gt;&gt;montreWildDBDataSet.Type" xml:space="preserve">
+    <value>G_Navigation.MontreWildDBDataSet, MontreWildDBDataSet.Designer.cs.dll, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;combinedDataBindingSource.Name" xml:space="preserve">
+    <value>combinedDataBindingSource</value>
+  </data>
+  <data name="&gt;&gt;combinedDataBindingSource.Type" xml:space="preserve">
+    <value>System.Windows.Forms.BindingSource, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;combinedDataTableAdapter.Name" xml:space="preserve">
+    <value>combinedDataTableAdapter</value>
+  </data>
+  <data name="&gt;&gt;combinedDataTableAdapter.Type" xml:space="preserve">
+    <value>G_Navigation.MontreWildDBDataSetTableAdapters.CombinedDataTableAdapter, MontreWildDBDataSet.Designer.cs.dll, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;tableAdapterManager.Name" xml:space="preserve">
+    <value>tableAdapterManager</value>
+  </data>
+  <data name="&gt;&gt;tableAdapterManager.Type" xml:space="preserve">
+    <value>G_Navigation.MontreWildDBDataSetTableAdapters.TableAdapterManager, MontreWildDBDataSet.Designer.cs.dll, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;combinedDataBindingSource1.Name" xml:space="preserve">
+    <value>combinedDataBindingSource1</value>
+  </data>
+  <data name="&gt;&gt;combinedDataBindingSource1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.BindingSource, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>EncyclopediaForm</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
 </root>

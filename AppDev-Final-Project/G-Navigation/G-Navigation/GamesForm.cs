@@ -20,7 +20,7 @@ namespace G_Navigation
 
         //Game 1 = Matching game
         private PictureBox pictureSelected;
-        private Label labelSelected;
+        private Button labelSelected;
         private int score;
 
         //Game 2 = Guessing game
@@ -34,7 +34,6 @@ namespace G_Navigation
             InitializeComponent();
             this.Shown += GamesForm_Shown;
 
-
             this.TopLevel = false;
             this.FormBorderStyle = FormBorderStyle.None;
             matchingLabel = matchingGame;
@@ -42,13 +41,7 @@ namespace G_Navigation
 
             defaultDisplay();
 
-
             score = 0;
-
-            if (score == 8)
-            {
-                //Display "You Win" Screen
-            }
 
         }
 
@@ -92,14 +85,27 @@ namespace G_Navigation
                         string labelName = "matchLabel" + (i + 1);
 
                         //Control.FindControl method to find the label by name
-                        Label label = this.Controls.Find(labelName, true).FirstOrDefault() as Label;
+                        Button label = this.Controls.Find(labelName, true).FirstOrDefault() as Button;
 
                         if (label != null)
                         {
                             //Add animal name as label Text
                             label.Text = animals[i];
+                            label.ForeColor = Color.White;
                         }
-                    } 
+
+                string pictureName = "matchImage" + (i + 1);
+
+                Label pictureBox = this.Controls.Find(pictureName, true).FirstOrDefault() as Label;
+
+                    if (pictureBox != null)
+                    {
+                        pictureBox.Enabled = true;
+                        //Add animal name as label Text
+                        label.Text = animals[i];
+                    }
+
+            }
 
             //Add the GamePanel to the Control
             this.Controls.Add(matchingGameMainPanel);
@@ -129,7 +135,7 @@ namespace G_Navigation
         {
             PictureBox clickedPictureBox = sender as PictureBox;
 
-            //Check if PictureBox.Tag is equal to the Label.Text
+            //Check if PictureBox.Tag is equal to the Button.Text
             if (clickedPictureBox != null)
             {
                 pictureSelected = clickedPictureBox;
@@ -137,17 +143,15 @@ namespace G_Navigation
                 //If a Label has already been selected, check if they match
                 if (labelSelected != null)
                 {
-
                     //If match is true, add grey paneling to the image
                     if (checkIfMatch())
                     {
                         clickedPictureBox.Enabled = false;
-                        Panel overlayPanel = new Panel();
-                        overlayPanel.BackColor = Color.FromArgb(128, Color.Gray); // Semi-transparent gray color
-                        overlayPanel.Dock = DockStyle.Fill;
-                        pictureSelected.Controls.Add(overlayPanel);
-                        // Display panel on top of the PictureBox
-                        overlayPanel.BringToFront();
+                        clickedPictureBox.BorderStyle = BorderStyle.FixedSingle;
+       
+
+                        youWin(8);
+
                     }
                 }
             }
@@ -155,7 +159,7 @@ namespace G_Navigation
 
         private void label_Click(object sender, EventArgs e)
         {
-            Label clickedLabel = sender as Label;
+            Button clickedLabel = sender as Button;
 
 
             //Check if Label.Text is equal to the PictureBox.Tag
@@ -169,13 +173,8 @@ namespace G_Navigation
                     //If match is true, add grey paneling to the image
                     if (checkIfMatch())
                     {
-                        clickedLabel.Enabled = false;
-                        Panel overlayPanel = new Panel();
-                        overlayPanel.BackColor = Color.FromArgb(128, Color.Gray); // Semi-transparent gray color
-                        overlayPanel.Dock = DockStyle.Fill;
-                        pictureSelected.Controls.Add(overlayPanel);
-                        // Display panel on top of the PictureBox
-                        overlayPanel.BringToFront();
+                        labelSelected.ForeColor = Color.Black;
+                        youWin(8);
                     }
                 }
 
@@ -186,11 +185,13 @@ namespace G_Navigation
         {
             if (pictureSelected.Tag.ToString() == labelSelected.Text)
             {
+                youWin(8);
+
                 //Increment score
                 score++;
 
                 //Display updated score
-                matchGameScoreLabel.Text = "Score: " + score;
+                matchGameScoreLabel.Text = score + "";
 
                 return true;
             }
@@ -258,7 +259,6 @@ namespace G_Navigation
 
             updateScore();
             //Update score label
-            //guessingGameScoreLabel.Text = "Score: " + score;
 
             displayGuessingGame();
 
@@ -278,7 +278,7 @@ namespace G_Navigation
             {
                 // If the selection is the correct answer
                 score++; // Increment the score
-                guessingGameScoreLabel.Text = "Score: " + score; // Update the score label
+                guessingGameScoreLabel.Text = score + ""; // Update the score label
 
                 displayGuessingGame(); // Update the game display
             }
@@ -293,7 +293,7 @@ namespace G_Navigation
 
             updateScore();
 
-           // guessingGameScoreLabel.Text = "Score: " + score;
+            // guessingGameScoreLabel.Text =  score + "";
 
             // Picture box
             PictureBox pictureBox = guessingGamePictureBox;
@@ -411,7 +411,6 @@ namespace G_Navigation
                 counter = 0;
                 score = 0;
 
-                updateScore();
             }
 
         }
@@ -427,13 +426,13 @@ namespace G_Navigation
             gameWinPanel.Visible = false;
             wonGame.Visible = true;
             wonGame.Show();
-
+           
             
         }
 
         public void updateScore() {
-            matchGameScoreLabel.Text = "Score: " + score;
-            guessingGameScoreLabel.Text = "Score: " + score;
+            matchGameScoreLabel.Text = score + "";
+            guessingGameScoreLabel.Text = score + "";
         }
 
        

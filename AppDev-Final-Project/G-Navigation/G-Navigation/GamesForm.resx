@@ -117,4 +117,1531 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="&gt;&gt;gameLabel2.Name" xml:space="preserve">
+    <value>gameLabel2</value>
+  </data>
+  <data name="&gt;&gt;gameLabel2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;gameLabel2.Parent" xml:space="preserve">
+    <value>panel3</value>
+  </data>
+  <data name="&gt;&gt;gameLabel2.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;guessingGame.Name" xml:space="preserve">
+    <value>guessingGame</value>
+  </data>
+  <data name="&gt;&gt;guessingGame.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;guessingGame.Parent" xml:space="preserve">
+    <value>panel3</value>
+  </data>
+  <data name="&gt;&gt;guessingGame.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;matchingGame.Name" xml:space="preserve">
+    <value>matchingGame</value>
+  </data>
+  <data name="&gt;&gt;matchingGame.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;matchingGame.Parent" xml:space="preserve">
+    <value>panel3</value>
+  </data>
+  <data name="&gt;&gt;matchingGame.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="panel3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>264, 288</value>
+  </data>
+  <data name="panel3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1768, 768</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="panel3.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;panel3.Name" xml:space="preserve">
+    <value>panel3</value>
+  </data>
+  <data name="&gt;&gt;panel3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panel3.Parent" xml:space="preserve">
+    <value>mainMenuGamePanel</value>
+  </data>
+  <data name="&gt;&gt;panel3.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="gameLabel2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 26pt, style=Bold</value>
+  </data>
+  <data name="gameLabel2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>424, 80</value>
+  </data>
+  <data name="gameLabel2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>968, 128</value>
+  </data>
+  <data name="gameLabel2.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="gameLabel2.Text" xml:space="preserve">
+    <value>CHOOSE A GAME</value>
+  </data>
+  <data name="gameLabel2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;gameLabel2.Name" xml:space="preserve">
+    <value>gameLabel2</value>
+  </data>
+  <data name="&gt;&gt;gameLabel2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;gameLabel2.Parent" xml:space="preserve">
+    <value>panel3</value>
+  </data>
+  <data name="&gt;&gt;gameLabel2.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="guessingGame.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Modern No. 20, 20pt</value>
+  </data>
+  <data name="guessingGame.Location" type="System.Drawing.Point, System.Drawing">
+    <value>968, 280</value>
+  </data>
+  <data name="guessingGame.Size" type="System.Drawing.Size, System.Drawing">
+    <value>472, 328</value>
+  </data>
+  <data name="guessingGame.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="guessingGame.Text" xml:space="preserve">
+    <value>Who's That Animal?</value>
+  </data>
+  <data name="&gt;&gt;guessingGame.Name" xml:space="preserve">
+    <value>guessingGame</value>
+  </data>
+  <data name="&gt;&gt;guessingGame.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;guessingGame.Parent" xml:space="preserve">
+    <value>panel3</value>
+  </data>
+  <data name="&gt;&gt;guessingGame.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="matchingGame.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Modern No. 20, 20pt</value>
+  </data>
+  <data name="matchingGame.Location" type="System.Drawing.Point, System.Drawing">
+    <value>384, 280</value>
+  </data>
+  <data name="matchingGame.Size" type="System.Drawing.Size, System.Drawing">
+    <value>472, 328</value>
+  </data>
+  <data name="matchingGame.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="matchingGame.Text" xml:space="preserve">
+    <value>Catch The Animal!</value>
+  </data>
+  <data name="&gt;&gt;matchingGame.Name" xml:space="preserve">
+    <value>matchingGame</value>
+  </data>
+  <data name="&gt;&gt;matchingGame.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;matchingGame.Parent" xml:space="preserve">
+    <value>panel3</value>
+  </data>
+  <data name="&gt;&gt;matchingGame.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;label2.Name" xml:space="preserve">
+    <value>label2</value>
+  </data>
+  <data name="&gt;&gt;label2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label2.Parent" xml:space="preserve">
+    <value>matchingGameMainPanel</value>
+  </data>
+  <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;matchingGameExitButton.Name" xml:space="preserve">
+    <value>matchingGameExitButton</value>
+  </data>
+  <data name="&gt;&gt;matchingGameExitButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;matchingGameExitButton.Parent" xml:space="preserve">
+    <value>matchingGameMainPanel</value>
+  </data>
+  <data name="&gt;&gt;matchingGameExitButton.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;matchingGameTopPanel.Name" xml:space="preserve">
+    <value>matchingGameTopPanel</value>
+  </data>
+  <data name="&gt;&gt;matchingGameTopPanel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;matchingGameTopPanel.Parent" xml:space="preserve">
+    <value>matchingGameMainPanel</value>
+  </data>
+  <data name="&gt;&gt;matchingGameTopPanel.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;matchGameScoreLabel.Name" xml:space="preserve">
+    <value>matchGameScoreLabel</value>
+  </data>
+  <data name="&gt;&gt;matchGameScoreLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;matchGameScoreLabel.Parent" xml:space="preserve">
+    <value>matchingGameMainPanel</value>
+  </data>
+  <data name="&gt;&gt;matchGameScoreLabel.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;game1Label.Name" xml:space="preserve">
+    <value>game1Label</value>
+  </data>
+  <data name="&gt;&gt;game1Label.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;game1Label.Parent" xml:space="preserve">
+    <value>matchingGameMainPanel</value>
+  </data>
+  <data name="&gt;&gt;game1Label.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;matchingGameBottomPanel.Name" xml:space="preserve">
+    <value>matchingGameBottomPanel</value>
+  </data>
+  <data name="&gt;&gt;matchingGameBottomPanel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;matchingGameBottomPanel.Parent" xml:space="preserve">
+    <value>matchingGameMainPanel</value>
+  </data>
+  <data name="&gt;&gt;matchingGameBottomPanel.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="matchingGameMainPanel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>48, 80</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="matchingGameMainPanel.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>No</value>
+  </data>
+  <data name="matchingGameMainPanel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>2328, 1328</value>
+  </data>
+  <data name="matchingGameMainPanel.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="matchingGameMainPanel.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;matchingGameMainPanel.Name" xml:space="preserve">
+    <value>matchingGameMainPanel</value>
+  </data>
+  <data name="&gt;&gt;matchingGameMainPanel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;matchingGameMainPanel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;matchingGameMainPanel.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="label2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 14pt</value>
+  </data>
+  <data name="label2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>200, 120</value>
+  </data>
+  <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 72</value>
+  </data>
+  <data name="label2.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>Score: </value>
+  </data>
+  <data name="&gt;&gt;label2.Name" xml:space="preserve">
+    <value>label2</value>
+  </data>
+  <data name="&gt;&gt;label2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label2.Parent" xml:space="preserve">
+    <value>matchingGameMainPanel</value>
+  </data>
+  <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="matchingGameExitButton.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="matchingGameExitButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt</value>
+  </data>
+  <data name="matchingGameExitButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1896, 104</value>
+  </data>
+  <data name="matchingGameExitButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>329, 80</value>
+  </data>
+  <data name="matchingGameExitButton.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="matchingGameExitButton.Text" xml:space="preserve">
+    <value>Back To Games</value>
+  </data>
+  <data name="&gt;&gt;matchingGameExitButton.Name" xml:space="preserve">
+    <value>matchingGameExitButton</value>
+  </data>
+  <data name="&gt;&gt;matchingGameExitButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;matchingGameExitButton.Parent" xml:space="preserve">
+    <value>matchingGameMainPanel</value>
+  </data>
+  <data name="&gt;&gt;matchingGameExitButton.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;matchLabel8.Name" xml:space="preserve">
+    <value>matchLabel8</value>
+  </data>
+  <data name="&gt;&gt;matchLabel8.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;matchLabel8.Parent" xml:space="preserve">
+    <value>matchingGameTopPanel</value>
+  </data>
+  <data name="&gt;&gt;matchLabel8.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;matchLabel7.Name" xml:space="preserve">
+    <value>matchLabel7</value>
+  </data>
+  <data name="&gt;&gt;matchLabel7.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;matchLabel7.Parent" xml:space="preserve">
+    <value>matchingGameTopPanel</value>
+  </data>
+  <data name="&gt;&gt;matchLabel7.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;matchLabel6.Name" xml:space="preserve">
+    <value>matchLabel6</value>
+  </data>
+  <data name="&gt;&gt;matchLabel6.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;matchLabel6.Parent" xml:space="preserve">
+    <value>matchingGameTopPanel</value>
+  </data>
+  <data name="&gt;&gt;matchLabel6.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;matchLabel5.Name" xml:space="preserve">
+    <value>matchLabel5</value>
+  </data>
+  <data name="&gt;&gt;matchLabel5.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;matchLabel5.Parent" xml:space="preserve">
+    <value>matchingGameTopPanel</value>
+  </data>
+  <data name="&gt;&gt;matchLabel5.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;matchLabel3.Name" xml:space="preserve">
+    <value>matchLabel3</value>
+  </data>
+  <data name="&gt;&gt;matchLabel3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;matchLabel3.Parent" xml:space="preserve">
+    <value>matchingGameTopPanel</value>
+  </data>
+  <data name="&gt;&gt;matchLabel3.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;matchLabel4.Name" xml:space="preserve">
+    <value>matchLabel4</value>
+  </data>
+  <data name="&gt;&gt;matchLabel4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;matchLabel4.Parent" xml:space="preserve">
+    <value>matchingGameTopPanel</value>
+  </data>
+  <data name="&gt;&gt;matchLabel4.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;matchLabel2.Name" xml:space="preserve">
+    <value>matchLabel2</value>
+  </data>
+  <data name="&gt;&gt;matchLabel2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;matchLabel2.Parent" xml:space="preserve">
+    <value>matchingGameTopPanel</value>
+  </data>
+  <data name="&gt;&gt;matchLabel2.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;matchLabel1.Name" xml:space="preserve">
+    <value>matchLabel1</value>
+  </data>
+  <data name="&gt;&gt;matchLabel1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;matchLabel1.Parent" xml:space="preserve">
+    <value>matchingGameTopPanel</value>
+  </data>
+  <data name="&gt;&gt;matchLabel1.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="matchingGameTopPanel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>152, 792</value>
+  </data>
+  <data name="matchingGameTopPanel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>2000, 408</value>
+  </data>
+  <data name="matchingGameTopPanel.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="&gt;&gt;matchingGameTopPanel.Name" xml:space="preserve">
+    <value>matchingGameTopPanel</value>
+  </data>
+  <data name="&gt;&gt;matchingGameTopPanel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;matchingGameTopPanel.Parent" xml:space="preserve">
+    <value>matchingGameMainPanel</value>
+  </data>
+  <data name="&gt;&gt;matchingGameTopPanel.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="matchLabel8.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="matchLabel8.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="matchLabel8.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1552, 232</value>
+  </data>
+  <data name="matchLabel8.Size" type="System.Drawing.Size, System.Drawing">
+    <value>392, 152</value>
+  </data>
+  <data name="matchLabel8.TabIndex" type="System.Int32, mscorlib">
+    <value>19</value>
+  </data>
+  <data name="&gt;&gt;matchLabel8.Name" xml:space="preserve">
+    <value>matchLabel8</value>
+  </data>
+  <data name="&gt;&gt;matchLabel8.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;matchLabel8.Parent" xml:space="preserve">
+    <value>matchingGameTopPanel</value>
+  </data>
+  <data name="&gt;&gt;matchLabel8.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="matchLabel7.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="matchLabel7.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="matchLabel7.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1552, 24</value>
+  </data>
+  <data name="matchLabel7.Size" type="System.Drawing.Size, System.Drawing">
+    <value>392, 152</value>
+  </data>
+  <data name="matchLabel7.TabIndex" type="System.Int32, mscorlib">
+    <value>18</value>
+  </data>
+  <data name="&gt;&gt;matchLabel7.Name" xml:space="preserve">
+    <value>matchLabel7</value>
+  </data>
+  <data name="&gt;&gt;matchLabel7.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;matchLabel7.Parent" xml:space="preserve">
+    <value>matchingGameTopPanel</value>
+  </data>
+  <data name="&gt;&gt;matchLabel7.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="matchLabel6.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="matchLabel6.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="matchLabel6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1056, 232</value>
+  </data>
+  <data name="matchLabel6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>392, 152</value>
+  </data>
+  <data name="matchLabel6.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="&gt;&gt;matchLabel6.Name" xml:space="preserve">
+    <value>matchLabel6</value>
+  </data>
+  <data name="&gt;&gt;matchLabel6.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;matchLabel6.Parent" xml:space="preserve">
+    <value>matchingGameTopPanel</value>
+  </data>
+  <data name="&gt;&gt;matchLabel6.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="matchLabel5.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="matchLabel5.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="matchLabel5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1056, 24</value>
+  </data>
+  <data name="matchLabel5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>392, 152</value>
+  </data>
+  <data name="matchLabel5.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="&gt;&gt;matchLabel5.Name" xml:space="preserve">
+    <value>matchLabel5</value>
+  </data>
+  <data name="&gt;&gt;matchLabel5.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;matchLabel5.Parent" xml:space="preserve">
+    <value>matchingGameTopPanel</value>
+  </data>
+  <data name="&gt;&gt;matchLabel5.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="matchLabel3.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="matchLabel3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="matchLabel3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>552, 224</value>
+  </data>
+  <data name="matchLabel3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>392, 152</value>
+  </data>
+  <data name="matchLabel3.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="&gt;&gt;matchLabel3.Name" xml:space="preserve">
+    <value>matchLabel3</value>
+  </data>
+  <data name="&gt;&gt;matchLabel3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;matchLabel3.Parent" xml:space="preserve">
+    <value>matchingGameTopPanel</value>
+  </data>
+  <data name="&gt;&gt;matchLabel3.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="matchLabel4.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="matchLabel4.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="matchLabel4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>552, 16</value>
+  </data>
+  <data name="matchLabel4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>392, 152</value>
+  </data>
+  <data name="matchLabel4.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="&gt;&gt;matchLabel4.Name" xml:space="preserve">
+    <value>matchLabel4</value>
+  </data>
+  <data name="&gt;&gt;matchLabel4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;matchLabel4.Parent" xml:space="preserve">
+    <value>matchingGameTopPanel</value>
+  </data>
+  <data name="&gt;&gt;matchLabel4.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="matchLabel2.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="matchLabel2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="matchLabel2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>48, 224</value>
+  </data>
+  <data name="matchLabel2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>392, 152</value>
+  </data>
+  <data name="matchLabel2.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;matchLabel2.Name" xml:space="preserve">
+    <value>matchLabel2</value>
+  </data>
+  <data name="&gt;&gt;matchLabel2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;matchLabel2.Parent" xml:space="preserve">
+    <value>matchingGameTopPanel</value>
+  </data>
+  <data name="&gt;&gt;matchLabel2.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="matchLabel1.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="matchLabel1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="matchLabel1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>48, 16</value>
+  </data>
+  <data name="matchLabel1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>392, 152</value>
+  </data>
+  <data name="matchLabel1.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="&gt;&gt;matchLabel1.Name" xml:space="preserve">
+    <value>matchLabel1</value>
+  </data>
+  <data name="&gt;&gt;matchLabel1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;matchLabel1.Parent" xml:space="preserve">
+    <value>matchingGameTopPanel</value>
+  </data>
+  <data name="&gt;&gt;matchLabel1.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="matchGameScoreLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 14pt</value>
+  </data>
+  <data name="matchGameScoreLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>408, 120</value>
+  </data>
+  <data name="matchGameScoreLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>176, 72</value>
+  </data>
+  <data name="matchGameScoreLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="&gt;&gt;matchGameScoreLabel.Name" xml:space="preserve">
+    <value>matchGameScoreLabel</value>
+  </data>
+  <data name="&gt;&gt;matchGameScoreLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;matchGameScoreLabel.Parent" xml:space="preserve">
+    <value>matchingGameMainPanel</value>
+  </data>
+  <data name="&gt;&gt;matchGameScoreLabel.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="game1Label.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 20pt</value>
+  </data>
+  <data name="game1Label.Location" type="System.Drawing.Point, System.Drawing">
+    <value>864, 120</value>
+  </data>
+  <data name="game1Label.Size" type="System.Drawing.Size, System.Drawing">
+    <value>568, 88</value>
+  </data>
+  <data name="game1Label.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="game1Label.Text" xml:space="preserve">
+    <value>Catch The Animal!</value>
+  </data>
+  <data name="&gt;&gt;game1Label.Name" xml:space="preserve">
+    <value>game1Label</value>
+  </data>
+  <data name="&gt;&gt;game1Label.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;game1Label.Parent" xml:space="preserve">
+    <value>matchingGameMainPanel</value>
+  </data>
+  <data name="&gt;&gt;game1Label.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;matchImage8.Name" xml:space="preserve">
+    <value>matchImage8</value>
+  </data>
+  <data name="&gt;&gt;matchImage8.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;matchImage8.Parent" xml:space="preserve">
+    <value>matchingGameBottomPanel</value>
+  </data>
+  <data name="&gt;&gt;matchImage8.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;matchImage7.Name" xml:space="preserve">
+    <value>matchImage7</value>
+  </data>
+  <data name="&gt;&gt;matchImage7.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;matchImage7.Parent" xml:space="preserve">
+    <value>matchingGameBottomPanel</value>
+  </data>
+  <data name="&gt;&gt;matchImage7.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;matchImage6.Name" xml:space="preserve">
+    <value>matchImage6</value>
+  </data>
+  <data name="&gt;&gt;matchImage6.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;matchImage6.Parent" xml:space="preserve">
+    <value>matchingGameBottomPanel</value>
+  </data>
+  <data name="&gt;&gt;matchImage6.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;matchImage5.Name" xml:space="preserve">
+    <value>matchImage5</value>
+  </data>
+  <data name="&gt;&gt;matchImage5.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;matchImage5.Parent" xml:space="preserve">
+    <value>matchingGameBottomPanel</value>
+  </data>
+  <data name="&gt;&gt;matchImage5.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;matchImage4.Name" xml:space="preserve">
+    <value>matchImage4</value>
+  </data>
+  <data name="&gt;&gt;matchImage4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;matchImage4.Parent" xml:space="preserve">
+    <value>matchingGameBottomPanel</value>
+  </data>
+  <data name="&gt;&gt;matchImage4.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;matchImage3.Name" xml:space="preserve">
+    <value>matchImage3</value>
+  </data>
+  <data name="&gt;&gt;matchImage3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;matchImage3.Parent" xml:space="preserve">
+    <value>matchingGameBottomPanel</value>
+  </data>
+  <data name="&gt;&gt;matchImage3.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;matchImage2.Name" xml:space="preserve">
+    <value>matchImage2</value>
+  </data>
+  <data name="&gt;&gt;matchImage2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;matchImage2.Parent" xml:space="preserve">
+    <value>matchingGameBottomPanel</value>
+  </data>
+  <data name="&gt;&gt;matchImage2.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;matchImage1.Name" xml:space="preserve">
+    <value>matchImage1</value>
+  </data>
+  <data name="&gt;&gt;matchImage1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;matchImage1.Parent" xml:space="preserve">
+    <value>matchingGameBottomPanel</value>
+  </data>
+  <data name="&gt;&gt;matchImage1.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="matchingGameBottomPanel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>168, 208</value>
+  </data>
+  <data name="matchingGameBottomPanel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1960, 544</value>
+  </data>
+  <data name="matchingGameBottomPanel.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;matchingGameBottomPanel.Name" xml:space="preserve">
+    <value>matchingGameBottomPanel</value>
+  </data>
+  <data name="&gt;&gt;matchingGameBottomPanel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;matchingGameBottomPanel.Parent" xml:space="preserve">
+    <value>matchingGameMainPanel</value>
+  </data>
+  <data name="&gt;&gt;matchingGameBottomPanel.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="matchImage8.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1584, 304</value>
+  </data>
+  <data name="matchImage8.Size" type="System.Drawing.Size, System.Drawing">
+    <value>264, 224</value>
+  </data>
+  <data name="matchImage8.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>StretchImage</value>
+  </data>
+  <data name="matchImage8.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;matchImage8.Name" xml:space="preserve">
+    <value>matchImage8</value>
+  </data>
+  <data name="&gt;&gt;matchImage8.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;matchImage8.Parent" xml:space="preserve">
+    <value>matchingGameBottomPanel</value>
+  </data>
+  <data name="&gt;&gt;matchImage8.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="matchImage7.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1104, 304</value>
+  </data>
+  <data name="matchImage7.Size" type="System.Drawing.Size, System.Drawing">
+    <value>264, 224</value>
+  </data>
+  <data name="matchImage7.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>StretchImage</value>
+  </data>
+  <data name="matchImage7.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;matchImage7.Name" xml:space="preserve">
+    <value>matchImage7</value>
+  </data>
+  <data name="&gt;&gt;matchImage7.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;matchImage7.Parent" xml:space="preserve">
+    <value>matchingGameBottomPanel</value>
+  </data>
+  <data name="&gt;&gt;matchImage7.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="matchImage6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>616, 312</value>
+  </data>
+  <data name="matchImage6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>264, 224</value>
+  </data>
+  <data name="matchImage6.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>StretchImage</value>
+  </data>
+  <data name="matchImage6.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;matchImage6.Name" xml:space="preserve">
+    <value>matchImage6</value>
+  </data>
+  <data name="&gt;&gt;matchImage6.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;matchImage6.Parent" xml:space="preserve">
+    <value>matchingGameBottomPanel</value>
+  </data>
+  <data name="&gt;&gt;matchImage6.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="matchImage5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>136, 312</value>
+  </data>
+  <data name="matchImage5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>264, 224</value>
+  </data>
+  <data name="matchImage5.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>StretchImage</value>
+  </data>
+  <data name="matchImage5.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;matchImage5.Name" xml:space="preserve">
+    <value>matchImage5</value>
+  </data>
+  <data name="&gt;&gt;matchImage5.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;matchImage5.Parent" xml:space="preserve">
+    <value>matchingGameBottomPanel</value>
+  </data>
+  <data name="&gt;&gt;matchImage5.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="matchImage4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1584, 48</value>
+  </data>
+  <data name="matchImage4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>264, 224</value>
+  </data>
+  <data name="matchImage4.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>StretchImage</value>
+  </data>
+  <data name="matchImage4.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;matchImage4.Name" xml:space="preserve">
+    <value>matchImage4</value>
+  </data>
+  <data name="&gt;&gt;matchImage4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;matchImage4.Parent" xml:space="preserve">
+    <value>matchingGameBottomPanel</value>
+  </data>
+  <data name="&gt;&gt;matchImage4.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="matchImage3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1104, 48</value>
+  </data>
+  <data name="matchImage3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>264, 224</value>
+  </data>
+  <data name="matchImage3.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>StretchImage</value>
+  </data>
+  <data name="matchImage3.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;matchImage3.Name" xml:space="preserve">
+    <value>matchImage3</value>
+  </data>
+  <data name="&gt;&gt;matchImage3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;matchImage3.Parent" xml:space="preserve">
+    <value>matchingGameBottomPanel</value>
+  </data>
+  <data name="&gt;&gt;matchImage3.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="matchImage2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>616, 48</value>
+  </data>
+  <data name="matchImage2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>264, 224</value>
+  </data>
+  <data name="matchImage2.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>StretchImage</value>
+  </data>
+  <data name="matchImage2.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;matchImage2.Name" xml:space="preserve">
+    <value>matchImage2</value>
+  </data>
+  <data name="&gt;&gt;matchImage2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;matchImage2.Parent" xml:space="preserve">
+    <value>matchingGameBottomPanel</value>
+  </data>
+  <data name="&gt;&gt;matchImage2.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="matchImage1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>136, 32</value>
+  </data>
+  <data name="matchImage1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>264, 248</value>
+  </data>
+  <data name="matchImage1.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>StretchImage</value>
+  </data>
+  <data name="matchImage1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;matchImage1.Name" xml:space="preserve">
+    <value>matchImage1</value>
+  </data>
+  <data name="&gt;&gt;matchImage1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;matchImage1.Parent" xml:space="preserve">
+    <value>matchingGameBottomPanel</value>
+  </data>
+  <data name="&gt;&gt;matchImage1.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;gameLabel.Name" xml:space="preserve">
+    <value>gameLabel</value>
+  </data>
+  <data name="&gt;&gt;gameLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;gameLabel.Parent" xml:space="preserve">
+    <value>mainMenuGamePanel</value>
+  </data>
+  <data name="&gt;&gt;gameLabel.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="mainMenuGamePanel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>48, 96</value>
+  </data>
+  <data name="mainMenuGamePanel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>2328, 1312</value>
+  </data>
+  <data name="mainMenuGamePanel.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;mainMenuGamePanel.Name" xml:space="preserve">
+    <value>mainMenuGamePanel</value>
+  </data>
+  <data name="&gt;&gt;mainMenuGamePanel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;mainMenuGamePanel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;mainMenuGamePanel.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="gameLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 26pt, style=Bold</value>
+  </data>
+  <data name="gameLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>528, 72</value>
+  </data>
+  <data name="gameLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1256, 176</value>
+  </data>
+  <data name="gameLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="gameLabel.Text" xml:space="preserve">
+    <value>CUTE CRITTER GAMES</value>
+  </data>
+  <data name="gameLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;gameLabel.Name" xml:space="preserve">
+    <value>gameLabel</value>
+  </data>
+  <data name="&gt;&gt;gameLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;gameLabel.Parent" xml:space="preserve">
+    <value>mainMenuGamePanel</value>
+  </data>
+  <data name="&gt;&gt;gameLabel.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="scoreTextLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 14pt</value>
+  </data>
+  <data name="scoreTextLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="scoreTextLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>120, 88</value>
+  </data>
+  <data name="scoreTextLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>224, 80</value>
+  </data>
+  <data name="scoreTextLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="scoreTextLabel.Text" xml:space="preserve">
+    <value>Score: </value>
+  </data>
+  <data name="&gt;&gt;scoreTextLabel.Name" xml:space="preserve">
+    <value>scoreTextLabel</value>
+  </data>
+  <data name="&gt;&gt;scoreTextLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;scoreTextLabel.Parent" xml:space="preserve">
+    <value>guessingGamePanel</value>
+  </data>
+  <data name="&gt;&gt;scoreTextLabel.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="guessingGameExitButton.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="guessingGameExitButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt</value>
+  </data>
+  <data name="guessingGameExitButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1888, 88</value>
+  </data>
+  <data name="guessingGameExitButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>333, 80</value>
+  </data>
+  <data name="guessingGameExitButton.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="guessingGameExitButton.Text" xml:space="preserve">
+    <value>Back To Games</value>
+  </data>
+  <data name="&gt;&gt;guessingGameExitButton.Name" xml:space="preserve">
+    <value>guessingGameExitButton</value>
+  </data>
+  <data name="&gt;&gt;guessingGameExitButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;guessingGameExitButton.Parent" xml:space="preserve">
+    <value>guessingGamePanel</value>
+  </data>
+  <data name="&gt;&gt;guessingGameExitButton.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="guessingGameScoreLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 14pt</value>
+  </data>
+  <data name="guessingGameScoreLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>352, 88</value>
+  </data>
+  <data name="guessingGameScoreLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>120, 80</value>
+  </data>
+  <data name="guessingGameScoreLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;guessingGameScoreLabel.Name" xml:space="preserve">
+    <value>guessingGameScoreLabel</value>
+  </data>
+  <data name="&gt;&gt;guessingGameScoreLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;guessingGameScoreLabel.Parent" xml:space="preserve">
+    <value>guessingGamePanel</value>
+  </data>
+  <data name="&gt;&gt;guessingGameScoreLabel.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="guessingGameHeader.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 16pt</value>
+  </data>
+  <data name="guessingGameHeader.Location" type="System.Drawing.Point, System.Drawing">
+    <value>680, 56</value>
+  </data>
+  <data name="guessingGameHeader.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1040, 144</value>
+  </data>
+  <data name="guessingGameHeader.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="guessingGameHeader.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;guessingGameHeader.Name" xml:space="preserve">
+    <value>guessingGameHeader</value>
+  </data>
+  <data name="&gt;&gt;guessingGameHeader.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;guessingGameHeader.Parent" xml:space="preserve">
+    <value>guessingGamePanel</value>
+  </data>
+  <data name="&gt;&gt;guessingGameHeader.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;guessingGamePictureBox.Name" xml:space="preserve">
+    <value>guessingGamePictureBox</value>
+  </data>
+  <data name="&gt;&gt;guessingGamePictureBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;guessingGamePictureBox.Parent" xml:space="preserve">
+    <value>guessingGamePicturePanel</value>
+  </data>
+  <data name="&gt;&gt;guessingGamePictureBox.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="guessingGamePicturePanel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>320, 200</value>
+  </data>
+  <data name="guessingGamePicturePanel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1728, 584</value>
+  </data>
+  <data name="guessingGamePicturePanel.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;guessingGamePicturePanel.Name" xml:space="preserve">
+    <value>guessingGamePicturePanel</value>
+  </data>
+  <data name="&gt;&gt;guessingGamePicturePanel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;guessingGamePicturePanel.Parent" xml:space="preserve">
+    <value>guessingGamePanel</value>
+  </data>
+  <data name="&gt;&gt;guessingGamePicturePanel.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="guessingGameChoice2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 14pt</value>
+  </data>
+  <data name="guessingGameChoice2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>344, 1024</value>
+  </data>
+  <data name="guessingGameChoice2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>672, 144</value>
+  </data>
+  <data name="guessingGameChoice2.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="guessingGameChoice2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;guessingGameChoice2.Name" xml:space="preserve">
+    <value>guessingGameChoice2</value>
+  </data>
+  <data name="&gt;&gt;guessingGameChoice2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;guessingGameChoice2.Parent" xml:space="preserve">
+    <value>guessingGamePanel</value>
+  </data>
+  <data name="&gt;&gt;guessingGameChoice2.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="guessingGameChoice3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 14pt</value>
+  </data>
+  <data name="guessingGameChoice3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1280, 840</value>
+  </data>
+  <data name="guessingGameChoice3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>672, 152</value>
+  </data>
+  <data name="guessingGameChoice3.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="guessingGameChoice3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;guessingGameChoice3.Name" xml:space="preserve">
+    <value>guessingGameChoice3</value>
+  </data>
+  <data name="&gt;&gt;guessingGameChoice3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;guessingGameChoice3.Parent" xml:space="preserve">
+    <value>guessingGamePanel</value>
+  </data>
+  <data name="&gt;&gt;guessingGameChoice3.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="guessingGameChoice4.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 14pt</value>
+  </data>
+  <data name="guessingGameChoice4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1288, 1024</value>
+  </data>
+  <data name="guessingGameChoice4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>672, 144</value>
+  </data>
+  <data name="guessingGameChoice4.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="guessingGameChoice4.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;guessingGameChoice4.Name" xml:space="preserve">
+    <value>guessingGameChoice4</value>
+  </data>
+  <data name="&gt;&gt;guessingGameChoice4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;guessingGameChoice4.Parent" xml:space="preserve">
+    <value>guessingGamePanel</value>
+  </data>
+  <data name="&gt;&gt;guessingGameChoice4.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="guessingGameChoice1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 14pt</value>
+  </data>
+  <data name="guessingGameChoice1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>344, 848</value>
+  </data>
+  <data name="guessingGameChoice1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>672, 136</value>
+  </data>
+  <data name="guessingGameChoice1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="guessingGameChoice1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;guessingGameChoice1.Name" xml:space="preserve">
+    <value>guessingGameChoice1</value>
+  </data>
+  <data name="&gt;&gt;guessingGameChoice1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;guessingGameChoice1.Parent" xml:space="preserve">
+    <value>guessingGamePanel</value>
+  </data>
+  <data name="&gt;&gt;guessingGameChoice1.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="guessingGamePanel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>40, 104</value>
+  </data>
+  <data name="guessingGamePanel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>2344, 1272</value>
+  </data>
+  <data name="guessingGamePanel.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="guessingGamePanel.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;guessingGamePanel.Name" xml:space="preserve">
+    <value>guessingGamePanel</value>
+  </data>
+  <data name="&gt;&gt;guessingGamePanel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;guessingGamePanel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;guessingGamePanel.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="guessingGamePictureBox.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Stretch</value>
+  </data>
+  <data name="guessingGamePictureBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>280, 16</value>
+  </data>
+  <data name="guessingGamePictureBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1168, 552</value>
+  </data>
+  <data name="guessingGamePictureBox.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;guessingGamePictureBox.Name" xml:space="preserve">
+    <value>guessingGamePictureBox</value>
+  </data>
+  <data name="&gt;&gt;guessingGamePictureBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;guessingGamePictureBox.Parent" xml:space="preserve">
+    <value>guessingGamePicturePanel</value>
+  </data>
+  <data name="&gt;&gt;guessingGamePictureBox.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;winButtonBack.Name" xml:space="preserve">
+    <value>winButtonBack</value>
+  </data>
+  <data name="&gt;&gt;winButtonBack.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;winButtonBack.Parent" xml:space="preserve">
+    <value>gameWinPanel</value>
+  </data>
+  <data name="&gt;&gt;winButtonBack.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;gameWinPlayAgainButton.Name" xml:space="preserve">
+    <value>gameWinPlayAgainButton</value>
+  </data>
+  <data name="&gt;&gt;gameWinPlayAgainButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;gameWinPlayAgainButton.Parent" xml:space="preserve">
+    <value>gameWinPanel</value>
+  </data>
+  <data name="&gt;&gt;gameWinPlayAgainButton.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>gameWinPanel</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="gameWinPanel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>40, 96</value>
+  </data>
+  <data name="gameWinPanel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>2336, 1304</value>
+  </data>
+  <data name="gameWinPanel.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="gameWinPanel.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;gameWinPanel.Name" xml:space="preserve">
+    <value>gameWinPanel</value>
+  </data>
+  <data name="&gt;&gt;gameWinPanel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;gameWinPanel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;gameWinPanel.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="winButtonBack.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="winButtonBack.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt</value>
+  </data>
+  <data name="winButtonBack.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1320, 896</value>
+  </data>
+  <data name="winButtonBack.Size" type="System.Drawing.Size, System.Drawing">
+    <value>360, 112</value>
+  </data>
+  <data name="winButtonBack.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="winButtonBack.Text" xml:space="preserve">
+    <value>Back To Games</value>
+  </data>
+  <data name="&gt;&gt;winButtonBack.Name" xml:space="preserve">
+    <value>winButtonBack</value>
+  </data>
+  <data name="&gt;&gt;winButtonBack.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;winButtonBack.Parent" xml:space="preserve">
+    <value>gameWinPanel</value>
+  </data>
+  <data name="&gt;&gt;winButtonBack.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="gameWinPlayAgainButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt</value>
+  </data>
+  <data name="gameWinPlayAgainButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>768, 896</value>
+  </data>
+  <data name="gameWinPlayAgainButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>392, 112</value>
+  </data>
+  <data name="gameWinPlayAgainButton.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="gameWinPlayAgainButton.Text" xml:space="preserve">
+    <value>Play Again</value>
+  </data>
+  <data name="&gt;&gt;gameWinPlayAgainButton.Name" xml:space="preserve">
+    <value>gameWinPlayAgainButton</value>
+  </data>
+  <data name="&gt;&gt;gameWinPlayAgainButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;gameWinPlayAgainButton.Parent" xml:space="preserve">
+    <value>gameWinPanel</value>
+  </data>
+  <data name="&gt;&gt;gameWinPlayAgainButton.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="label1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 60pt</value>
+  </data>
+  <data name="label1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>520, 280</value>
+  </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1448, 496</value>
+  </data>
+  <data name="label1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>YOU WIN!</value>
+  </data>
+  <data name="label1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>gameWinPanel</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>14, 29</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>2408, 1416</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>GamesForm</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>GamesForm</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
 </root>

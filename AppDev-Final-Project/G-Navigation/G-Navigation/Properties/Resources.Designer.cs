@@ -22,7 +22,7 @@ namespace G_Navigation.Properties {
     [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "17.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    internal class Resources {
+    public class Resources {
         
         private static global::System.Resources.ResourceManager resourceMan;
         
@@ -36,7 +36,7 @@ namespace G_Navigation.Properties {
         ///   Returns the cached ResourceManager instance used by this class.
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
-        internal static global::System.Resources.ResourceManager ResourceManager {
+        public static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
                     global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("G_Navigation.Properties.Resources", typeof(Resources).Assembly);
@@ -51,7 +51,7 @@ namespace G_Navigation.Properties {
         ///   resource lookups using this strongly typed resource class.
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
-        internal static global::System.Globalization.CultureInfo Culture {
+        public static global::System.Globalization.CultureInfo Culture {
             get {
                 return resourceCulture;
             }
@@ -63,7 +63,7 @@ namespace G_Navigation.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap animal1 {
+        public static System.Drawing.Bitmap animal1 {
             get {
                 object obj = ResourceManager.GetObject("animal1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -73,7 +73,7 @@ namespace G_Navigation.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap animal2 {
+        public static System.Drawing.Bitmap animal2 {
             get {
                 object obj = ResourceManager.GetObject("animal2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -83,7 +83,7 @@ namespace G_Navigation.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap animal3 {
+        public static System.Drawing.Bitmap animal3 {
             get {
                 object obj = ResourceManager.GetObject("animal3", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -93,7 +93,7 @@ namespace G_Navigation.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap animal4 {
+        public static System.Drawing.Bitmap animal4 {
             get {
                 object obj = ResourceManager.GetObject("animal4", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -103,7 +103,7 @@ namespace G_Navigation.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap animal5 {
+        public static System.Drawing.Bitmap animal5 {
             get {
                 object obj = ResourceManager.GetObject("animal5", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -113,7 +113,7 @@ namespace G_Navigation.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap animal6 {
+        public static System.Drawing.Bitmap animal6 {
             get {
                 object obj = ResourceManager.GetObject("animal6", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -123,7 +123,7 @@ namespace G_Navigation.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap animal7 {
+        public static System.Drawing.Bitmap animal7 {
             get {
                 object obj = ResourceManager.GetObject("animal7", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -133,7 +133,7 @@ namespace G_Navigation.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap animal8 {
+        public static System.Drawing.Bitmap animal8 {
             get {
                 object obj = ResourceManager.GetObject("animal8", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -143,7 +143,67 @@ namespace G_Navigation.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap wta1 {
+        public static System.Drawing.Bitmap beaver {
+            get {
+                object obj = ResourceManager.GetObject("beaver", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap bgImg2 {
+            get {
+                object obj = ResourceManager.GetObject("bgImg2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap dog_puppy_on_garden_royalty_free_image_1586966191 {
+            get {
+                object obj = ResourceManager.GetObject("dog_puppy_on_garden_royalty_free_image_1586966191", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap earth {
+            get {
+                object obj = ResourceManager.GetObject("earth", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap earth2 {
+            get {
+                object obj = ResourceManager.GetObject("earth2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap earth3 {
+            get {
+                object obj = ResourceManager.GetObject("earth3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap wta1 {
             get {
                 object obj = ResourceManager.GetObject("wta1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -153,7 +213,7 @@ namespace G_Navigation.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap wta2 {
+        public static System.Drawing.Bitmap wta2 {
             get {
                 object obj = ResourceManager.GetObject("wta2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -163,7 +223,7 @@ namespace G_Navigation.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap wta3 {
+        public static System.Drawing.Bitmap wta3 {
             get {
                 object obj = ResourceManager.GetObject("wta3", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -173,7 +233,7 @@ namespace G_Navigation.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap wta4 {
+        public static System.Drawing.Bitmap wta4 {
             get {
                 object obj = ResourceManager.GetObject("wta4", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));

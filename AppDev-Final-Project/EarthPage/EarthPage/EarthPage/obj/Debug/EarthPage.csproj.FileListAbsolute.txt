@@ -36,3 +36,11 @@ C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a
 C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\EarthPage\EarthPage\EarthPage\obj\Debug\pt-PT\EarthPage.resources.dll
 C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\EarthPage\EarthPage\EarthPage\obj\Debug\EarthPage.exe
 C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\EarthPage\EarthPage\EarthPage\obj\Debug\EarthPage.pdb
+C:\Users\grech\OneDrive\Desktop\AppDevFinal\AppDev-Final-Project\EarthPage\EarthPage\EarthPage\obj\Debug\EarthPage.csproj.AssemblyReference.cache
+C:\Users\grech\OneDrive\Desktop\AppDevFinal\AppDev-Final-Project\EarthPage\EarthPage\EarthPage\obj\Debug\EarthPage.EarthForm.resources
+C:\Users\grech\OneDrive\Desktop\AppDevFinal\AppDev-Final-Project\EarthPage\EarthPage\EarthPage\obj\Debug\EarthPage.EarthForm.es-MX.resources
+C:\Users\grech\OneDrive\Desktop\AppDevFinal\AppDev-Final-Project\EarthPage\EarthPage\EarthPage\obj\Debug\EarthPage.EarthForm.fr-CA.resources
+C:\Users\grech\OneDrive\Desktop\AppDevFinal\AppDev-Final-Project\EarthPage\EarthPage\EarthPage\obj\Debug\EarthPage.EarthForm.pt-PT.resources
+C:\Users\grech\OneDrive\Desktop\AppDevFinal\AppDev-Final-Project\EarthPage\EarthPage\EarthPage\obj\Debug\EarthPage.csproj.GenerateResource.cache
+C:\Users\grech\OneDrive\Desktop\AppDevFinal\AppDev-Final-Project\EarthPage\EarthPage\EarthPage\obj\Debug\EarthPage.exe
+C:\Users\grech\OneDrive\Desktop\AppDevFinal\AppDev-Final-Project\EarthPage\EarthPage\EarthPage\obj\Debug\EarthPage.pdb
