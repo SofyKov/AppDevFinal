@@ -146,3 +146,12 @@ C:\Users\grech\OneDrive\Desktop\AppDevFinal\AppDev-Final-Project\G-Navigation\G-
 C:\Users\grech\OneDrive\Desktop\AppDevFinal\AppDev-Final-Project\G-Navigation\G-Navigation\obj\Debug\G_Navigation.GamesForm.es-MX.resources
 C:\Users\grech\OneDrive\Desktop\AppDevFinal\AppDev-Final-Project\G-Navigation\G-Navigation\obj\Debug\G_Navigation.GamesForm.fr-CA.resources
 C:\Users\grech\OneDrive\Desktop\AppDevFinal\AppDev-Final-Project\G-Navigation\G-Navigation\obj\Debug\G_Navigation.GamesForm.pt-PT.resources
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\G-Navigation\G-Navigation\obj\Debug\G_Navigation.AboutUsForm.es-MX.resources
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\G-Navigation\G-Navigation\obj\Debug\G_Navigation.AboutUsForm.fr-CA.resources
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\G-Navigation\G-Navigation\obj\Debug\G_Navigation.AboutUsForm.pt-PT.resources
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\G-Navigation\G-Navigation\obj\Debug\G_Navigation.EncyclopediaForm.es-MX.resources
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\G-Navigation\G-Navigation\obj\Debug\G_Navigation.EncyclopediaForm.fr-CA.resources
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\G-Navigation\G-Navigation\obj\Debug\G_Navigation.EncyclopediaForm.pt-PT.resources
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\G-Navigation\G-Navigation\obj\Debug\G_Navigation.GamesForm.es-MX.resources
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\G-Navigation\G-Navigation\obj\Debug\G_Navigation.GamesForm.fr-CA.resources
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\G-Navigation\G-Navigation\obj\Debug\G_Navigation.GamesForm.pt-PT.resources

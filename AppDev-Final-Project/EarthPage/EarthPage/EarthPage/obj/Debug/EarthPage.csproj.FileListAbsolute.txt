@@ -44,3 +44,11 @@ C:\Users\grech\OneDrive\Desktop\AppDevFinal\AppDev-Final-Project\EarthPage\Earth
 C:\Users\grech\OneDrive\Desktop\AppDevFinal\AppDev-Final-Project\EarthPage\EarthPage\EarthPage\obj\Debug\EarthPage.csproj.GenerateResource.cache
 C:\Users\grech\OneDrive\Desktop\AppDevFinal\AppDev-Final-Project\EarthPage\EarthPage\EarthPage\obj\Debug\EarthPage.exe
 C:\Users\grech\OneDrive\Desktop\AppDevFinal\AppDev-Final-Project\EarthPage\EarthPage\EarthPage\obj\Debug\EarthPage.pdb
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\EarthPage\EarthPage\EarthPage\obj\Debug\EarthPage.csproj.AssemblyReference.cache
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\EarthPage\EarthPage\EarthPage\obj\Debug\EarthPage.EarthForm.resources
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\EarthPage\EarthPage\EarthPage\obj\Debug\EarthPage.EarthForm.es-MX.resources
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\EarthPage\EarthPage\EarthPage\obj\Debug\EarthPage.EarthForm.fr-CA.resources
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\EarthPage\EarthPage\EarthPage\obj\Debug\EarthPage.EarthForm.pt-PT.resources
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\EarthPage\EarthPage\EarthPage\obj\Debug\EarthPage.csproj.GenerateResource.cache
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\EarthPage\EarthPage\EarthPage\obj\Debug\EarthPage.exe
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\EarthPage\EarthPage\EarthPage\obj\Debug\EarthPage.pdb
