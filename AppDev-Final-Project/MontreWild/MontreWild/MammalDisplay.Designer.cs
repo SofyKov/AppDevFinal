@@ -45,8 +45,6 @@
             this.animalsPictureBox.TabIndex = 1;
             this.animalsPictureBox.TabStop = false;
             // 
-            // 
-            // 
             // descriptionTextBox
             // 
             this.descriptionTextBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -61,7 +59,7 @@
             // 
             this.mammalLabel.AutoSize = true;
             this.mammalLabel.Font = new System.Drawing.Font("Modern No. 20", 22.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.mammalLabel.Location = new System.Drawing.Point(291, 9);
+            this.mammalLabel.Location = new System.Drawing.Point(547, 36);
             this.mammalLabel.Name = "mammalLabel";
             this.mammalLabel.Size = new System.Drawing.Size(171, 38);
             this.mammalLabel.TabIndex = 3;
@@ -101,6 +99,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
             this.ClientSize = new System.Drawing.Size(1163, 556);
             this.Controls.Add(this.backButton);
             this.Controls.Add(this.nextButton);

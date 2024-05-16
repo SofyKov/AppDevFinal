@@ -88,7 +88,7 @@
             // 
             this.birdLabel.AutoSize = true;
             this.birdLabel.Font = new System.Drawing.Font("Modern No. 20", 22.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.birdLabel.Location = new System.Drawing.Point(535, 33);
+            this.birdLabel.Location = new System.Drawing.Point(568, 33);
             this.birdLabel.Name = "birdLabel";
             this.birdLabel.Size = new System.Drawing.Size(106, 38);
             this.birdLabel.TabIndex = 5;
@@ -98,6 +98,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
             this.ClientSize = new System.Drawing.Size(1163, 556);
             this.Controls.Add(this.birdLabel);
             this.Controls.Add(this.descriptionTextBox);
