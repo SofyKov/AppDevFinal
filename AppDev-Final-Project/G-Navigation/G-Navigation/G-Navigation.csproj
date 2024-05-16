@@ -232,13 +232,13 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\..\..\..\..\..\..\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\MontreWild\MontreWild\MontreWild.csproj">
+      <Project>{726963da-2b3b-4267-a424-6c5b6debcc69}</Project>
+      <Name>MontreWild</Name>
+    </ProjectReference>
     <ProjectReference Include="..\..\EarthPage\EarthPage\EarthPage\EarthPage.csproj">
       <Project>{ee624fcb-3131-444a-846a-5d054348bc63}</Project>
       <Name>EarthPage</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\..\MontreWild\MontreWild\MontreWild.csproj">
-      <Project>{726963da-2b3b-4267-a424-6c5b6debcc69}</Project>
-      <Name>MontreWild</Name>
     </ProjectReference>
     <ProjectReference Include="..\..\PictureVideoPage\PictureVideoPage\PictureVideoPage\PictureVideoPage.csproj">
       <Project>{59ea9ae3-2fd1-44f3-a7b4-07dba4b052df}</Project>

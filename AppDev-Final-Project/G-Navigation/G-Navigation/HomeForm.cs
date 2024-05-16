@@ -19,7 +19,7 @@ namespace G_Navigation
 
         private PictureVideoPage.PictureAndVideoForm PictureAndVideoForm = new PictureVideoPage.PictureAndVideoForm();
         private EarthPage.EarthForm EarthForm = new EarthPage.EarthForm();
-        private MontreWild.AnimalMainForm animalForm = new MontreWild.AnimalMainForm();
+        //private MontreWild.AnimalMainForm animalForm = new MontreWild.AnimalMainForm();
 
         public HomeForm()
         {
@@ -125,7 +125,7 @@ namespace G_Navigation
             this.Controls.Add(gamesForm);
             HomeMainPanel.Visible=false;
 
-            animalForm.Visible = false;
+           //animalForm.Visible = false;
             gamesForm.Visible = false;
             encyclopediaForm.Visible = false;
             PictureAndVideoForm.Visible = false;
@@ -144,7 +144,7 @@ namespace G_Navigation
             this.Controls.Add(PictureAndVideoForm);
             HomeMainPanel.Visible = false;
 
-            animalForm.Visible = false;
+            //animalForm.Visible = false;
             gamesForm.Visible = false;
             encyclopediaForm.Visible = false;
             mapsForm.Visible = false;
@@ -156,7 +156,7 @@ namespace G_Navigation
 
         private void Fauna_btn_Click(object sender, EventArgs e)
         {
-            animalForm.Dock = DockStyle.Fill;
+           // animalForm.Dock = DockStyle.Fill;
 
             this.Controls.Add(encyclopediaForm);
             HomeMainPanel.Visible = false;
@@ -168,7 +168,7 @@ namespace G_Navigation
             floraForm.Visible = false;
             EarthForm.Visible = false;
 
-            animalForm.Show();
+            //animalForm.Show();
         }
 
         private void Encyclopedia_btn_Click(object sender, EventArgs e)
@@ -178,7 +178,7 @@ namespace G_Navigation
             this.Controls.Add(encyclopediaForm);
             HomeMainPanel.Visible = false;
 
-            animalForm.Visible = false;
+           // animalForm.Visible = false;
             gamesForm.Visible = false;
             PictureAndVideoForm.Visible = false;
             mapsForm.Visible = false;
@@ -195,7 +195,7 @@ namespace G_Navigation
             this.Controls.Add(mapsForm);
             HomeMainPanel.Visible = false;
 
-            animalForm.Visible = false;
+            //animalForm.Visible = false;
             gamesForm.Visible = false;
             PictureAndVideoForm.Visible = false;
             encyclopediaForm.Visible = false;
@@ -212,7 +212,7 @@ namespace G_Navigation
             this.Controls.Add(floraForm);
             HomeMainPanel.Visible = false;
 
-            animalForm.Visible = false;
+           // animalForm.Visible = false;
             gamesForm.Visible = false;
             PictureAndVideoForm.Visible = false;
             encyclopediaForm.Visible = false;
@@ -229,7 +229,7 @@ namespace G_Navigation
             this.Controls.Add(EarthForm);
             HomeMainPanel.Visible = false;
 
-            animalForm.Visible = false;
+            //animalForm.Visible = false;
             gamesForm.Visible = false;
             PictureAndVideoForm.Visible = false;
             encyclopediaForm.Visible = false;

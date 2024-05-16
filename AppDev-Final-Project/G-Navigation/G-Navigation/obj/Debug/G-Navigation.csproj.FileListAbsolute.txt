@@ -49,3 +49,13 @@ C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a
 C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\G-Navigation\G-Navigation\bin\Debug\es-MX\PictureVideoPage.resources.dll
 C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\G-Navigation\G-Navigation\bin\Debug\fr-CA\PictureVideoPage.resources.dll
 C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\G-Navigation\G-Navigation\bin\Debug\pt-PT\PictureVideoPage.resources.dll
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\G-Navigation\G-Navigation\obj\Debug\G-Navigation.csproj.AssemblyReference.cache
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\G-Navigation\G-Navigation\obj\Debug\G_Navigation.EncyclopediaForm.resources
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\G-Navigation\G-Navigation\obj\Debug\G_Navigation.AboutUsForm.resources
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\G-Navigation\G-Navigation\obj\Debug\G_Navigation.GamesForm.resources
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\G-Navigation\G-Navigation\obj\Debug\G_Navigation.HomeForm.resources
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\G-Navigation\G-Navigation\obj\Debug\G_Navigation.Properties.Resources.resources
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\G-Navigation\G-Navigation\obj\Debug\G-Navigation.csproj.GenerateResource.cache
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\G-Navigation\G-Navigation\obj\Debug\G-Navigation.csproj.CoreCompileInputs.cache
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\G-Navigation\G-Navigation\obj\Debug\G-Navigation.exe
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\G-Navigation\G-Navigation\obj\Debug\G-Navigation.pdb

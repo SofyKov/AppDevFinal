@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PictureVideoPage", "..\Pict
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EarthPage", "..\EarthPage\EarthPage\EarthPage\EarthPage.csproj", "{EE624FCB-3131-444A-846A-5D054348BC63}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MontreWild", "..\MontreWild\MontreWild\MontreWild.csproj", "{726963DA-2B3B-4267-A424-6C5B6DEBCC69}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MontreWild", "..\..\..\..\..\..\..\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\MontreWild\MontreWild\MontreWild.csproj", "{726963DA-2B3B-4267-A424-6C5B6DEBCC69}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

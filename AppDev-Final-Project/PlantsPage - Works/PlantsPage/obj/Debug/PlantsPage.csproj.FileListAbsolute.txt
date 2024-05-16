@@ -105,3 +105,47 @@ C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a
 C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\PlantsPage - Works\PlantsPage\obj\Debug\pt-PT\PlantsPage.resources.dll
 C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\PlantsPage - Works\PlantsPage\obj\Debug\PlantsPage.exe
 C:\temp\AppDev-Final-Project-4d - Copy\AppDev-Final-Project-4d522cc8e4a4d1dfc52a92cea51e5abbc901d5c1\PlantsPage - Works\PlantsPage\obj\Debug\PlantsPage.pdb
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\PlantsPage - Works\PlantsPage\bin\Debug\PlantsPage.exe.config
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\PlantsPage - Works\PlantsPage\bin\Debug\PlantsPage.exe
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\PlantsPage - Works\PlantsPage\bin\Debug\PlantsPage.pdb
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\PlantsPage - Works\PlantsPage\bin\Debug\es-MX\PlantsPage.resources.dll
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\PlantsPage - Works\PlantsPage\bin\Debug\fr-CA\PlantsPage.resources.dll
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\PlantsPage - Works\PlantsPage\bin\Debug\fr\PlantsPage.resources.dll
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\PlantsPage - Works\PlantsPage\bin\Debug\pt-PT\PlantsPage.resources.dll
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\PlantsPage - Works\PlantsPage\obj\Debug\PlantsPage.csproj.AssemblyReference.cache
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\PlantsPage - Works\PlantsPage\obj\Debug\PlantsPage.ClockControl.resources
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\PlantsPage - Works\PlantsPage\obj\Debug\PlantsPage.FloraForm.resources
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\PlantsPage - Works\PlantsPage\obj\Debug\PlantsPage.MapInfoForm.resources
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\PlantsPage - Works\PlantsPage\obj\Debug\PlantsPage.MapsPage.resources
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\PlantsPage - Works\PlantsPage\obj\Debug\PlantsPage.PlantsPage.resources
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\PlantsPage - Works\PlantsPage\obj\Debug\PlantsPage.Properties.Resources.resources
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\PlantsPage - Works\PlantsPage\obj\Debug\PlantsPage.ShrubsPage.resources
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\PlantsPage - Works\PlantsPage\obj\Debug\PlantsPage.TreePage.resources
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\PlantsPage - Works\PlantsPage\obj\Debug\PlantsPage.FloraForm.es-MX.resources
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\PlantsPage - Works\PlantsPage\obj\Debug\PlantsPage.FloraForm.fr-CA.resources
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\PlantsPage - Works\PlantsPage\obj\Debug\PlantsPage.FloraForm.fr.resources
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\PlantsPage - Works\PlantsPage\obj\Debug\PlantsPage.FloraForm.pt-PT.resources
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\PlantsPage - Works\PlantsPage\obj\Debug\PlantsPage.MapInfoForm.es-MX.resources
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\PlantsPage - Works\PlantsPage\obj\Debug\PlantsPage.MapInfoForm.fr-CA.resources
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\PlantsPage - Works\PlantsPage\obj\Debug\PlantsPage.MapInfoForm.pt-PT.resources
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\PlantsPage - Works\PlantsPage\obj\Debug\PlantsPage.MapsPage.es-MX.resources
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\PlantsPage - Works\PlantsPage\obj\Debug\PlantsPage.MapsPage.fr-CA.resources
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\PlantsPage - Works\PlantsPage\obj\Debug\PlantsPage.MapsPage.fr.resources
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\PlantsPage - Works\PlantsPage\obj\Debug\PlantsPage.MapsPage.pt-PT.resources
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\PlantsPage - Works\PlantsPage\obj\Debug\PlantsPage.PlantsPage.es-MX.resources
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\PlantsPage - Works\PlantsPage\obj\Debug\PlantsPage.PlantsPage.fr-CA.resources
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\PlantsPage - Works\PlantsPage\obj\Debug\PlantsPage.PlantsPage.pt-PT.resources
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\PlantsPage - Works\PlantsPage\obj\Debug\PlantsPage.ShrubsPage.es-MX.resources
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\PlantsPage - Works\PlantsPage\obj\Debug\PlantsPage.ShrubsPage.fr-CA.resources
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\PlantsPage - Works\PlantsPage\obj\Debug\PlantsPage.ShrubsPage.pt-PT.resources
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\PlantsPage - Works\PlantsPage\obj\Debug\PlantsPage.TreePage.es-MX.resources
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\PlantsPage - Works\PlantsPage\obj\Debug\PlantsPage.TreePage.fr-CA.resources
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\PlantsPage - Works\PlantsPage\obj\Debug\PlantsPage.TreePage.pt-PT.resources
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\PlantsPage - Works\PlantsPage\obj\Debug\PlantsPage.csproj.GenerateResource.cache
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\PlantsPage - Works\PlantsPage\obj\Debug\PlantsPage.csproj.CoreCompileInputs.cache
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\PlantsPage - Works\PlantsPage\obj\Debug\es-MX\PlantsPage.resources.dll
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\PlantsPage - Works\PlantsPage\obj\Debug\fr-CA\PlantsPage.resources.dll
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\PlantsPage - Works\PlantsPage\obj\Debug\fr\PlantsPage.resources.dll
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\PlantsPage - Works\PlantsPage\obj\Debug\pt-PT\PlantsPage.resources.dll
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\PlantsPage - Works\PlantsPage\obj\Debug\PlantsPage.exe
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\PlantsPage - Works\PlantsPage\obj\Debug\PlantsPage.pdb
