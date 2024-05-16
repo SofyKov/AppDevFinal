@@ -117,6 +117,24 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <metadata name="montreWildDBDataSet.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>132, 17</value>
+  </metadata>
+  <metadata name="combinedDataBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>304, 17</value>
+  </metadata>
+  <metadata name="combinedDataTableAdapter.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>513, 17</value>
+  </metadata>
+  <metadata name="tableAdapterManager.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>714, 17</value>
+  </metadata>
+  <metadata name="combinedDataBindingSource1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>883, 17</value>
+  </metadata>
+  <metadata name="combinedDataBindingSource2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>1098, 17</value>
+  </metadata>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="HomeMainPanel.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -517,6 +535,110 @@
         8HPz44/M2+cNw143Z/T4OPzP0f8AXluiP95p8k/WJ+94v3psfJP2fIuJ/wDT5mpCOiaIzR8zdP3PBpNH
         z4/q8aeSczZH901n7HjbxxOPHH8S5TVP1PH/2Q==
 </value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="HomeMainPanel.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Stretch</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="label1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt, style=Bold</value>
+  </data>
+  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>857, 7</value>
+  </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>84, 16</value>
+  </data>
+  <data name="label1.TabIndex" type="System.Int32, mscorlib">
+    <value>21</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>Languages</value>
+  </data>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>HomeMainPanel</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="languagesComboBox.Items" xml:space="preserve">
+    <value>French</value>
+  </data>
+  <data name="languagesComboBox.Items1" xml:space="preserve">
+    <value>English</value>
+  </data>
+  <data name="languagesComboBox.Items2" xml:space="preserve">
+    <value>Spanish</value>
+  </data>
+  <data name="languagesComboBox.Items3" xml:space="preserve">
+    <value>Portugese</value>
+  </data>
+  <data name="languagesComboBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>947, 6</value>
+  </data>
+  <data name="languagesComboBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>83, 21</value>
+  </data>
+  <data name="languagesComboBox.TabIndex" type="System.Int32, mscorlib">
+    <value>20</value>
+  </data>
+  <data name="&gt;&gt;languagesComboBox.Name" xml:space="preserve">
+    <value>languagesComboBox</value>
+  </data>
+  <data name="&gt;&gt;languagesComboBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;languagesComboBox.Parent" xml:space="preserve">
+    <value>HomeMainPanel</value>
+  </data>
+  <data name="&gt;&gt;languagesComboBox.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="Earth_btn.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Left</value>
+  </data>
+  <data name="Earth_btn.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="Earth_btn.Font" type="System.Drawing.Font, System.Drawing">
+    <value>MS Reference Sans Serif, 14.25pt, style=Bold</value>
+  </data>
+  <data name="Earth_btn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>420, 404</value>
+  </data>
+  <data name="Earth_btn.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>1, 1, 1, 1</value>
+  </data>
+  <data name="Earth_btn.Size" type="System.Drawing.Size, System.Drawing">
+    <value>240, 90</value>
+  </data>
+  <data name="Earth_btn.TabIndex" type="System.Int32, mscorlib">
+    <value>19</value>
+  </data>
+  <data name="Earth_btn.Text" xml:space="preserve">
+    <value>EARTH</value>
+  </data>
+  <data name="&gt;&gt;Earth_btn.Name" xml:space="preserve">
+    <value>Earth_btn</value>
+  </data>
+  <data name="&gt;&gt;Earth_btn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Earth_btn.Parent" xml:space="preserve">
+    <value>HomeMainPanel</value>
+  </data>
+  <data name="&gt;&gt;Earth_btn.ZOrder" xml:space="preserve">
+    <value>2</value>
   </data>
   <data name="pictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -1285,24 +1407,306 @@
         URRFURRFURRFURRFURTl/zf+4A/+N8l4Tz2AsqQLAAAAAElFTkSuQmCC
 </value>
   </data>
-  <metadata name="montreWildDBDataSet.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>132, 17</value>
+  <data name="pictureBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>289, 139</value>
+  </data>
+  <data name="pictureBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>472, 173</value>
+  </data>
+  <data name="pictureBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>18</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.Name" xml:space="preserve">
+    <value>pictureBox1</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.Parent" xml:space="preserve">
+    <value>HomeMainPanel</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="button9.Location" type="System.Drawing.Point, System.Drawing">
+    <value>987, 524</value>
+  </data>
+  <data name="button9.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>1, 1, 1, 1</value>
+  </data>
+  <data name="button9.Size" type="System.Drawing.Size, System.Drawing">
+    <value>41, 29</value>
+  </data>
+  <data name="button9.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="button9.Text" xml:space="preserve">
+    <value>FRE</value>
+  </data>
+  <data name="&gt;&gt;button9.Name" xml:space="preserve">
+    <value>button9</value>
+  </data>
+  <data name="&gt;&gt;button9.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button9.Parent" xml:space="preserve">
+    <value>HomeMainPanel</value>
+  </data>
+  <data name="&gt;&gt;button9.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="Maps_btn.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Left</value>
+  </data>
+  <data name="Maps_btn.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="Maps_btn.Font" type="System.Drawing.Font, System.Drawing">
+    <value>MS Reference Sans Serif, 14.25pt, style=Bold</value>
+  </data>
+  <data name="Maps_btn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>33, 404</value>
+  </data>
+  <data name="Maps_btn.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>1, 1, 1, 1</value>
+  </data>
+  <data name="Maps_btn.Size" type="System.Drawing.Size, System.Drawing">
+    <value>240, 90</value>
+  </data>
+  <data name="Maps_btn.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="Maps_btn.Text" xml:space="preserve">
+    <value>MAPS</value>
+  </data>
+  <data name="&gt;&gt;Maps_btn.Name" xml:space="preserve">
+    <value>Maps_btn</value>
+  </data>
+  <data name="&gt;&gt;Maps_btn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Maps_btn.Parent" xml:space="preserve">
+    <value>HomeMainPanel</value>
+  </data>
+  <data name="&gt;&gt;Maps_btn.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="Encyclopedia_btn.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Left</value>
+  </data>
+  <data name="Encyclopedia_btn.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="Encyclopedia_btn.Font" type="System.Drawing.Font, System.Drawing">
+    <value>MS Reference Sans Serif, 14.25pt, style=Bold</value>
+  </data>
+  <data name="Encyclopedia_btn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>33, 222</value>
+  </data>
+  <data name="Encyclopedia_btn.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>1, 1, 1, 1</value>
+  </data>
+  <data name="Encyclopedia_btn.Size" type="System.Drawing.Size, System.Drawing">
+    <value>240, 90</value>
+  </data>
+  <data name="Encyclopedia_btn.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="Encyclopedia_btn.Text" xml:space="preserve">
+    <value>ENCYCLOPEDIA</value>
+  </data>
+  <data name="&gt;&gt;Encyclopedia_btn.Name" xml:space="preserve">
+    <value>Encyclopedia_btn</value>
+  </data>
+  <data name="&gt;&gt;Encyclopedia_btn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Encyclopedia_btn.Parent" xml:space="preserve">
+    <value>HomeMainPanel</value>
+  </data>
+  <data name="&gt;&gt;Encyclopedia_btn.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="Fauna_btn.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Left</value>
+  </data>
+  <data name="Fauna_btn.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="Fauna_btn.Font" type="System.Drawing.Font, System.Drawing">
+    <value>MS Reference Sans Serif, 14.25pt, style=Bold</value>
+  </data>
+  <data name="Fauna_btn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>33, 42</value>
+  </data>
+  <data name="Fauna_btn.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>1, 1, 1, 1</value>
+  </data>
+  <data name="Fauna_btn.Size" type="System.Drawing.Size, System.Drawing">
+    <value>240, 90</value>
+  </data>
+  <data name="Fauna_btn.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="Fauna_btn.Text" xml:space="preserve">
+    <value>FAUNA</value>
+  </data>
+  <data name="&gt;&gt;Fauna_btn.Name" xml:space="preserve">
+    <value>Fauna_btn</value>
+  </data>
+  <data name="&gt;&gt;Fauna_btn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Fauna_btn.Parent" xml:space="preserve">
+    <value>HomeMainPanel</value>
+  </data>
+  <data name="&gt;&gt;Fauna_btn.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="gamesButton.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Right</value>
+  </data>
+  <data name="gamesButton.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="gamesButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>MS Reference Sans Serif, 14.25pt, style=Bold</value>
+  </data>
+  <data name="gamesButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>776, 402</value>
+  </data>
+  <data name="gamesButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>1, 1, 1, 1</value>
+  </data>
+  <data name="gamesButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>240, 90</value>
+  </data>
+  <data name="gamesButton.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="gamesButton.Text" xml:space="preserve">
+    <value>GAMES</value>
+  </data>
+  <data name="&gt;&gt;gamesButton.Name" xml:space="preserve">
+    <value>gamesButton</value>
+  </data>
+  <data name="&gt;&gt;gamesButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;gamesButton.Parent" xml:space="preserve">
+    <value>HomeMainPanel</value>
+  </data>
+  <data name="&gt;&gt;gamesButton.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="Gallery_btn.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Right</value>
+  </data>
+  <data name="Gallery_btn.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="Gallery_btn.Font" type="System.Drawing.Font, System.Drawing">
+    <value>MS Reference Sans Serif, 14.25pt, style=Bold</value>
+  </data>
+  <data name="Gallery_btn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>776, 222</value>
+  </data>
+  <data name="Gallery_btn.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>1, 1, 1, 1</value>
+  </data>
+  <data name="Gallery_btn.Size" type="System.Drawing.Size, System.Drawing">
+    <value>240, 90</value>
+  </data>
+  <data name="Gallery_btn.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="Gallery_btn.Text" xml:space="preserve">
+    <value>GALLERY</value>
+  </data>
+  <data name="&gt;&gt;Gallery_btn.Name" xml:space="preserve">
+    <value>Gallery_btn</value>
+  </data>
+  <data name="&gt;&gt;Gallery_btn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Gallery_btn.Parent" xml:space="preserve">
+    <value>HomeMainPanel</value>
+  </data>
+  <data name="&gt;&gt;Gallery_btn.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="Flora_btn.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Right</value>
+  </data>
+  <data name="Flora_btn.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="Flora_btn.Font" type="System.Drawing.Font, System.Drawing">
+    <value>MS Reference Sans Serif, 14.25pt, style=Bold</value>
+  </data>
+  <data name="Flora_btn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>776, 42</value>
+  </data>
+  <data name="Flora_btn.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>1, 1, 1, 1</value>
+  </data>
+  <data name="Flora_btn.Size" type="System.Drawing.Size, System.Drawing">
+    <value>240, 90</value>
+  </data>
+  <data name="Flora_btn.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="Flora_btn.Text" xml:space="preserve">
+    <value>FLORA</value>
+  </data>
+  <data name="&gt;&gt;Flora_btn.Name" xml:space="preserve">
+    <value>Flora_btn</value>
+  </data>
+  <data name="&gt;&gt;Flora_btn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Flora_btn.Parent" xml:space="preserve">
+    <value>HomeMainPanel</value>
+  </data>
+  <data name="&gt;&gt;Flora_btn.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="HomeMainPanel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 65</value>
+  </data>
+  <data name="HomeMainPanel.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>1, 1, 1, 1</value>
+  </data>
+  <data name="HomeMainPanel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1042, 523</value>
+  </data>
+  <data name="HomeMainPanel.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;HomeMainPanel.Name" xml:space="preserve">
+    <value>HomeMainPanel</value>
+  </data>
+  <data name="&gt;&gt;HomeMainPanel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;HomeMainPanel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;HomeMainPanel.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
   </metadata>
-  <metadata name="combinedDataBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>304, 17</value>
-  </metadata>
-  <metadata name="combinedDataTableAdapter.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>513, 17</value>
-  </metadata>
-  <metadata name="tableAdapterManager.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>714, 17</value>
-  </metadata>
-  <metadata name="combinedDataBindingSource1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>883, 17</value>
-  </metadata>
-  <metadata name="combinedDataBindingSource2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>1098, 17</value>
-  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 13</value>
+  </data>
+  <data name="$this.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>1042, 585</value>
+  </data>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         AAABAAEAMDAAAAEAIACoJQAAFgAAACgAAAAwAAAAYAAAAAEAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -1468,5 +1872,53 @@
         AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
         AAA=
 </value>
+  </data>
+  <data name="$this.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>MontreWild - Main Page</value>
+  </data>
+  <data name="&gt;&gt;montreWildDBDataSet.Name" xml:space="preserve">
+    <value>montreWildDBDataSet</value>
+  </data>
+  <data name="&gt;&gt;montreWildDBDataSet.Type" xml:space="preserve">
+    <value>G_Navigation.MontreWildDBDataSet, MontreWildDBDataSet.Designer.cs.dll, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;combinedDataBindingSource.Name" xml:space="preserve">
+    <value>combinedDataBindingSource</value>
+  </data>
+  <data name="&gt;&gt;combinedDataBindingSource.Type" xml:space="preserve">
+    <value>System.Windows.Forms.BindingSource, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;combinedDataTableAdapter.Name" xml:space="preserve">
+    <value>combinedDataTableAdapter</value>
+  </data>
+  <data name="&gt;&gt;combinedDataTableAdapter.Type" xml:space="preserve">
+    <value>G_Navigation.MontreWildDBDataSetTableAdapters.CombinedDataTableAdapter, MontreWildDBDataSet.Designer.cs.dll, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;tableAdapterManager.Name" xml:space="preserve">
+    <value>tableAdapterManager</value>
+  </data>
+  <data name="&gt;&gt;tableAdapterManager.Type" xml:space="preserve">
+    <value>G_Navigation.MontreWildDBDataSetTableAdapters.TableAdapterManager, MontreWildDBDataSet.Designer.cs.dll, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;combinedDataBindingSource1.Name" xml:space="preserve">
+    <value>combinedDataBindingSource1</value>
+  </data>
+  <data name="&gt;&gt;combinedDataBindingSource1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.BindingSource, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;combinedDataBindingSource2.Name" xml:space="preserve">
+    <value>combinedDataBindingSource2</value>
+  </data>
+  <data name="&gt;&gt;combinedDataBindingSource2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.BindingSource, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>HomeForm</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>Navigation.NavigationForm, Navigation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </data>
 </root>

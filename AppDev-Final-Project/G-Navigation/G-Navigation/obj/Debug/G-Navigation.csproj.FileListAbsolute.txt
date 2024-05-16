@@ -84,3 +84,12 @@ C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\G-Navigation\G-N
 C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\G-Navigation\G-Navigation\obj\Debug\G-Navigation.csproj.CopyComplete
 C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\G-Navigation\G-Navigation\obj\Debug\G-Navigation.exe
 C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\G-Navigation\G-Navigation\obj\Debug\G-Navigation.pdb
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\G-Navigation\G-Navigation\obj\Debug\G_Navigation.HomeForm.es-MX.resources
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\G-Navigation\G-Navigation\obj\Debug\G_Navigation.HomeForm.fr-CA.resources
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\G-Navigation\G-Navigation\obj\Debug\G_Navigation.HomeForm.pt-PT.resources
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\G-Navigation\G-Navigation\bin\Debug\es-MX\G-Navigation.resources.dll
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\G-Navigation\G-Navigation\bin\Debug\fr-CA\G-Navigation.resources.dll
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\G-Navigation\G-Navigation\bin\Debug\pt-PT\G-Navigation.resources.dll
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\G-Navigation\G-Navigation\obj\Debug\es-MX\G-Navigation.resources.dll
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\G-Navigation\G-Navigation\obj\Debug\fr-CA\G-Navigation.resources.dll
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\G-Navigation\G-Navigation\obj\Debug\pt-PT\G-Navigation.resources.dll

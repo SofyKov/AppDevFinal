@@ -4,6 +4,7 @@ using PictureVideoPage;
 using PlantsPage;
 using System;
 using System.Drawing;
+using System.Threading;
 using System.Windows.Forms;
 
 namespace G_Navigation
@@ -23,6 +24,7 @@ namespace G_Navigation
 
         public HomeForm()
         {
+            Thread.CurrentThread.CurrentCulture = new System.Globalization.CultureInfo("en");
             InitializeComponent();
             NavigationItemSelected += NavigationForm_NavigationItemSelected;
             FormManager.RegisterHomeForm(this.HomeMainPanel);
@@ -249,6 +251,32 @@ namespace G_Navigation
             floraForm.Visible = false;
 
             EarthForm.Show();
+        }
+
+        private void languagesComboBox_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+            var changeLanguage = new ChangingLanguages();
+
+            switch (languagesComboBox.SelectedIndex)
+            {
+                case 0:
+                    changeLanguage.UpdateConfig("language", "fr-CA");
+                    Application.Restart();
+                    break;
+                case 1:
+                    changeLanguage.UpdateConfig("language", "en");
+                    Application.Restart();
+                    break;
+                case 2:
+                    changeLanguage.UpdateConfig("language", "es-MX");
+                    Application.Restart();
+                    break;
+                case 3:
+                    changeLanguage.UpdateConfig("language", "pt-PT");
+                    Application.Restart();
+                    break;
+            }
         }
     }
 }

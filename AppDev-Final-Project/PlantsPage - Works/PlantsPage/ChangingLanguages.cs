@@ -8,7 +8,7 @@ using System.Xml;
 
 namespace PlantsPage
 {
-    internal class ChangingLanguages
+    class ChangingLanguages
     {
         public void UpdateConfig(string key, string value)
         {

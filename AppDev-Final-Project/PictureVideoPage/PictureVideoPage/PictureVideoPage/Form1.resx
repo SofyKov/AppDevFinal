@@ -126,10 +126,14 @@
     <value>Modern No. 20, 19.8pt, style=Bold</value>
   </data>
   <data name="videoLabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>534, 1344</value>
+    <value>400, 1092</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="videoLabel.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 0, 2, 0</value>
   </data>
   <data name="videoLabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>142, 34</value>
+    <value>118, 29</value>
   </data>
   <data name="videoLabel.TabIndex" type="System.Int32, mscorlib">
     <value>7</value>
@@ -150,10 +154,13 @@
     <value>3</value>
   </data>
   <data name="goose.Location" type="System.Drawing.Point, System.Drawing">
-    <value>341, 43</value>
+    <value>256, 35</value>
+  </data>
+  <data name="goose.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
   </data>
   <data name="goose.Size" type="System.Drawing.Size, System.Drawing">
-    <value>273, 120</value>
+    <value>205, 98</value>
   </data>
   <data name="goose.TabIndex" type="System.Int32, mscorlib">
     <value>9</value>
@@ -171,10 +178,13 @@
     <value>0</value>
   </data>
   <data name="hyssops.Location" type="System.Drawing.Point, System.Drawing">
-    <value>341, 813</value>
+    <value>256, 661</value>
+  </data>
+  <data name="hyssops.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
   </data>
   <data name="hyssops.Size" type="System.Drawing.Size, System.Drawing">
-    <value>568, 228</value>
+    <value>426, 185</value>
   </data>
   <data name="hyssops.TabIndex" type="System.Int32, mscorlib">
     <value>8</value>
@@ -192,10 +202,13 @@
     <value>1</value>
   </data>
   <data name="raspberry.Location" type="System.Drawing.Point, System.Drawing">
-    <value>43, 699</value>
+    <value>32, 568</value>
+  </data>
+  <data name="raspberry.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
   </data>
   <data name="raspberry.Size" type="System.Drawing.Size, System.Drawing">
-    <value>273, 342</value>
+    <value>205, 278</value>
   </data>
   <data name="raspberry.TabIndex" type="System.Int32, mscorlib">
     <value>7</value>
@@ -213,10 +226,13 @@
     <value>2</value>
   </data>
   <data name="salamander.Location" type="System.Drawing.Point, System.Drawing">
-    <value>341, 454</value>
+    <value>256, 369</value>
+  </data>
+  <data name="salamander.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
   </data>
   <data name="salamander.Size" type="System.Drawing.Size, System.Drawing">
-    <value>568, 342</value>
+    <value>426, 278</value>
   </data>
   <data name="salamander.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
@@ -234,10 +250,13 @@
     <value>3</value>
   </data>
   <data name="groundHog.Location" type="System.Drawing.Point, System.Drawing">
-    <value>43, 371</value>
+    <value>32, 301</value>
+  </data>
+  <data name="groundHog.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
   </data>
   <data name="groundHog.Size" type="System.Drawing.Size, System.Drawing">
-    <value>273, 294</value>
+    <value>205, 239</value>
   </data>
   <data name="groundHog.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -255,10 +274,13 @@
     <value>4</value>
   </data>
   <data name="deer.Location" type="System.Drawing.Point, System.Drawing">
-    <value>636, 43</value>
+    <value>477, 35</value>
+  </data>
+  <data name="deer.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
   </data>
   <data name="deer.Size" type="System.Drawing.Size, System.Drawing">
-    <value>273, 192</value>
+    <value>205, 156</value>
   </data>
   <data name="deer.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -276,10 +298,13 @@
     <value>5</value>
   </data>
   <data name="bloodRoot.Location" type="System.Drawing.Point, System.Drawing">
-    <value>341, 179</value>
+    <value>256, 145</value>
+  </data>
+  <data name="bloodRoot.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
   </data>
   <data name="bloodRoot.Size" type="System.Drawing.Size, System.Drawing">
-    <value>273, 251</value>
+    <value>205, 204</value>
   </data>
   <data name="bloodRoot.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -297,10 +322,13 @@
     <value>6</value>
   </data>
   <data name="silverMaple.Location" type="System.Drawing.Point, System.Drawing">
-    <value>636, 270</value>
+    <value>477, 219</value>
+  </data>
+  <data name="silverMaple.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
   </data>
   <data name="silverMaple.Size" type="System.Drawing.Size, System.Drawing">
-    <value>273, 160</value>
+    <value>205, 130</value>
   </data>
   <data name="silverMaple.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -318,10 +346,13 @@
     <value>7</value>
   </data>
   <data name="pigeonImage.Location" type="System.Drawing.Point, System.Drawing">
-    <value>43, 43</value>
+    <value>32, 35</value>
+  </data>
+  <data name="pigeonImage.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
   </data>
   <data name="pigeonImage.Size" type="System.Drawing.Size, System.Drawing">
-    <value>273, 294</value>
+    <value>205, 239</value>
   </data>
   <data name="pigeonImage.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -339,10 +370,13 @@
     <value>8</value>
   </data>
   <data name="picturePanel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>136, 229</value>
+    <value>102, 186</value>
+  </data>
+  <data name="picturePanel.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
   </data>
   <data name="picturePanel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>946, 1076</value>
+    <value>710, 874</value>
   </data>
   <data name="picturePanel.TabIndex" type="System.Int32, mscorlib">
     <value>8</value>
@@ -366,10 +400,13 @@
     <value>Modern No. 20, 19.8pt, style=Bold</value>
   </data>
   <data name="pictureLabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>541, 167</value>
+    <value>406, 136</value>
+  </data>
+  <data name="pictureLabel.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 0, 2, 0</value>
   </data>
   <data name="pictureLabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>164, 34</value>
+    <value>136, 29</value>
   </data>
   <data name="pictureLabel.TabIndex" type="System.Int32, mscorlib">
     <value>9</value>
@@ -390,10 +427,13 @@
     <value>1</value>
   </data>
   <data name="hyssopsPictureBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>122, 103</value>
+    <value>92, 84</value>
+  </data>
+  <data name="hyssopsPictureBox.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
   </data>
   <data name="hyssopsPictureBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>866, 320</value>
+    <value>650, 260</value>
   </data>
   <data name="hyssopsPictureBox.TabIndex" type="System.Int32, mscorlib">
     <value>7</value>
@@ -414,10 +454,13 @@
     <value>0</value>
   </data>
   <data name="goosePictureBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>108, 120</value>
+    <value>81, 98</value>
+  </data>
+  <data name="goosePictureBox.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
   </data>
   <data name="goosePictureBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>868, 320</value>
+    <value>651, 260</value>
   </data>
   <data name="goosePictureBox.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -438,10 +481,13 @@
     <value>1</value>
   </data>
   <data name="bloodrootPictureBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>108, 120</value>
+    <value>81, 98</value>
+  </data>
+  <data name="bloodrootPictureBox.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
   </data>
   <data name="bloodrootPictureBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>866, 320</value>
+    <value>650, 260</value>
   </data>
   <data name="bloodrootPictureBox.TabIndex" type="System.Int32, mscorlib">
     <value>6</value>
@@ -462,10 +508,13 @@
     <value>2</value>
   </data>
   <data name="raspberryPictureBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>350, 123</value>
+    <value>262, 100</value>
+  </data>
+  <data name="raspberryPictureBox.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
   </data>
   <data name="raspberryPictureBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>389, 317</value>
+    <value>292, 258</value>
   </data>
   <data name="raspberryPictureBox.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -486,10 +535,13 @@
     <value>3</value>
   </data>
   <data name="pigeonPictureBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>110, 11</value>
+    <value>82, 9</value>
+  </data>
+  <data name="pigeonPictureBox.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
   </data>
   <data name="pigeonPictureBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>866, 475</value>
+    <value>650, 386</value>
   </data>
   <data name="pigeonPictureBox.TabIndex" type="System.Int32, mscorlib">
     <value>8</value>
@@ -510,10 +562,13 @@
     <value>4</value>
   </data>
   <data name="groundHogPictureBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>108, 8</value>
+    <value>81, 6</value>
+  </data>
+  <data name="groundHogPictureBox.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
   </data>
   <data name="groundHogPictureBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>866, 478</value>
+    <value>650, 388</value>
   </data>
   <data name="groundHogPictureBox.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
@@ -534,10 +589,13 @@
     <value>5</value>
   </data>
   <data name="salamaderPictureBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>129, 8</value>
+    <value>97, 6</value>
+  </data>
+  <data name="salamaderPictureBox.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
   </data>
   <data name="salamaderPictureBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>808, 468</value>
+    <value>606, 380</value>
   </data>
   <data name="salamaderPictureBox.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -558,10 +616,13 @@
     <value>6</value>
   </data>
   <data name="deerPictureBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>110, 13</value>
+    <value>82, 11</value>
+  </data>
+  <data name="deerPictureBox.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
   </data>
   <data name="deerPictureBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>866, 427</value>
+    <value>650, 347</value>
   </data>
   <data name="deerPictureBox.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -582,10 +643,13 @@
     <value>7</value>
   </data>
   <data name="mapleSilverPictureBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>293, 103</value>
+    <value>220, 84</value>
+  </data>
+  <data name="mapleSilverPictureBox.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
   </data>
   <data name="mapleSilverPictureBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>509, 320</value>
+    <value>382, 260</value>
   </data>
   <data name="mapleSilverPictureBox.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -606,10 +670,13 @@
     <value>8</value>
   </data>
   <data name="pigeonBackButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>18, 463</value>
+    <value>14, 376</value>
+  </data>
+  <data name="pigeonBackButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
   </data>
   <data name="pigeonBackButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>75, 23</value>
+    <value>56, 19</value>
   </data>
   <data name="pigeonBackButton.TabIndex" type="System.Int32, mscorlib">
     <value>18</value>
@@ -630,10 +697,13 @@
     <value>9</value>
   </data>
   <data name="bloodrootBackButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>18, 463</value>
+    <value>14, 376</value>
+  </data>
+  <data name="bloodrootBackButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
   </data>
   <data name="bloodrootBackButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>75, 23</value>
+    <value>56, 19</value>
   </data>
   <data name="bloodrootBackButton.TabIndex" type="System.Int32, mscorlib">
     <value>17</value>
@@ -654,10 +724,13 @@
     <value>10</value>
   </data>
   <data name="deerBackButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>18, 463</value>
+    <value>14, 376</value>
+  </data>
+  <data name="deerBackButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
   </data>
   <data name="deerBackButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>75, 23</value>
+    <value>56, 19</value>
   </data>
   <data name="deerBackButton.TabIndex" type="System.Int32, mscorlib">
     <value>16</value>
@@ -678,10 +751,13 @@
     <value>11</value>
   </data>
   <data name="silverMapleBackButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>18, 463</value>
+    <value>14, 376</value>
+  </data>
+  <data name="silverMapleBackButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
   </data>
   <data name="silverMapleBackButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>75, 23</value>
+    <value>56, 19</value>
   </data>
   <data name="silverMapleBackButton.TabIndex" type="System.Int32, mscorlib">
     <value>15</value>
@@ -702,10 +778,13 @@
     <value>12</value>
   </data>
   <data name="groundHogBackButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>18, 463</value>
+    <value>14, 376</value>
+  </data>
+  <data name="groundHogBackButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
   </data>
   <data name="groundHogBackButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>75, 23</value>
+    <value>56, 19</value>
   </data>
   <data name="groundHogBackButton.TabIndex" type="System.Int32, mscorlib">
     <value>14</value>
@@ -726,10 +805,13 @@
     <value>13</value>
   </data>
   <data name="hyssopsBackButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>18, 463</value>
+    <value>14, 376</value>
+  </data>
+  <data name="hyssopsBackButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
   </data>
   <data name="hyssopsBackButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>75, 23</value>
+    <value>56, 19</value>
   </data>
   <data name="hyssopsBackButton.TabIndex" type="System.Int32, mscorlib">
     <value>13</value>
@@ -753,10 +835,13 @@
     <value>14</value>
   </data>
   <data name="salamanderbackButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>18, 463</value>
+    <value>14, 376</value>
+  </data>
+  <data name="salamanderbackButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
   </data>
   <data name="salamanderbackButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>75, 23</value>
+    <value>56, 19</value>
   </data>
   <data name="salamanderbackButton.TabIndex" type="System.Int32, mscorlib">
     <value>12</value>
@@ -780,10 +865,13 @@
     <value>15</value>
   </data>
   <data name="raspberryBackButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>18, 463</value>
+    <value>14, 376</value>
+  </data>
+  <data name="raspberryBackButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
   </data>
   <data name="raspberryBackButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>75, 23</value>
+    <value>56, 19</value>
   </data>
   <data name="raspberryBackButton.TabIndex" type="System.Int32, mscorlib">
     <value>11</value>
@@ -807,10 +895,13 @@
     <value>16</value>
   </data>
   <data name="gooseBackButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>18, 463</value>
+    <value>14, 376</value>
+  </data>
+  <data name="gooseBackButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
   </data>
   <data name="gooseBackButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>75, 23</value>
+    <value>56, 19</value>
   </data>
   <data name="gooseBackButton.TabIndex" type="System.Int32, mscorlib">
     <value>9</value>
@@ -834,10 +925,13 @@
     <value>17</value>
   </data>
   <data name="biggerImagePanel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>82, 32</value>
+    <value>62, 26</value>
+  </data>
+  <data name="biggerImagePanel.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
   </data>
   <data name="biggerImagePanel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1120, 1590</value>
+    <value>840, 1292</value>
   </data>
   <data name="biggerImagePanel.TabIndex" type="System.Int32, mscorlib">
     <value>12</value>
@@ -864,10 +958,13 @@
     <value>Modern No. 20, 10.2pt</value>
   </data>
   <data name="parcOmegaLinkLabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>54, 158</value>
+    <value>40, 128</value>
+  </data>
+  <data name="parcOmegaLinkLabel.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 0, 2, 0</value>
   </data>
   <data name="parcOmegaLinkLabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>119, 20</value>
+    <value>97, 16</value>
   </data>
   <data name="parcOmegaLinkLabel.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -894,10 +991,13 @@
     <value>Modern No. 20, 10.2pt, style=Bold</value>
   </data>
   <data name="animalEncountersLinkLabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>53, 105</value>
+    <value>40, 85</value>
+  </data>
+  <data name="animalEncountersLinkLabel.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 0, 2, 0</value>
   </data>
   <data name="animalEncountersLinkLabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>331, 20</value>
+    <value>278, 16</value>
   </data>
   <data name="animalEncountersLinkLabel.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -925,10 +1025,13 @@
     <value>Modern No. 20, 10.2pt, style=Bold</value>
   </data>
   <data name="top10LinkLabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>53, 57</value>
+    <value>40, 46</value>
+  </data>
+  <data name="top10LinkLabel.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 0, 2, 0</value>
   </data>
   <data name="top10LinkLabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>262, 20</value>
+    <value>216, 16</value>
   </data>
   <data name="top10LinkLabel.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -949,10 +1052,13 @@
     <value>2</value>
   </data>
   <data name="videoPanel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>406, 1381</value>
+    <value>304, 1122</value>
+  </data>
+  <data name="videoPanel.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
   </data>
   <data name="videoPanel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>405, 253</value>
+    <value>304, 206</value>
   </data>
   <data name="videoPanel.TabIndex" type="System.Int32, mscorlib">
     <value>13</value>
@@ -982,10 +1088,13 @@
     <value>Portuguese</value>
   </data>
   <data name="languageComboBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>1058, 91</value>
+    <value>794, 74</value>
+  </data>
+  <data name="languageComboBox.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
   </data>
   <data name="languageComboBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>121, 24</value>
+    <value>92, 21</value>
   </data>
   <data name="languageComboBox.TabIndex" type="System.Int32, mscorlib">
     <value>14</value>
@@ -1006,10 +1115,13 @@
     <value>True</value>
   </data>
   <data name="languageLabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>944, 93</value>
+    <value>708, 76</value>
+  </data>
+  <data name="languageLabel.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 0, 2, 0</value>
   </data>
   <data name="languageLabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>68, 16</value>
+    <value>55, 13</value>
   </data>
   <data name="languageLabel.TabIndex" type="System.Int32, mscorlib">
     <value>15</value>
@@ -1033,13 +1145,16 @@
     <value>True</value>
   </metadata>
   <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
-    <value>8, 16</value>
+    <value>6, 13</value>
   </data>
   <data name="$this.AutoScroll" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>1325, 601</value>
+    <value>994, 447</value>
+  </data>
+  <data name="$this.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
     <value>Picture and Videos</value>
