@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emmas\\source\\repos\\AppDev-Final-Project\\ANIMAL\\Animals\\MontreWild\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{726963DA-2B3B-4267-A424-6C5B6DEBCC69}|MontreWild\\MontreWild.csproj|C:\\Users\\emmas\\source\\repos\\AppDev-Final-Project\\ANIMAL\\Animals\\MontreWild\\montrewild\\otheranimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{726963DA-2B3B-4267-A424-6C5B6DEBCC69}|MontreWild\\MontreWild.csproj|solutionrelative:montrewild\\otheranimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{726963DA-2B3B-4267-A424-6C5B6DEBCC69}|MontreWild\\MontreWild.csproj|c:\\users\\emmas\\source\\repos\\appdev-final-project\\animal\\animals\\montrewild\\montrewild\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{726963DA-2B3B-4267-A424-6C5B6DEBCC69}|MontreWild\\MontreWild.csproj|solutionrelative:montrewild\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{726963DA-2B3B-4267-A424-6C5B6DEBCC69}|MontreWild\\MontreWild.csproj|C:\\Users\\emmas\\source\\repos\\AppDev-Final-Project\\ANIMAL\\Animals\\MontreWild\\montrewild\\otheranimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{726963DA-2B3B-4267-A424-6C5B6DEBCC69}|MontreWild\\MontreWild.csproj|solutionrelative:montrewild\\otheranimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{726963DA-2B3B-4267-A424-6C5B6DEBCC69}|MontreWild\\MontreWild.csproj|C:\\Users\\emmas\\source\\repos\\AppDev-Final-Project\\ANIMAL\\Animals\\MontreWild\\montrewild\\birds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{726963DA-2B3B-4267-A424-6C5B6DEBCC69}|MontreWild\\MontreWild.csproj|solutionrelative:montrewild\\birds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{726963DA-2B3B-4267-A424-6C5B6DEBCC69}|MontreWild\\MontreWild.csproj|C:\\Users\\emmas\\source\\repos\\AppDev-Final-Project\\ANIMAL\\Animals\\MontreWild\\montrewild\\birds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{726963DA-2B3B-4267-A424-6C5B6DEBCC69}|MontreWild\\MontreWild.csproj|solutionrelative:montrewild\\birds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{726963DA-2B3B-4267-A424-6C5B6DEBCC69}|MontreWild\\MontreWild.csproj|C:\\Users\\emmas\\source\\repos\\AppDev-Final-Project\\ANIMAL\\Animals\\MontreWild\\montrewild\\mammaldisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{726963DA-2B3B-4267-A424-6C5B6DEBCC69}|MontreWild\\MontreWild.csproj|solutionrelative:montrewild\\mammaldisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{726963DA-2B3B-4267-A424-6C5B6DEBCC69}|MontreWild\\MontreWild.csproj|C:\\Users\\emmas\\source\\repos\\AppDev-Final-Project\\ANIMAL\\Animals\\MontreWild\\montrewild\\mammaldisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{726963DA-2B3B-4267-A424-6C5B6DEBCC69}|MontreWild\\MontreWild.csproj|solutionrelative:montrewild\\mammaldisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{726963DA-2B3B-4267-A424-6C5B6DEBCC69}|MontreWild\\MontreWild.csproj|C:\\Users\\emmas\\source\\repos\\AppDev-Final-Project\\ANIMAL\\Animals\\MontreWild\\montrewild\\animalmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{726963DA-2B3B-4267-A424-6C5B6DEBCC69}|MontreWild\\MontreWild.csproj|solutionrelative:montrewild\\animalmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{726963DA-2B3B-4267-A424-6C5B6DEBCC69}|MontreWild\\MontreWild.csproj|C:\\Users\\emmas\\source\\repos\\AppDev-Final-Project\\ANIMAL\\Animals\\MontreWild\\montrewild\\changelanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{726963DA-2B3B-4267-A424-6C5B6DEBCC69}|MontreWild\\MontreWild.csproj|solutionrelative:montrewild\\changelanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{726963DA-2B3B-4267-A424-6C5B6DEBCC69}|MontreWild\\MontreWild.csproj|C:\\Users\\emmas\\source\\repos\\AppDev-Final-Project\\ANIMAL\\Animals\\MontreWild\\montrewild\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{726963DA-2B3B-4267-A424-6C5B6DEBCC69}|MontreWild\\MontreWild.csproj|solutionrelative:montrewild\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|MontreWild||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{726963DA-2B3B-4267-A424-6C5B6DEBCC69}|MontreWild\\MontreWild.csproj|C:\\Users\\emmas\\source\\repos\\AppDev-Final-Project\\ANIMAL\\Animals\\MontreWild\\montrewild\\animalmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{726963DA-2B3B-4267-A424-6C5B6DEBCC69}|MontreWild\\MontreWild.csproj|solutionrelative:montrewild\\animalmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{726963DA-2B3B-4267-A424-6C5B6DEBCC69}|MontreWild\\MontreWild.csproj|C:\\Users\\emmas\\source\\repos\\AppDev-Final-Project\\ANIMAL\\Animals\\MontreWild\\montrewild\\animalmainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{726963DA-2B3B-4267-A424-6C5B6DEBCC69}|MontreWild\\MontreWild.csproj|solutionrelative:montrewild\\animalmainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{726963DA-2B3B-4267-A424-6C5B6DEBCC69}|MontreWild\\MontreWild.csproj|C:\\Users\\emmas\\source\\repos\\AppDev-Final-Project\\ANIMAL\\Animals\\MontreWild\\montrewild\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{726963DA-2B3B-4267-A424-6C5B6DEBCC69}|MontreWild\\MontreWild.csproj|solutionrelative:montrewild\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AnimalMainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\emmas\\source\\repos\\AppDev-Final-Project\\ANIMAL\\Animals\\MontreWild\\MontreWild\\AnimalMainForm.cs",
+              "RelativeDocumentMoniker": "MontreWild\\AnimalMainForm.cs",
+              "ToolTip": "C:\\Users\\emmas\\AppDev\\AppDev-Final-Project\\Animals\\MontreWild\\MontreWild\\AnimalMainForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\AppDev\\AppDev-Final-Project\\Animals\\MontreWild\\MontreWild\\AnimalMainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T04:14:59.54Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Birds.cs",
+              "DocumentMoniker": "C:\\Users\\emmas\\source\\repos\\AppDev-Final-Project\\ANIMAL\\Animals\\MontreWild\\MontreWild\\Birds.cs",
+              "RelativeDocumentMoniker": "MontreWild\\Birds.cs",
+              "ToolTip": "C:\\Users\\emmas\\source\\repos\\AppDev-Final-Project\\ANIMAL\\Animals\\MontreWild\\MontreWild\\Birds.cs",
+              "RelativeToolTip": "MontreWild\\Birds.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T03:34:55.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OtherAnimal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\emmas\\source\\repos\\AppDev-Final-Project\\ANIMAL\\Animals\\MontreWild\\MontreWild\\OtherAnimal.cs",
+              "RelativeDocumentMoniker": "MontreWild\\OtherAnimal.cs",
+              "ToolTip": "C:\\Users\\emmas\\source\\repos\\AppDev-Final-Project\\ANIMAL\\Animals\\MontreWild\\MontreWild\\OtherAnimal.cs [Design]",
+              "RelativeToolTip": "MontreWild\\OtherAnimal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T02:55:18.613Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OtherAnimal.cs",
+              "DocumentMoniker": "C:\\Users\\emmas\\source\\repos\\AppDev-Final-Project\\ANIMAL\\Animals\\MontreWild\\MontreWild\\OtherAnimal.cs",
+              "RelativeDocumentMoniker": "MontreWild\\OtherAnimal.cs",
+              "ToolTip": "C:\\Users\\emmas\\source\\repos\\AppDev-Final-Project\\ANIMAL\\Animals\\MontreWild\\MontreWild\\OtherAnimal.cs",
+              "RelativeToolTip": "MontreWild\\OtherAnimal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T03:30:37.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emmas\\source\\repos\\AppDev-Final-Project\\ANIMAL\\Animals\\MontreWild\\MontreWild\\Program.cs",
+              "RelativeDocumentMoniker": "MontreWild\\Program.cs",
+              "ToolTip": "C:\\Users\\emmas\\source\\repos\\AppDev-Final-Project\\ANIMAL\\Animals\\MontreWild\\MontreWild\\Program.cs",
+              "RelativeToolTip": "MontreWild\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:52:13.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MammalDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\emmas\\source\\repos\\AppDev-Final-Project\\ANIMAL\\Animals\\MontreWild\\MontreWild\\MammalDisplay.cs",
+              "RelativeDocumentMoniker": "MontreWild\\MammalDisplay.cs",
+              "ToolTip": "C:\\Users\\emmas\\source\\repos\\AppDev-Final-Project\\ANIMAL\\Animals\\MontreWild\\MontreWild\\MammalDisplay.cs",
+              "RelativeToolTip": "MontreWild\\MammalDisplay.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T03:31:59.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MammalDisplay.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\emmas\\source\\repos\\AppDev-Final-Project\\ANIMAL\\Animals\\MontreWild\\MontreWild\\MammalDisplay.cs",
+              "RelativeDocumentMoniker": "MontreWild\\MammalDisplay.cs",
+              "ToolTip": "C:\\Users\\emmas\\AppDev\\AppDev-Final-Project\\Animals\\MontreWild\\MontreWild\\MammalDisplay.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\AppDev\\AppDev-Final-Project\\Animals\\MontreWild\\MontreWild\\MammalDisplay.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T02:55:19.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Birds.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\emmas\\source\\repos\\AppDev-Final-Project\\ANIMAL\\Animals\\MontreWild\\MontreWild\\Birds.cs",
+              "RelativeDocumentMoniker": "MontreWild\\Birds.cs",
+              "ToolTip": "C:\\Users\\emmas\\AppDev\\AppDev-Final-Project\\Animals\\MontreWild\\MontreWild\\Birds.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\AppDev\\AppDev-Final-Project\\Animals\\MontreWild\\MontreWild\\Birds.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T02:55:16.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AnimalMainForm.cs",
+              "DocumentMoniker": "C:\\Users\\emmas\\source\\repos\\AppDev-Final-Project\\ANIMAL\\Animals\\MontreWild\\MontreWild\\AnimalMainForm.cs",
+              "RelativeDocumentMoniker": "MontreWild\\AnimalMainForm.cs",
+              "ToolTip": "C:\\Users\\emmas\\source\\repos\\AppDev-Final-Project\\ANIMAL\\Animals\\MontreWild\\MontreWild\\AnimalMainForm.cs",
+              "RelativeToolTip": "MontreWild\\AnimalMainForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T02:52:57.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChangeLanguage.cs",
+              "DocumentMoniker": "C:\\Users\\emmas\\source\\repos\\AppDev-Final-Project\\ANIMAL\\Animals\\MontreWild\\MontreWild\\ChangeLanguage.cs",
+              "RelativeDocumentMoniker": "MontreWild\\ChangeLanguage.cs",
+              "ToolTip": "C:\\Users\\emmas\\AppDev\\AppDev-Final-Project\\Animals\\MontreWild\\MontreWild\\ChangeLanguage.cs*",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\AppDev\\AppDev-Final-Project\\Animals\\MontreWild\\MontreWild\\ChangeLanguage.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T04:48:40.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\emmas\\source\\repos\\AppDev-Final-Project\\ANIMAL\\Animals\\MontreWild\\MontreWild\\App.config",
+              "RelativeDocumentMoniker": "MontreWild\\App.config",
+              "ToolTip": "C:\\Users\\emmas\\source\\repos\\AppDev-Final-Project\\ANIMAL\\Animals\\MontreWild\\MontreWild\\App.config",
+              "RelativeToolTip": "MontreWild\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-15T18:53:52.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MontreWild",
+              "DocumentMoniker": "C:\\Users\\emmas\\source\\repos\\AppDev-Final-Project\\ANIMAL\\Animals\\MontreWild\\MontreWild\\MontreWild.csproj",
+              "RelativeDocumentMoniker": "MontreWild\\MontreWild.csproj",
+              "ToolTip": "C:\\Users\\emmas\\source\\repos\\AppDev-Final-Project\\ANIMAL\\Animals\\MontreWild\\MontreWild\\MontreWild.csproj",
+              "RelativeToolTip": "MontreWild\\MontreWild.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-15T19:34:19.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AnimalMainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\emmas\\source\\repos\\AppDev-Final-Project\\ANIMAL\\Animals\\MontreWild\\MontreWild\\AnimalMainForm.Designer.cs",
+              "RelativeDocumentMoniker": "MontreWild\\AnimalMainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\emmas\\source\\repos\\AppDev-Final-Project\\ANIMAL\\Animals\\MontreWild\\MontreWild\\AnimalMainForm.Designer.cs",
+              "RelativeToolTip": "MontreWild\\AnimalMainForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T02:54:45.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\Users\\emmas\\source\\repos\\AppDev-Final-Project\\ANIMAL\\Animals\\MontreWild\\MontreWild\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "MontreWild\\Properties\\Settings.settings",
+              "ToolTip": "C:\\Users\\emmas\\source\\repos\\AppDev-Final-Project\\ANIMAL\\Animals\\MontreWild\\MontreWild\\Properties\\Settings.settings",
+              "RelativeToolTip": "MontreWild\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-05-15T18:53:24.493Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

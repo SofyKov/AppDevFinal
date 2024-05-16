@@ -146,3 +146,5 @@ C:\Users\grech\OneDrive\Desktop\AppDevFinal\AppDev-Final-Project\G-Navigation\G-
 C:\Users\grech\OneDrive\Desktop\AppDevFinal\AppDev-Final-Project\G-Navigation\G-Navigation\obj\Debug\G_Navigation.GamesForm.es-MX.resources
 C:\Users\grech\OneDrive\Desktop\AppDevFinal\AppDev-Final-Project\G-Navigation\G-Navigation\obj\Debug\G_Navigation.GamesForm.fr-CA.resources
 C:\Users\grech\OneDrive\Desktop\AppDevFinal\AppDev-Final-Project\G-Navigation\G-Navigation\obj\Debug\G_Navigation.GamesForm.pt-PT.resources
+C:\Users\grech\OneDrive\Desktop\AppDevFinal\AppDev-Final-Project\G-Navigation\G-Navigation\bin\Debug\System.Buffers.dll
+C:\Users\grech\OneDrive\Desktop\AppDevFinal\AppDev-Final-Project\G-Navigation\G-Navigation\bin\Debug\System.Threading.Tasks.Extensions.dll

@@ -10,7 +10,7 @@
     <AssemblyName>MontreWild</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
-    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <AutoGenerateBindingRedirects>false</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
     <PublishUrl>publish\</PublishUrl>
     <Install>true</Install>
@@ -48,6 +48,9 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>MontreWild.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Azure.Core, Version=1.35.0.0, Culture=neutral, PublicKeyToken=92742159e12e44c8, processorArchitecture=MSIL">
@@ -170,6 +173,7 @@
     <Compile Include="Birds.Designer.cs">
       <DependentUpon>Birds.cs</DependentUpon>
     </Compile>
+    <Compile Include="ChangeLanguage.cs" />
     <Compile Include="MammalDisplay.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -198,6 +202,15 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AnimalMainForm.es-MX.resx">
+      <DependentUpon>AnimalMainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AnimalMainForm.fr-CA.resx">
+      <DependentUpon>AnimalMainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AnimalMainForm.pt-PT.resx">
+      <DependentUpon>AnimalMainForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Birds.resx">
       <DependentUpon>Birds.cs</DependentUpon>
     </EmbeddedResource>
@@ -253,6 +266,9 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <DependentUpon>MontreWildDB.mdf</DependentUpon>
     </Content>
+    <None Include="Resources\earth2.png" />
+    <None Include="Resources\earth1.png" />
+    <None Include="Resources\earth.png" />
     <None Include="Resources\other3.png" />
     <None Include="Resources\other2.png" />
     <None Include="Resources\other1.png" />
