@@ -26,7 +26,6 @@ namespace MontreWild
 
         private void mammalButton_Click(object sender, EventArgs e)
         {
-
             //Open Mammal Form
     
             mammalDisplay.Dock = DockStyle.Fill;
@@ -38,20 +37,32 @@ namespace MontreWild
             mainPanel.Visible = false;
 
             mammalDisplay.Show();
-
         }
 
         private void birdButton_Click(object sender, EventArgs e)
         {
             //Open Bird Form
-            this.Hide();
+            birdDisplay.Dock = DockStyle.Fill;
+
+            this.Controls.Add(birdDisplay);
+            //birdDisplay.Visible = false;
+            otherDisplay.Visible = false;
+            mainPanel.Visible = false;
+            mammalDisplay.Visible = false;
+
             birdDisplay.Show();
         }
 
         private void otherButton_Click(object sender, EventArgs e)
         {
             //Open Other Form
-            this.Hide();
+            birdDisplay.Dock = DockStyle.Fill;
+
+            this.Controls.Add(otherDisplay);
+            birdDisplay.Visible = false;
+            mammalDisplay.Visible = false;
+            mainPanel.Visible = false;
+
             otherDisplay.Show();
         }
 

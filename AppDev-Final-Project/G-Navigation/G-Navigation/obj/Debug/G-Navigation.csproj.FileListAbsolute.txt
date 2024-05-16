@@ -359,3 +359,6 @@ C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\G-Navigation\G-N
 C:\Users\grech\OneDrive\Desktop\USE THIS\AppDevFinal\AppDev-Final-Project\G-Navigation\G-Navigation\bin\Debug\Navigation.dll
 C:\Users\grech\OneDrive\Desktop\USE THIS\AppDevFinal\AppDev-Final-Project\G-Navigation\G-Navigation\bin\Debug\Navigation.pdb
 C:\Users\grech\OneDrive\Desktop\USE THIS\AppDevFinal\AppDev-Final-Project\G-Navigation\G-Navigation\bin\Debug\Navigation.dll.config
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\G-Navigation\G-Navigation\bin\Debug\Navigation.dll
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\G-Navigation\G-Navigation\bin\Debug\Navigation.pdb
+C:\Users\Sofy\Documents\GitHub\AppDevFinal\AppDev-Final-Project\G-Navigation\G-Navigation\bin\Debug\Navigation.dll.config

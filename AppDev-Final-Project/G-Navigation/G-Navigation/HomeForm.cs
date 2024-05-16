@@ -140,7 +140,7 @@ namespace G_Navigation
                     PictureAndVideoForm.Visible = false;
                     encyclopediaForm.Visible = false;
                     mapsForm.Visible = false;
-                    //floraForm.Visible = false;
+                    floraForm.Visible = false;
 
                     this.Controls.Add(animalForm);
 

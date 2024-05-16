@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics.Metrics;
 using System.Drawing;
 using System.Drawing.Text;
 using System.Linq;
@@ -319,6 +320,8 @@ namespace G_Navigation
                 // Shuffle array
                 shuffle(categoryChoice);
 
+                
+
                 // Display image on picture box
                 if (pictureBox != null && counter <= 4) // counter starts at 1 because images start at 1
                 {
@@ -408,7 +411,7 @@ namespace G_Navigation
                 gameWinPanel.Show();
 
                 // Reset counters and score for the next game
-                counter = 0;
+                counter =  1;
                 score = 0;
 
             }
