@@ -31,6 +31,7 @@
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(HomeForm));
             this.HomeMainPanel = new System.Windows.Forms.Panel();
+            this.Earth_btn = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.button9 = new System.Windows.Forms.Button();
             this.Maps_btn = new System.Windows.Forms.Button();
@@ -45,7 +46,6 @@
             this.tableAdapterManager = new G_Navigation.MontreWildDBDataSetTableAdapters.TableAdapterManager();
             this.combinedDataBindingSource1 = new System.Windows.Forms.BindingSource(this.components);
             this.combinedDataBindingSource2 = new System.Windows.Forms.BindingSource(this.components);
-            this.Earth_btn = new System.Windows.Forms.Button();
             this.HomeMainPanel.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.montreWildDBDataSet)).BeginInit();
@@ -74,11 +74,27 @@
             this.HomeMainPanel.Size = new System.Drawing.Size(1042, 523);
             this.HomeMainPanel.TabIndex = 11;
             // 
+            // Earth_btn
+            // 
+            this.Earth_btn.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.Earth_btn.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.Earth_btn.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.Earth_btn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Earth_btn.Font = new System.Drawing.Font("MS Reference Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Earth_btn.Location = new System.Drawing.Point(420, 404);
+            this.Earth_btn.Margin = new System.Windows.Forms.Padding(1);
+            this.Earth_btn.Name = "Earth_btn";
+            this.Earth_btn.Size = new System.Drawing.Size(240, 90);
+            this.Earth_btn.TabIndex = 19;
+            this.Earth_btn.Text = "EARTH";
+            this.Earth_btn.UseVisualStyleBackColor = true;
+            this.Earth_btn.Click += new System.EventHandler(this.Earth_btn_Click);
+            // 
             // pictureBox1
             // 
             this.pictureBox1.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(288, 180);
+            this.pictureBox1.Location = new System.Drawing.Point(289, 139);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(472, 173);
             this.pictureBox1.TabIndex = 18;
@@ -223,22 +239,6 @@
             // 
             this.combinedDataBindingSource2.DataMember = "CombinedData";
             this.combinedDataBindingSource2.DataSource = this.montreWildDBDataSet;
-            // 
-            // Earth_btn
-            // 
-            this.Earth_btn.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
-            this.Earth_btn.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.Earth_btn.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.Earth_btn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.Earth_btn.Font = new System.Drawing.Font("MS Reference Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Earth_btn.Location = new System.Drawing.Point(420, 404);
-            this.Earth_btn.Margin = new System.Windows.Forms.Padding(1);
-            this.Earth_btn.Name = "Earth_btn";
-            this.Earth_btn.Size = new System.Drawing.Size(240, 90);
-            this.Earth_btn.TabIndex = 19;
-            this.Earth_btn.Text = "EARTH";
-            this.Earth_btn.UseVisualStyleBackColor = true;
-            this.Earth_btn.Click += new System.EventHandler(this.Earth_btn_Click);
             // 
             // HomeForm
             // 

@@ -26,12 +26,10 @@ namespace G_Navigation
             InitializeComponent();
             NavigationItemSelected += NavigationForm_NavigationItemSelected;
             FormManager.RegisterHomeForm(this.HomeMainPanel);
-
         }
 
         public void showPanel()
         {
-
             HomeMainPanel.Visible = true;
             HomeMainPanel.Show();
         }
@@ -40,7 +38,6 @@ namespace G_Navigation
         {
             // TODO: This line of code loads data into the 'montreWildDBDataSet.CombinedData' table. You can move, or remove it, as needed.
             this.combinedDataTableAdapter.Fill(this.montreWildDBDataSet.CombinedData);
-
         }
 
         private void NavigationForm_NavigationItemSelected(object sender, string destination)
@@ -52,10 +49,13 @@ namespace G_Navigation
                     //encyclopediaForm.Dock = DockStyle.Fill;
 
                     gamesForm.Visible = false;
-                    encyclopediaForm.Visible = false;
-
                     //this.Controls.Add(encyclopediaForm);
                     HomeMainPanel.Visible = true;
+                    //animalForm.Visible = false;
+                    PictureAndVideoForm.Visible = false;
+                    encyclopediaForm.Visible = false;
+                    mapsForm.Visible = false;
+                    floraForm.Visible = false;
 
 
                     //encyclopediaForm.Show();
@@ -69,6 +69,9 @@ namespace G_Navigation
                     this.Controls.Add(encyclopediaForm);
                     HomeMainPanel.Visible = false;
                     floraForm.Visible = false;
+                    //animalForm.Visible = false;
+                    PictureAndVideoForm.Visible = false;
+                    mapsForm.Visible = false;
 
                     encyclopediaForm.Show();
 
@@ -79,8 +82,10 @@ namespace G_Navigation
                     gamesForm.Visible = true;
 
                     HomeMainPanel.Visible = false;
+                    //animalForm.Visible = false;
+                    PictureAndVideoForm.Visible = false;
                     encyclopediaForm.Visible = false;
-                    gamesForm.Visible = false;
+                    mapsForm.Visible = false;
                     floraForm.Visible = false;
 
                     this.Controls.Add(gamesForm);
@@ -94,8 +99,11 @@ namespace G_Navigation
                     aboutUsForm.Visible = true;
 
                     HomeMainPanel.Visible = false;
-                    encyclopediaForm.Visible = false;
+                    //animalForm.Visible = false;
                     gamesForm.Visible = false;
+                    PictureAndVideoForm.Visible = false;
+                    encyclopediaForm.Visible = false;
+                    mapsForm.Visible = false;
                     floraForm.Visible = false;
 
                     this.Controls.Add(aboutUsForm);
@@ -108,9 +116,13 @@ namespace G_Navigation
                     floraForm.Visible = true;
 
                     HomeMainPanel.Visible = false;
-                    encyclopediaForm.Visible = false;
+
+                    //animalForm.Visible = false;
                     gamesForm.Visible = false;
-                    floraForm.Visible = false;
+                    PictureAndVideoForm.Visible = false;
+                    encyclopediaForm.Visible = false;
+                    mapsForm.Visible = false;
+                    //floraForm.Visible = false;
 
                     this.Controls.Add(floraForm);
 
